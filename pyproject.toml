@@ -1,0 +1,16 @@
+[project]
+name = "connectionsbench"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "roman-collinge", email = "romancollinge@outlook.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+connectionsbench = "connectionsbench:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
