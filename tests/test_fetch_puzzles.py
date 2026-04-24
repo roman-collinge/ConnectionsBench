@@ -6,6 +6,7 @@ from pathlib import Path
 from unittest.mock import MagicMock, patch
 
 import pytest
+import requests
 
 from scripts.fetch_puzzles import fetch_puzzle, load_existing_dataset, parse_response
 
@@ -112,7 +113,8 @@ def test_load_existing_dataset_returns_empty_list_when_file_missing():
 def test_fetch_puzzle_returns_none_on_404():
     mock_response = MagicMock()
     mock_response.status_code = 404
-    with patch("scripts.fetch_puzzles.requests.get", return_value=mock_response):
+    with patch("scripts.fetch_puzzles.requests.Session") as mock_session:
+        mock_session.return_value.get.return_value = mock_response
         result = fetch_puzzle("2024-01-15")
     assert result is None
 
@@ -121,6 +123,14 @@ def test_fetch_puzzle_raises_on_non_json_content_type():
     mock_response = MagicMock()
     mock_response.status_code = 200
     mock_response.headers = {"Content-Type": "text/html"}
-    with patch("scripts.fetch_puzzles.requests.get", return_value=mock_response):
+    with patch("scripts.fetch_puzzles.requests.Session") as mock_session:
+        mock_session.return_value.get.return_value = mock_response
         with pytest.raises(ValueError, match="Unexpected content type"):
+            fetch_puzzle("2024-01-15")
+
+
+def test_fetch_puzzle_raises_on_request_exception():
+    with patch("scripts.fetch_puzzles.requests.Session") as mock_session:
+        mock_session.return_value.get.side_effect = requests.RequestException("connection timeout")
+        with pytest.raises(requests.RequestException):
             fetch_puzzle("2024-01-15")
