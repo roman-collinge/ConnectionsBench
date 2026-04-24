@@ -18,6 +18,23 @@ MOCK_RESPONSE = {
     ]
 }
 
+MOCK_IMAGE_RESPONSE = {
+    "categories": [
+        {
+            "title": "IMAGE GROUP",
+            "cards": [
+                {"position": 0, "image_url": "https://example.com/a.png"},
+                {"position": 1, "image_url": "https://example.com/b.png"},
+                {"position": 2, "image_url": "https://example.com/c.png"},
+                {"position": 3, "image_url": "https://example.com/d.png"},
+            ],
+        },
+        {"title": "MEDIUM GROUP", "cards": [{"content": "E"}, {"content": "F"}, {"content": "G"}, {"content": "H"}]},
+        {"title": "HARD GROUP", "cards": [{"content": "I"}, {"content": "J"}, {"content": "K"}, {"content": "L"}]},
+        {"title": "TRICKY GROUP", "cards": [{"content": "M"}, {"content": "N"}, {"content": "O"}, {"content": "P"}]},
+    ]
+}
+
 
 def test_parse_response_tiers_assigned_by_index():
     result = parse_response(MOCK_RESPONSE, puzzle_id=1, date="2023-06-12")
@@ -69,6 +86,22 @@ def test_parse_response_raises_on_wrong_category_count():
 def test_parse_response_raises_on_missing_categories_key():
     with pytest.raises(ValueError, match="Expected 4 categories, got 0"):
         parse_response({}, puzzle_id=1, date="2023-06-12")
+
+
+def test_parse_response_has_images_false_for_text_puzzle():
+    result = parse_response(MOCK_RESPONSE, puzzle_id=1, date="2023-06-12")
+    assert result["has_images"] is False
+
+
+def test_parse_response_has_images_true_for_image_puzzle():
+    result = parse_response(MOCK_IMAGE_RESPONSE, puzzle_id=1, date="2023-06-12")
+    assert result["has_images"] is True
+
+
+def test_parse_response_image_puzzle_has_empty_words_and_groups():
+    result = parse_response(MOCK_IMAGE_RESPONSE, puzzle_id=1, date="2023-06-12")
+    assert result["words"] == []
+    assert result["groups"] == []
 
 
 def test_load_existing_dataset_returns_empty_list_when_file_missing():
