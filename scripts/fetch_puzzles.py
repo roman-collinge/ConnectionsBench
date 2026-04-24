@@ -11,6 +11,8 @@ from pathlib import Path
 
 import requests
 from loguru import logger
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # When the connections game first released a puzzle
 _FIRST_PUZZLE_DATE = "2023-06-12"
@@ -63,19 +65,23 @@ def parse_response(data: dict, puzzle_id: int, date: str) -> dict:
 
 
 def fetch_puzzle(date: str) -> dict | None:
-    url = f"https://www.nytimes.com/svc/connections/v2/{date}.json"
-    puzzle_json = requests.get(url, timeout=10)
+    session = requests.Session()
+    retries = Retry(total=3, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
+    session.mount("https://", HTTPAdapter(max_retries=retries))
 
-    if puzzle_json.status_code == 404:
+    url = f"https://www.nytimes.com/svc/connections/v2/{date}.json"
+    response = session.get(url, timeout=10)
+
+    if response.status_code == 404:
         return None
 
-    puzzle_json.raise_for_status()
+    response.raise_for_status()
 
-    content_type = puzzle_json.headers.get("Content-Type", "")
-    if "application/json" not in puzzle_json.headers.get("Content-Type", ""):
+    content_type = response.headers.get("Content-Type", "")
+    if "application/json" not in content_type:
         raise ValueError(f"Unexpected content type: {content_type}")
 
-    return puzzle_json.json()
+    return response.json()
 
 
 def load_existing_dataset(data_file: Path) -> list[dict]:
@@ -118,7 +124,12 @@ def main(data_file: Path) -> None:
         date_str = current.strftime("%Y-%m-%d")
         logger.info(f"Fetching #{next_id} ({date_str})")
 
-        data = fetch_puzzle(date_str)
+        try:
+            data = fetch_puzzle(date_str)
+        except requests.RequestException as error:
+            logger.error(f"Failed to fetch {date_str} after retries: {error}")
+            current += timedelta(days=1)
+            continue
         if data is None:
             logger.warning(f"No puzzle found for {date_str}, skipping")
             current += timedelta(days=1)
