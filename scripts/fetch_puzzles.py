@@ -31,7 +31,7 @@ def parse_response(data: dict, puzzle_id: int, date: str) -> dict:
     # Collate groups and words for each day's puzzle
     for i, category in enumerate(categories):
         members = [card["content"] for card in category["cards"]]
-        words.extend(groups)
+        words.extend(members)
         groups.append(
             {
                 "label": category["title"],
