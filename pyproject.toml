@@ -6,7 +6,10 @@ authors = [
     { name = "roman-collinge", email = "romancollinge@outlook.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "loguru>=0.7.3",
+    "requests>=2.33.1",
+]
 
 [project.scripts]
 connectionsbench = "connectionsbench:main"
@@ -22,7 +25,12 @@ lint.ignore = [
     # empty
 ]
 
+[tool.ruff.lint.per-file-ignores]
+"**tests/**" = ["S101"]
+
 [dependency-groups]
 dev = [
+    "pytest>=9.0.3",
+    "pytest-cov>=7.1.0",
     "ruff>=0.15.11",
 ]
