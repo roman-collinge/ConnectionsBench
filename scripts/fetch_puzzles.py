@@ -28,9 +28,18 @@ def parse_response(data: dict, puzzle_id: int, date: str) -> dict:
 
     groups = []
     words = []
+    has_images = False
+
     # Collate groups and words for each day's puzzle
     for i, category in enumerate(categories):
-        members = [card["content"] for card in category["cards"]]
+        members = []
+        for card in category["cards"]:
+            if "content" in card:
+                members.append(card["content"])
+            elif "image_url" in card:
+                has_images = True
+            else:
+                raise ValueError(f"Card has neither 'content' nor 'image_url': {card}")
         words.extend(members)
         groups.append(
             {
@@ -40,12 +49,16 @@ def parse_response(data: dict, puzzle_id: int, date: str) -> dict:
             }
         )
 
+    if has_images:
+        logger.warning(f"Puzzle #{puzzle_id} ({date}) is image-based — storing with has_images flag")
+
     return {
         "schema_version": _SCHEMA_VERSION,
         "id": puzzle_id,
         "date": date,
-        "words": words,
-        "groups": groups,
+        "has_images": has_images,
+        "words": words if not has_images else [],
+        "groups": groups if not has_images else [],
     }
 
 
