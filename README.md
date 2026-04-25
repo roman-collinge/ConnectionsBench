@@ -7,7 +7,8 @@ across 1000+ puzzles with built-in difficulty tiers. Tracks model accuracy by ti
 
 - [x] Project scaffold
 - [x] Data pipeline
-- [ ] Models + loader
+- [x] Models
+- [ ] Loader
 - [ ] Scorer
 - [ ] Runner
 - [ ] CLI
