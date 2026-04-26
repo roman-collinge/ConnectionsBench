@@ -47,3 +47,19 @@ def test_score_none_correct():
     result = score_puzzle(PUZZLE, answer, model="test-model")
     assert result.solved is False
     assert result.groups_correct == 0
+
+
+def test_score_tier_results_all_correct():
+    answer = ModelAnswer(
+        groups=[
+            ["A", "B", "C", "D"],
+            ["E", "F", "G", "H"],
+            ["I", "J", "K", "L"],
+            ["M", "N", "O", "P"],
+        ]
+    )
+    result = score_puzzle(PUZZLE, answer, model="test-model")
+    assert result.tier_results[Tier.YELLOW] is True
+    assert result.tier_results[Tier.GREEN] is True
+    assert result.tier_results[Tier.BLUE] is True
+    assert result.tier_results[Tier.PURPLE] is True
