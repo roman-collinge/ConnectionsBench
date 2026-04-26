@@ -7,7 +7,7 @@ from datetime import date
 import pytest
 from pydantic import ValidationError
 
-from src.connectionsbench.models import Group, Puzzle, Tier
+from src.connectionsbench.models import Group, GroupResult, ModelAnswer, Puzzle, PuzzleResult, Tier
 
 # Tier tests
 
@@ -94,3 +94,81 @@ def test_puzzle_rejects_too_many_groups():
             words=[],
             groups=[Group(label=f"G{i}", tier=Tier.YELLOW, members=["A", "B", "C", "D"]) for i in range(5)],
         )
+
+
+# ModelAnswer tests
+
+
+def test_model_answer_valid():
+    answer = ModelAnswer(
+        groups=[
+            ["A", "B", "C", "D"],
+            ["E", "F", "G", "H"],
+            ["I", "J", "K", "L"],
+            ["M", "N", "O", "P"],
+        ]
+    )
+    assert len(answer.groups) == 4
+
+
+def test_model_answer_rejects_wrong_group_count():
+    with pytest.raises(ValidationError):
+        ModelAnswer(groups=[["A", "B", "C", "D"]])
+
+
+# GroupResult tests
+
+
+def test_group_result_correct():
+    result = GroupResult(correct=True, tier=Tier.YELLOW)
+    assert result.correct is True
+    assert result.tier == Tier.YELLOW
+
+
+def test_group_result_incorrect_has_no_tier():
+    result = GroupResult(correct=False)
+    assert result.correct is False
+    assert result.tier is None
+
+
+# PuzzleResult tests
+
+
+def test_puzzle_result_valid():
+    result = PuzzleResult(
+        puzzle_id=1,
+        model="claude-sonnet-4-5",
+        solved=True,
+        groups_correct=4,
+        tier_results={
+            Tier.YELLOW: True,
+            Tier.GREEN: True,
+            Tier.BLUE: True,
+            Tier.PURPLE: True,
+        },
+    )
+    assert result.solved is True
+    assert result.groups_correct == 4
+
+
+def test_puzzle_result_rejects_invalid_groups_correct():
+    with pytest.raises(ValidationError):
+        PuzzleResult(puzzle_id=1, model="claude-sonnet-4-5", solved=False, groups_correct=5, tier_results={})
+
+
+def test_puzzle_result_partial():
+    result = PuzzleResult(
+        puzzle_id=1,
+        model="gpt-4o",
+        solved=False,
+        groups_correct=2,
+        tier_results={
+            Tier.YELLOW: True,
+            Tier.GREEN: True,
+            Tier.BLUE: False,
+            Tier.PURPLE: False,
+        },
+    )
+    assert result.solved is False
+    assert result.groups_correct == 2
+    assert result.tier_results[Tier.PURPLE] is False
