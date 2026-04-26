@@ -7,6 +7,9 @@ from src.connectionsbench.models import ModelAnswer, Puzzle, PuzzleResult, Tier
 
 
 def score_puzzle(puzzle: Puzzle, answer: ModelAnswer, model: str) -> PuzzleResult:
+    if puzzle.has_images:
+        raise ValueError(f"Cannot score image puzzle #{puzzle.id}")
+
     correct_groups = {frozenset(group.members): group.tier for group in puzzle.groups}
 
     tier_results: dict[Tier, bool] = {}
