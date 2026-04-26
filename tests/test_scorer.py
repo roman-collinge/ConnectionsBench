@@ -3,8 +3,10 @@ Tests for scorer.py
 """
 
 from datetime import date
-from src.connectionsbench.models import Group, ModelAnswer, Puzzle, Tier
+from src.connectionsbench.models import Group, ModelAnswer, Puzzle, Tier, PuzzleResult
 from src.connectionsbench.scorer import score_puzzle
+
+import pytest
 
 PUZZLE = Puzzle(
     schema_version=1,
@@ -124,3 +126,39 @@ def test_score_one_word_swapped_between_groups():
     assert result.tier_results[Tier.GREEN] is False
     assert result.tier_results[Tier.BLUE] is True
     assert result.tier_results[Tier.PURPLE] is True
+
+
+def test_score_returns_puzzle_result():
+    answer = ModelAnswer(
+        groups=[
+            ["A", "B", "C", "D"],
+            ["E", "F", "G", "H"],
+            ["I", "J", "K", "L"],
+            ["M", "N", "O", "P"],
+        ]
+    )
+    result = score_puzzle(PUZZLE, answer, model="test-model")
+    assert isinstance(result, PuzzleResult)
+    assert result.puzzle_id == 1
+    assert result.model == "test-model"
+
+
+def test_score_raises_on_image_puzzle():
+    image_puzzle = Puzzle(
+        schema_version=1,
+        id=2,
+        date=date(2023, 6, 13),
+        has_images=True,
+        words=[],
+        groups=[],
+    )
+    answer = ModelAnswer(
+        groups=[
+            ["A", "B", "C", "D"],
+            ["E", "F", "G", "H"],
+            ["I", "J", "K", "L"],
+            ["M", "N", "O", "P"],
+        ]
+    )
+    with pytest.raises(ValueError, match="Cannot score image puzzle"):
+        score_puzzle(image_puzzle, answer, model="test-model")
