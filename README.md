@@ -9,7 +9,7 @@ across 1000+ puzzles with built-in difficulty tiers. Tracks model accuracy by ti
 - [x] Data pipeline
 - [x] Models
 - [x] Loader
-- [ ] Scorer
+- [x] Scorer
 - [ ] Runner
 - [ ] CLI
 - [ ] First benchmark run
