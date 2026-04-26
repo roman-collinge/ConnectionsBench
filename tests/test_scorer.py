@@ -93,3 +93,17 @@ def test_score_order_independent():
     result = score_puzzle(PUZZLE, answer, model="test-model")
     assert result.solved is True
     assert result.groups_correct == 4
+
+
+def test_score_members_order_independent():
+    answer = ModelAnswer(
+        groups=[
+            ["D", "C", "B", "A"],
+            ["H", "G", "F", "E"],
+            ["L", "K", "J", "I"],
+            ["P", "O", "N", "M"],
+        ]
+    )
+    result = score_puzzle(PUZZLE, answer, model="test-model")
+    assert result.solved is True
+    assert result.groups_correct == 4
