@@ -162,3 +162,17 @@ def test_score_raises_on_image_puzzle():
     )
     with pytest.raises(ValueError, match="Cannot score image puzzle"):
         score_puzzle(image_puzzle, answer, model="test-model")
+
+
+def test_score_duplicate_groups_not_double_counted():
+    answer = ModelAnswer(
+        groups=[
+            ["A", "B", "C", "D"],
+            ["A", "B", "C", "D"],
+            ["A", "B", "C", "D"],
+            ["A", "B", "C", "D"],
+        ]
+    )
+    result = score_puzzle(PUZZLE, answer, model="test-model")
+    assert result.groups_correct == 1
+    assert result.solved is False
