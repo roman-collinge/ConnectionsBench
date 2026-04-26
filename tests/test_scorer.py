@@ -63,3 +63,19 @@ def test_score_tier_results_all_correct():
     assert result.tier_results[Tier.GREEN] is True
     assert result.tier_results[Tier.BLUE] is True
     assert result.tier_results[Tier.PURPLE] is True
+
+
+def test_score_tier_results_partial():
+    answer = ModelAnswer(
+        groups=[
+            ["A", "B", "C", "D"],
+            ["E", "F", "G", "H"],
+            ["I", "J", "K", "M"],
+            ["L", "N", "O", "P"],
+        ]
+    )
+    result = score_puzzle(PUZZLE, answer, model="test-model")
+    assert result.tier_results[Tier.YELLOW] is True
+    assert result.tier_results[Tier.GREEN] is True
+    assert result.tier_results[Tier.BLUE] is False
+    assert result.tier_results[Tier.PURPLE] is False
