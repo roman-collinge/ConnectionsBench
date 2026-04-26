@@ -14,13 +14,15 @@ def score_puzzle(puzzle: Puzzle, answer: ModelAnswer, model: str) -> PuzzleResul
 
     tier_results: dict[Tier, bool] = {}
     groups_correct = 0
+    matched = set()
 
     for proposed in answer.groups:
         proposed_set = frozenset(proposed)
-        if proposed_set in correct_groups:
+        if proposed_set in correct_groups and proposed_set not in matched:
             tier = correct_groups[proposed_set]
             tier_results[tier] = True
             groups_correct += 1
+            matched.add(proposed_set)
 
     for group in puzzle.groups:
         if group.tier not in tier_results:
