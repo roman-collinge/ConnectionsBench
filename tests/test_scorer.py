@@ -33,3 +33,17 @@ def test_score_all_correct():
     result = score_puzzle(PUZZLE, answer, model="test-model")
     assert result.solved is True
     assert result.groups_correct == 4
+
+
+def test_score_none_correct():
+    answer = ModelAnswer(
+        groups=[
+            ["A", "B", "C", "E"],
+            ["D", "F", "G", "H"],
+            ["I", "J", "K", "M"],
+            ["L", "N", "O", "P"],
+        ]
+    )
+    result = score_puzzle(PUZZLE, answer, model="test-model")
+    assert result.solved is False
+    assert result.groups_correct == 0
