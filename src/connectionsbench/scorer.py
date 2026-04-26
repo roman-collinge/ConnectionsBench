@@ -1,6 +1,5 @@
 """
 Scores a model's answer against the correct puzzle solution.
-Pure function — no I/O, no API calls.
 """
 
 from src.connectionsbench.models import ModelAnswer, Puzzle, PuzzleResult, Tier
