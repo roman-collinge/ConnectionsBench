@@ -107,3 +107,20 @@ def test_score_members_order_independent():
     result = score_puzzle(PUZZLE, answer, model="test-model")
     assert result.solved is True
     assert result.groups_correct == 4
+
+
+def test_score_one_word_swapped_between_groups():
+    answer = ModelAnswer(
+        groups=[
+            ["A", "B", "C", "E"],
+            ["D", "F", "G", "H"],
+            ["I", "J", "K", "L"],
+            ["M", "N", "O", "P"],
+        ]
+    )
+    result = score_puzzle(PUZZLE, answer, model="test-model")
+    assert result.groups_correct == 2
+    assert result.tier_results[Tier.YELLOW] is False
+    assert result.tier_results[Tier.GREEN] is False
+    assert result.tier_results[Tier.BLUE] is True
+    assert result.tier_results[Tier.PURPLE] is True
