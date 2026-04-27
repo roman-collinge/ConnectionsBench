@@ -49,11 +49,12 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit new puzzle
+      - name: Commit new puzzles
         if: steps.changes.outputs.changed == 'true'
         run: |
           git add data/connections.json
-          git commit -m "data: add puzzle for $(date +%Y-%m-%d)"
+          ADDED=$(git diff --cached data/connections.json | grep '"date"' | wc -l)
+          git commit -m "data: add $ADDED puzzle(s) up to $(date +%Y-%m-%d)"
 
       - name: Push branch
         if: steps.changes.outputs.changed == 'true'
