@@ -19,7 +19,7 @@ jobs:
       - name: Configure git identity
         run: |
           git config user.name "Roman Collinge"
-          git config user.email "your@email.com"
+          git config user.email "romancollinge@outlook.com"
 
       - name: Switch to or create data/daily-fetch branch
         run: |
