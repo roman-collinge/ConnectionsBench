@@ -1,0 +1,74 @@
+name: Daily Puzzle Fetch
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # 7am UTC, 8am BST — safely after midnight ET release
+  workflow_dispatch:  # allow manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          fetch-depth: 0
+
+      - name: Configure git identity
+        run: |
+          git config user.name "Roman Collinge"
+          git config user.email "your@email.com"
+
+      - name: Switch to or create data/daily-fetch branch
+        run: |
+          git fetch origin
+          if git ls-remote --exit-code --heads origin data/daily-fetch; then
+            git checkout data/daily-fetch
+            git pull origin data/daily-fetch
+          else
+            git checkout -b data/daily-fetch
+          fi
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run fetch
+        run: uv run python scripts/fetch_puzzles.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet data/connections.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit new puzzle
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git add data/connections.json
+          git commit -m "data: add puzzle for $(date +%Y-%m-%d)"
+
+      - name: Push branch
+        if: steps.changes.outputs.changed == 'true'
+        run: git push origin data/daily-fetch
+
+      - name: Create PR if none exists
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          PR_COUNT=$(gh pr list --head data/daily-fetch --state open --json number --jq length)
+          if [ "$PR_COUNT" -eq 0 ]; then
+            gh pr create \
+              --title "data: daily puzzle fetch" \
+              --body "Automated daily fetch of new NYT Connections puzzles. Review and merge to approve." \
+              --head data/daily-fetch \
+              --base main
+          fi
