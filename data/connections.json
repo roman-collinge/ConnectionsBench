@@ -68752,5 +68752,203 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1048,
+        "date": "2026-04-25",
+        "has_images": false,
+        "words": [
+            "ENAMEL",
+            "HAIR",
+            "NAIL",
+            "SKIN",
+            "CROWD",
+            "HAYSTACK",
+            "MILLION",
+            "OCEAN",
+            "COPPER",
+            "DICK",
+            "FLATFOOT",
+            "GUMSHOE",
+            "CAST IRON",
+            "CHUCK E. CHEESE",
+            "HURLY-BURLY",
+            "PITCHFORK"
+        ],
+        "groups": [
+            {
+                "label": "BODY COVERINGS",
+                "tier": "Yellow",
+                "members": [
+                    "ENAMEL",
+                    "HAIR",
+                    "NAIL",
+                    "SKIN"
+                ]
+            },
+            {
+                "label": "MASSES, IN IDIOMS",
+                "tier": "Green",
+                "members": [
+                    "CROWD",
+                    "HAYSTACK",
+                    "MILLION",
+                    "OCEAN"
+                ]
+            },
+            {
+                "label": "OLD TIMEY SLANG FOR LAW ENFORCEMENT",
+                "tier": "Blue",
+                "members": [
+                    "COPPER",
+                    "DICK",
+                    "FLATFOOT",
+                    "GUMSHOE"
+                ]
+            },
+            {
+                "label": "STARTING WITH SYNONYMS FOR \"THROW\"",
+                "tier": "Purple",
+                "members": [
+                    "CAST IRON",
+                    "CHUCK E. CHEESE",
+                    "HURLY-BURLY",
+                    "PITCHFORK"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1049,
+        "date": "2026-04-26",
+        "has_images": false,
+        "words": [
+            "CATCH",
+            "CAVEAT",
+            "FINE PRINT",
+            "STRINGS",
+            "PITCH",
+            "RANGE",
+            "REGISTER",
+            "TONE",
+            "DICK",
+            "JANE",
+            "MOTHER",
+            "SPOT",
+            "BUILDING",
+            "CLIFF",
+            "CLOCK",
+            "POLYHEDRON"
+        ],
+        "groups": [
+            {
+                "label": "STIPULATION",
+                "tier": "Yellow",
+                "members": [
+                    "CATCH",
+                    "CAVEAT",
+                    "FINE PRINT",
+                    "STRINGS"
+                ]
+            },
+            {
+                "label": "VOCAL CHARACTERISTICS",
+                "tier": "Green",
+                "members": [
+                    "PITCH",
+                    "RANGE",
+                    "REGISTER",
+                    "TONE"
+                ]
+            },
+            {
+                "label": "CHARACTERS IN \"DICK AND JANE\"",
+                "tier": "Blue",
+                "members": [
+                    "DICK",
+                    "JANE",
+                    "MOTHER",
+                    "SPOT"
+                ]
+            },
+            {
+                "label": "THINGS WITH FACES",
+                "tier": "Purple",
+                "members": [
+                    "BUILDING",
+                    "CLIFF",
+                    "CLOCK",
+                    "POLYHEDRON"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1050,
+        "date": "2026-04-27",
+        "has_images": false,
+        "words": [
+            "RANCH DRESSING",
+            "RED ONION",
+            "ROASTED CHICKEN",
+            "ROMAINE LETTUCE",
+            "RAIN MAN",
+            "REAR WINDOW",
+            "RESERVOIR DOGS",
+            "ROMAN HOLIDAY",
+            "RADIOACTIVE MAN",
+            "RALPH WIGGUM",
+            "REVEREND LOVEJOY",
+            "ROD FLANDERS",
+            "RAGING BULL",
+            "REGINA KING",
+            "ROE BUCK",
+            "ROTARY CLIPPER"
+        ],
+        "groups": [
+            {
+                "label": "SALAD INGREDIENTS",
+                "tier": "Yellow",
+                "members": [
+                    "RANCH DRESSING",
+                    "RED ONION",
+                    "ROASTED CHICKEN",
+                    "ROMAINE LETTUCE"
+                ]
+            },
+            {
+                "label": "CLASSIC FILMS",
+                "tier": "Green",
+                "members": [
+                    "RAIN MAN",
+                    "REAR WINDOW",
+                    "RESERVOIR DOGS",
+                    "ROMAN HOLIDAY"
+                ]
+            },
+            {
+                "label": "\"THE SIMPSONS\" CHARACTERS",
+                "tier": "Blue",
+                "members": [
+                    "RADIOACTIVE MAN",
+                    "RALPH WIGGUM",
+                    "REVEREND LOVEJOY",
+                    "ROD FLANDERS"
+                ]
+            },
+            {
+                "label": "ENDING IN NBA PLAYERS",
+                "tier": "Purple",
+                "members": [
+                    "RAGING BULL",
+                    "REGINA KING",
+                    "ROE BUCK",
+                    "ROTARY CLIPPER"
+                ]
+            }
+        ]
     }
 ]
