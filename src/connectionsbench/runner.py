@@ -1,6 +1,8 @@
 import random
 
-from src.connectionsbench.models import Puzzle
+from pydantic_ai import Agent
+
+from src.connectionsbench.models import Puzzle, ModelAnswer
 
 _PROMPT_TEMPLATE = """You are solving a NYT Connections puzzle.
 
@@ -26,5 +28,7 @@ def build_prompt(puzzle: Puzzle) -> str:
     return _PROMPT_TEMPLATE.format(words=", ".join(words))
 
 
-def run_puzzle():
-    pass
+def run_puzzle(puzzle: Puzzle, model: str) -> ModelAnswer:
+    agent = Agent(model, result_type=ModelAnswer)
+    result = agent.run_sync("")
+    return result.data
