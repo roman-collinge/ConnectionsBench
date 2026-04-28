@@ -62,3 +62,17 @@ def test_run_puzzle_returns_model_answer():
         result = run_puzzle(PUZZLE, model="openai:gpt-4o")
     assert isinstance(result, ModelAnswer)
     assert len(result.groups) == 4
+
+
+def test_run_puzzle_passes_model_string_to_agent():
+    mock_result = MagicMock()
+    mock_result.data = ModelAnswer(groups=[
+        ["A", "B", "C", "D"],
+        ["E", "F", "G", "H"],
+        ["I", "J", "K", "L"],
+        ["M", "N", "O", "P"],
+    ])
+    with patch("src.connectionsbench.runner.Agent") as mock_agent:
+        mock_agent.return_value.run_sync.return_value = mock_result
+        run_puzzle(PUZZLE, model="openai:gpt-4o")
+    mock_agent.assert_called_once_with("openai:gpt-4o", result_type=ModelAnswer)
