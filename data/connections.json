@@ -68950,5 +68950,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1051,
+        "date": "2026-04-28",
+        "has_images": false,
+        "words": [
+            "APPEAL",
+            "BID",
+            "CALL",
+            "REQUEST",
+            "DRY",
+            "FOLD",
+            "SORT",
+            "WASH",
+            "CHECK",
+            "COUPON",
+            "MATCH",
+            "STAMP",
+            "DIAL",
+            "FLOWER",
+            "SCREEN",
+            "TAN"
+        ],
+        "groups": [
+            {
+                "label": "ENTREATY",
+                "tier": "Yellow",
+                "members": [
+                    "APPEAL",
+                    "BID",
+                    "CALL",
+                    "REQUEST"
+                ]
+            },
+            {
+                "label": "LAUNDRY DAY VERBS",
+                "tier": "Green",
+                "members": [
+                    "DRY",
+                    "FOLD",
+                    "SORT",
+                    "WASH"
+                ]
+            },
+            {
+                "label": "THINGS THAT COME IN \"BOOKS\"",
+                "tier": "Blue",
+                "members": [
+                    "CHECK",
+                    "COUPON",
+                    "MATCH",
+                    "STAMP"
+                ]
+            },
+            {
+                "label": "SUN___",
+                "tier": "Purple",
+                "members": [
+                    "DIAL",
+                    "FLOWER",
+                    "SCREEN",
+                    "TAN"
+                ]
+            }
+        ]
     }
 ]
