@@ -4,10 +4,12 @@ Mocks PydanticAI agent to avoid real API calls in test suite.
 """
 
 from datetime import date
-from src.connectionsbench.models import Group, Puzzle, Tier
+from unittest.mock import MagicMock, patch
+
 import pytest
-from src.connectionsbench.runner import build_prompt
-from unittest.mock import patch
+
+from src.connectionsbench.models import Group, Puzzle, Tier, ModelAnswer
+from src.connectionsbench.runner import build_prompt, run_puzzle
 
 PUZZLE = Puzzle(
     schema_version=1,
@@ -43,3 +45,20 @@ def test_build_prompt_raises_on_image_puzzle():
     image_puzzle = Puzzle(schema_version=1, id=2, date=date(2023, 6, 13), has_images=True, words=[], groups=[])
     with pytest.raises(ValueError, match="Cannot run image puzzle"):
         build_prompt(image_puzzle)
+
+
+# run_puzzle tests
+
+def test_run_puzzle_returns_model_answer():
+    mock_result = MagicMock()
+    mock_result.data = ModelAnswer(groups=[
+        ["A", "B", "C", "D"],
+        ["E", "F", "G", "H"],
+        ["I", "J", "K", "L"],
+        ["M", "N", "O", "P"],
+    ])
+    with patch("src.connectionsbench.runner.Agent") as mock_agent:
+        mock_agent.return_value.run_sync.return_value = mock_result
+        result = run_puzzle(PUZZLE, model="openai:gpt-4o")
+    assert isinstance(result, ModelAnswer)
+    assert len(result.groups) == 4

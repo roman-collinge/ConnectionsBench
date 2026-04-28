@@ -24,3 +24,7 @@ def build_prompt(puzzle: Puzzle) -> str:
     words = puzzle.words.copy()
     random.shuffle(words)
     return _PROMPT_TEMPLATE.format(words=", ".join(words))
+
+
+def run_puzzle():
+    pass
