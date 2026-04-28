@@ -32,5 +32,6 @@ def run_puzzle(puzzle: Puzzle, model: str) -> ModelAnswer:
     if puzzle.has_images:
         raise ValueError(f"Cannot run image puzzle #{puzzle.id}")
     agent = Agent(model, result_type=ModelAnswer)
-    result = agent.run_sync("")
+    prompt = build_prompt(puzzle)
+    result = agent.run_sync(prompt)
     return result.data
