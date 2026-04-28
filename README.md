@@ -10,7 +10,7 @@ across 1000+ puzzles with built-in difficulty tiers. Tracks model accuracy by ti
 - [x] Models
 - [x] Loader
 - [x] Scorer
-- [ ] Runner
+- [x] Runner
 - [ ] CLI
 - [ ] First benchmark run
 - [ ] Results + leaderboard
@@ -59,6 +59,11 @@ difficulty-tiered: Yellow (straightforward) → Green → Blue → Purple (later
 
 Each model receives the 16 words and must return 4 groups in a single attempt with no hints. Scoring is exact
 set-match — a group is correct only if all 4 members are right.
+
+**Prompt design:** Words are presented as a comma-separated list in randomised order
+per run. Shuffling prevents exploitation of positional patterns. NYT returns words
+in difficulty order (Yellow→Purple), so a model with training data exposure could
+use position as a signal rather than semantic reasoning.
 
 **Metrics:**
 
