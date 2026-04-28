@@ -5,6 +5,7 @@ Mocks PydanticAI agent to avoid real API calls in test suite.
 
 from datetime import date
 from src.connectionsbench.models import Group, Puzzle, Tier
+import pytest
 from src.connectionsbench.runner import build_prompt
 from unittest.mock import patch
 
@@ -36,3 +37,9 @@ def test_build_prompt_shuffles_words():
     with patch("src.connectionsbench.runner.random.shuffle") as mock_shuffle:
         build_prompt(PUZZLE)
     mock_shuffle.assert_called_once()
+
+
+def test_build_prompt_raises_on_image_puzzle():
+    image_puzzle = Puzzle(schema_version=1, id=2, date=date(2023, 6, 13), has_images=True, words=[], groups=[])
+    with pytest.raises(ValueError, match="Cannot run image puzzle"):
+        build_prompt(image_puzzle)
