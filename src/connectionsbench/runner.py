@@ -1,3 +1,4 @@
+import random
 from src.connectionsbench.models import Puzzle
 
 _PROMPT_TEMPLATE = """You are solving a NYT Connections puzzle.
@@ -16,6 +17,7 @@ Return your answer as 4 groups of 4 words. Do not include explanations or labels
 
 
 def build_prompt(puzzle: Puzzle) -> str:
-    """Build the prompt for a puzzle."""
+    """Build the prompt for a puzzle, shuffling words to prevent position bias."""
     words = puzzle.words.copy()
+    random.shuffle(words)
     return _PROMPT_TEMPLATE.format(words=", ".join(words))
