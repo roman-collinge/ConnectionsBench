@@ -76,3 +76,12 @@ def test_run_puzzle_passes_model_string_to_agent():
         mock_agent.return_value.run_sync.return_value = mock_result
         run_puzzle(PUZZLE, model="openai:gpt-4o")
     mock_agent.assert_called_once_with("openai:gpt-4o", result_type=ModelAnswer)
+
+
+def test_run_puzzle_raises_on_image_puzzle():
+    image_puzzle = Puzzle(
+        schema_version=1, id=2, date=date(2023, 6, 13),
+        has_images=True, words=[], groups=[]
+    )
+    with pytest.raises(ValueError, match="Cannot run image puzzle"):
+        run_puzzle(image_puzzle, model="openai:gpt-4o")
