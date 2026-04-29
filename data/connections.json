@@ -69016,5 +69016,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1052,
+        "date": "2026-04-29",
+        "has_images": false,
+        "words": [
+            "LEVEL",
+            "PHASE",
+            "ROUND",
+            "STAGE",
+            "BOOM",
+            "CLAP",
+            "ROLL",
+            "RUMBLE",
+            "HAND",
+            "SHADOW",
+            "SOCK",
+            "STRING",
+            "JOKE",
+            "ORDERS",
+            "OVATION",
+            "ROOM"
+        ],
+        "groups": [
+            {
+                "label": "STEP IN A PROCESS",
+                "tier": "Yellow",
+                "members": [
+                    "LEVEL",
+                    "PHASE",
+                    "ROUND",
+                    "STAGE"
+                ]
+            },
+            {
+                "label": "SOUND LIKE THUNDER",
+                "tier": "Green",
+                "members": [
+                    "BOOM",
+                    "CLAP",
+                    "ROLL",
+                    "RUMBLE"
+                ]
+            },
+            {
+                "label": "KINDS OF PUPPETS",
+                "tier": "Blue",
+                "members": [
+                    "HAND",
+                    "SHADOW",
+                    "SOCK",
+                    "STRING"
+                ]
+            },
+            {
+                "label": "STANDING ___",
+                "tier": "Purple",
+                "members": [
+                    "JOKE",
+                    "ORDERS",
+                    "OVATION",
+                    "ROOM"
+                ]
+            }
+        ]
     }
 ]
