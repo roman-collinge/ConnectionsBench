@@ -51,7 +51,7 @@ def test_build_prompt_raises_on_image_puzzle():
 
 def test_run_puzzle_returns_model_answer():
     mock_result = MagicMock()
-    mock_result.data = ModelAnswer(groups=[
+    mock_result.output = ModelAnswer(groups=[
         ["A", "B", "C", "D"],
         ["E", "F", "G", "H"],
         ["I", "J", "K", "L"],
@@ -66,7 +66,7 @@ def test_run_puzzle_returns_model_answer():
 
 def test_run_puzzle_passes_model_string_to_agent():
     mock_result = MagicMock()
-    mock_result.data = ModelAnswer(groups=[
+    mock_result.output = ModelAnswer(groups=[
         ["A", "B", "C", "D"],
         ["E", "F", "G", "H"],
         ["I", "J", "K", "L"],
@@ -75,7 +75,7 @@ def test_run_puzzle_passes_model_string_to_agent():
     with patch("src.connectionsbench.runner.Agent") as mock_agent:
         mock_agent.return_value.run_sync.return_value = mock_result
         run_puzzle(PUZZLE, model="openai:gpt-4o")
-    mock_agent.assert_called_once_with("openai:gpt-4o", result_type=ModelAnswer)
+    mock_agent.assert_called_once_with("openai:gpt-4o", output_type=ModelAnswer)
 
 
 def test_run_puzzle_raises_on_image_puzzle():
