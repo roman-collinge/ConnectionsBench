@@ -69082,5 +69082,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1053,
+        "date": "2026-04-30",
+        "has_images": false,
+        "words": [
+            "ALARM",
+            "DISTURB",
+            "SHAKE",
+            "SHOCK",
+            "CHECK",
+            "CROSS",
+            "MARK",
+            "TICK",
+            "TESLA",
+            "TIME",
+            "TRUE",
+            "TYRANNOSAURUS",
+            "HOUR",
+            "HUR",
+            "THERE",
+            "YORE"
+        ],
+        "groups": [
+            {
+                "label": "UNNERVE",
+                "tier": "Yellow",
+                "members": [
+                    "ALARM",
+                    "DISTURB",
+                    "SHAKE",
+                    "SHOCK"
+                ]
+            },
+            {
+                "label": "REMOVE, AS AN ITEM FROM A LIST, WITH \"OFF\"",
+                "tier": "Green",
+                "members": [
+                    "CHECK",
+                    "CROSS",
+                    "MARK",
+                    "TICK"
+                ]
+            },
+            {
+                "label": "WHAT \"T\" MIGHT STAND FOR",
+                "tier": "Blue",
+                "members": [
+                    "TESLA",
+                    "TIME",
+                    "TRUE",
+                    "TYRANNOSAURUS"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF POSSESSIVE ADJECTIVES",
+                "tier": "Purple",
+                "members": [
+                    "HOUR",
+                    "HUR",
+                    "THERE",
+                    "YORE"
+                ]
+            }
+        ]
     }
 ]
