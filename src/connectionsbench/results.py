@@ -30,8 +30,15 @@ def get_run_puzzle_ids(model: str, results_dir: Path = _DEFAULT_RESULTS_DIR) -> 
     return {r.puzzle_id for r in load_results(model, results_dir)}
 
 
-def check_duplicate_run():
-    pass
+def check_duplicate_run(model: str, puzzle_ids: list[int], results_dir: Path = _DEFAULT_RESULTS_DIR) -> tuple[
+    bool, set[int]]:
+    """
+    Check if all puzzles in puzzle_ids have already been run for this model.
+    """
+    already_run = get_run_puzzle_ids(model, results_dir)
+    overlap = already_run & set(puzzle_ids)
+    all_duplicate = overlap == set(puzzle_ids)
+    return all_duplicate, overlap
 
 
 def calculate_leaderboard():
