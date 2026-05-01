@@ -25,8 +25,9 @@ def save_result(result: PuzzleResult, model: str, results_dir: Path = _DEFAULT_R
         f.write(result.model_dump_json() + "\n")
 
 
-def get_run_puzzle_ids():
-    pass
+def get_run_puzzle_ids(model: str, results_dir: Path = _DEFAULT_RESULTS_DIR) -> set[int]:
+    """Return set of puzzle IDs already run for a given model."""
+    return {r.puzzle_id for r in load_results(model, results_dir)}
 
 
 def check_duplicate_run():
