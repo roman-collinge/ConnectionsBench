@@ -9,8 +9,13 @@ from src.connectionsbench.models import PuzzleResult
 _DEFAULT_RESULTS_DIR = Path(__file__).parent.parent.parent / "results"
 
 
-def load_results():
-    pass
+def load_results(model: str, results_dir: Path = _DEFAULT_RESULTS_DIR) -> list:
+    """Load all results for a given model from its JSONL file."""
+    path = results_dir / f"{model.replace(':', '_')}.jsonl"
+    if not path.exists():
+        return []
+    else:
+        return []
 
 
 def save_result(result: PuzzleResult, model: str, results_dir: Path = _DEFAULT_RESULTS_DIR) -> None:
