@@ -1,7 +1,7 @@
 import pytest
 
 from src.connectionsbench.models import PuzzleResult, Tier
-from src.connectionsbench.results import save_result, load_results, get_run_puzzle_ids
+from src.connectionsbench.results import save_result, load_results, get_run_puzzle_ids, check_duplicate_run
 
 MOCK_RESULT_1 = PuzzleResult(
     puzzle_id=1,
@@ -75,3 +75,11 @@ def test_get_run_puzzle_ids_returns_correct_ids(populated_results_dir):
 
 def test_get_run_puzzle_ids_returns_empty_when_no_file(results_dir):
     assert get_run_puzzle_ids("openai:gpt-4o", results_dir) == set()
+
+
+# check_duplicate_run tests
+
+def test_check_duplicate_run_all_duplicate(populated_results_dir):
+    all_dup, overlap = check_duplicate_run("openai:gpt-4o", [1, 2, 3], populated_results_dir)
+    assert all_dup is True
+    assert overlap == {1, 2, 3}
