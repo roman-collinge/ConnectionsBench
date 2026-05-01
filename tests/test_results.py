@@ -66,5 +66,12 @@ def test_load_results_returns_empty_when_no_file(results_dir):
     assert load_results("openai:gpt-4o", results_dir) == []
 
 
+# get_run_puzzle_ids tests
+
+def test_get_run_puzzle_ids_returns_correct_ids(populated_results_dir):
+    ids = get_run_puzzle_ids("openai:gpt-4o", populated_results_dir)
+    assert ids == {1, 2, 3}
+
+
 def test_get_run_puzzle_ids_returns_empty_when_no_file(results_dir):
     assert get_run_puzzle_ids("openai:gpt-4o", results_dir) == set()
