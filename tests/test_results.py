@@ -1,7 +1,7 @@
 import pytest
 
 from src.connectionsbench.models import PuzzleResult, Tier
-from src.connectionsbench.results import save_result, load_results
+from src.connectionsbench.results import save_result, load_results, get_run_puzzle_ids
 
 MOCK_RESULT_1 = PuzzleResult(
     puzzle_id=1,
@@ -64,3 +64,7 @@ def test_load_results_returns_puzzle_results(populated_results_dir):
 
 def test_load_results_returns_empty_when_no_file(results_dir):
     assert load_results("openai:gpt-4o", results_dir) == []
+
+
+def test_get_run_puzzle_ids_returns_empty_when_no_file(results_dir):
+    assert get_run_puzzle_ids("openai:gpt-4o", results_dir) == set()
