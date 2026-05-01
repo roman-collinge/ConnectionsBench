@@ -38,12 +38,5 @@ def test_save_result_appends(results_dir):
     assert len(results) == 2
 
 
-def test_save_result_appends(results_dir):
-    save_result(MOCK_RESULT_1, "openai:gpt-4o", results_dir)
-    save_result(MOCK_RESULT_2, "openai:gpt-4o", results_dir)
-    results = load_results("openai:gpt-4o", results_dir)
-    assert len(results) == 2
-
-
 def test_load_results_returns_empty_when_no_file(results_dir):
     assert load_results("openai:gpt-4o", results_dir) == []
