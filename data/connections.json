@@ -69214,5 +69214,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1055,
+        "date": "2026-05-02",
+        "has_images": false,
+        "words": [
+            "EXTRASENSORY",
+            "MENTAL",
+            "PSYCHIC",
+            "TELEPATHIC",
+            "BALLET",
+            "MUSICAL",
+            "OPERA",
+            "PLAY",
+            "EDUCATION",
+            "INTERIOR",
+            "STATE",
+            "TREASURY",
+            "GLOBETROTTER",
+            "HERALDRY",
+            "POST-IT",
+            "TIMES TABLES"
+        ],
+        "groups": [
+            {
+                "label": "CLAIRVOYANT",
+                "tier": "Yellow",
+                "members": [
+                    "EXTRASENSORY",
+                    "MENTAL",
+                    "PSYCHIC",
+                    "TELEPATHIC"
+                ]
+            },
+            {
+                "label": "STAGED PERFORMANCES",
+                "tier": "Green",
+                "members": [
+                    "BALLET",
+                    "MUSICAL",
+                    "OPERA",
+                    "PLAY"
+                ]
+            },
+            {
+                "label": "U.S. CABINET DEPARTMENTS",
+                "tier": "Blue",
+                "members": [
+                    "EDUCATION",
+                    "INTERIOR",
+                    "STATE",
+                    "TREASURY"
+                ]
+            },
+            {
+                "label": "STARTING WITH NEWSPAPER NAMES",
+                "tier": "Purple",
+                "members": [
+                    "GLOBETROTTER",
+                    "HERALDRY",
+                    "POST-IT",
+                    "TIMES TABLES"
+                ]
+            }
+        ]
     }
 ]
