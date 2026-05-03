@@ -4,7 +4,7 @@ Results loading and leaderboard calculation for ConnectionsBench.
 
 from pathlib import Path
 
-from src.connectionsbench.models import PuzzleResult
+from src.connectionsbench.models import PuzzleResult, Tier
 
 _DEFAULT_RESULTS_DIR = Path(__file__).parent.parent.parent / "results"
 
@@ -51,8 +51,14 @@ def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
     solved = sum(1 for r in results if r.solved)
     avg_groups = sum(r.groups_correct for r in results) / total
 
+    tier_accuracies = {}
+    for tier in Tier:
+        tier_correct = sum(1 for r in results if r.tier_results.get(tier) is True)
+        tier_accuracies[tier] = tier_correct / total
+
     return {
         "puzzle_count": total,
         "solve_pct": solved / total * 100,
         "avg_groups": avg_groups,
+        "purple_gap": (tier_accuracies[Tier.YELLOW] - tier_accuracies[Tier.PURPLE]) * 100,
     }
