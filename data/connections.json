@@ -69280,5 +69280,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1056,
+        "date": "2026-05-03",
+        "has_images": false,
+        "words": [
+            "GARAGE",
+            "HOUSE",
+            "PORCH",
+            "SHED",
+            "ACID",
+            "COMMUNE",
+            "FREE LOVE",
+            "HIPPIE",
+            "FRENCH",
+            "GREEN",
+            "INDUSTRIAL",
+            "SEXUAL",
+            "AIR QUOTES",
+            "BUNNY EARS",
+            "FINGERS CROSSED",
+            "PEACE"
+        ],
+        "groups": [
+            {
+                "label": "HOME STRUCTURES",
+                "tier": "Yellow",
+                "members": [
+                    "GARAGE",
+                    "HOUSE",
+                    "PORCH",
+                    "SHED"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH 1960S COUNTERCULTURE",
+                "tier": "Green",
+                "members": [
+                    "ACID",
+                    "COMMUNE",
+                    "FREE LOVE",
+                    "HIPPIE"
+                ]
+            },
+            {
+                "label": "FAMOUS REVOLUTIONS IN HISTORY",
+                "tier": "Blue",
+                "members": [
+                    "FRENCH",
+                    "GREEN",
+                    "INDUSTRIAL",
+                    "SEXUAL"
+                ]
+            },
+            {
+                "label": "GESTURES MADE WITH THE INDEX AND MIDDLE FINGERS",
+                "tier": "Purple",
+                "members": [
+                    "AIR QUOTES",
+                    "BUNNY EARS",
+                    "FINGERS CROSSED",
+                    "PEACE"
+                ]
+            }
+        ]
     }
 ]
