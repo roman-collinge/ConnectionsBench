@@ -57,6 +57,7 @@ def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
         tier_accuracies[tier] = tier_correct / total
 
     return {
+        "model": model,
         "puzzle_count": total,
         "solve_pct": solved / total * 100,
         "avg_groups": avg_groups,
