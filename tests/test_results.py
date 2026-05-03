@@ -122,3 +122,12 @@ def test_calculate_model_metrics_purple_gap(populated_results_dir):
     results = load_results("openai:gpt-4o", populated_results_dir)
     metrics = calculate_model_metrics("openai:gpt-4o", results)
     assert metrics["purple_gap"] == pytest.approx(33.33, rel=0.01)
+
+
+def test_calculate_model_metrics_tier_percentages(populated_results_dir):
+    results = load_results("openai:gpt-4o", populated_results_dir)
+    metrics = calculate_model_metrics("openai:gpt-4o", results)
+    assert metrics["yellow_pct"] == pytest.approx(66.66, rel=0.01)
+    assert metrics["green_pct"] == pytest.approx(66.66, rel=0.01)
+    assert metrics["blue_pct"] == pytest.approx(33.33, rel=0.01)
+    assert metrics["purple_pct"] == pytest.approx(33.33, rel=0.01)
