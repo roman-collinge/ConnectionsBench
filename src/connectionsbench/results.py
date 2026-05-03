@@ -45,5 +45,10 @@ def calculate_leaderboard():
     pass
 
 
-def calculate_model_metrics():
-    pass
+def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
+    """Calculate metrics for a single model."""
+    total = len(results)
+
+    return {
+        "puzzle_count": total,
+    }
