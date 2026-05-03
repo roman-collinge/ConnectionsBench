@@ -83,3 +83,9 @@ def test_check_duplicate_run_all_duplicate(populated_results_dir):
     all_dup, overlap = check_duplicate_run("openai:gpt-4o", [1, 2, 3], populated_results_dir)
     assert all_dup is True
     assert overlap == {1, 2, 3}
+
+
+def test_check_duplicate_run_partial(populated_results_dir):
+    all_dup, overlap = check_duplicate_run("openai:gpt-4o", [1, 2, 99], populated_results_dir)
+    assert all_dup is False
+    assert overlap == {1, 2}
