@@ -60,5 +60,9 @@ def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
         "puzzle_count": total,
         "solve_pct": solved / total * 100,
         "avg_groups": avg_groups,
+        "yellow_pct": tier_accuracies[Tier.YELLOW] * 100,
+        "green_pct": tier_accuracies[Tier.GREEN] * 100,
+        "blue_pct": tier_accuracies[Tier.BLUE] * 100,
+        "purple_pct": tier_accuracies[Tier.PURPLE] * 100,
         "purple_gap": (tier_accuracies[Tier.YELLOW] - tier_accuracies[Tier.PURPLE]) * 100,
     }
