@@ -110,3 +110,9 @@ def test_calculate_model_metrics_solve_rate(populated_results_dir):
     results = load_results("openai:gpt-4o", populated_results_dir)
     metrics = calculate_model_metrics("openai:gpt-4o", results)
     assert metrics["solve_pct"] == pytest.approx(33.33, rel=0.01)
+
+
+def test_calculate_model_metrics_avg_groups(populated_results_dir):
+    results = load_results("openai:gpt-4o", populated_results_dir)
+    metrics = calculate_model_metrics("openai:gpt-4o", results)
+    assert metrics["avg_groups"] == pytest.approx(2.0)
