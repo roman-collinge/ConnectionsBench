@@ -41,8 +41,15 @@ def check_duplicate_run(model: str, puzzle_ids: list[int], results_dir: Path = _
     return all_duplicate, overlap
 
 
-def calculate_leaderboard():
-    pass
+def calculate_leaderboard(results_by_model: dict[str, list[PuzzleResult]]) -> list[dict]:
+    """Calculate leaderboard metrics for all models."""
+    rows = []
+    for model, results in results_by_model.items():
+        if not results:
+            continue
+        rows.append(calculate_model_metrics(model, results))
+    leaderboard = sorted(rows, key=lambda r: r["solve_pct"], reverse=True)
+    return leaderboard
 
 
 def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
