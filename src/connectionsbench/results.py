@@ -49,8 +49,10 @@ def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
     """Calculate metrics for a single model."""
     total = len(results)
     solved = sum(1 for r in results if r.solved)
+    avg_groups = sum(r.groups_correct for r in results) / total
 
     return {
         "puzzle_count": total,
         "solve_pct": solved / total * 100,
+        "avg_groups": avg_groups,
     }
