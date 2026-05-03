@@ -69148,5 +69148,203 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1054,
+        "date": "2026-05-01",
+        "has_images": false,
+        "words": [
+            "BUFF",
+            "POLISH",
+            "SHINE",
+            "WAX",
+            "ALE",
+            "AMBER",
+            "CITRINE",
+            "HONEY",
+            "BEAK",
+            "COMB",
+            "CREST",
+            "WATTLE",
+            "HIVE",
+            "MIX",
+            "POUR",
+            "WIGHT"
+        ],
+        "groups": [
+            {
+                "label": "MAKE GLOSSY",
+                "tier": "Yellow",
+                "members": [
+                    "BUFF",
+                    "POLISH",
+                    "SHINE",
+                    "WAX"
+                ]
+            },
+            {
+                "label": "TRANSLUSCENT GOLDEN THINGS",
+                "tier": "Green",
+                "members": [
+                    "ALE",
+                    "AMBER",
+                    "CITRINE",
+                    "HONEY"
+                ]
+            },
+            {
+                "label": "FEATURES OF A BIRD'S HEAD",
+                "tier": "Blue",
+                "members": [
+                    "BEAK",
+                    "COMB",
+                    "CREST",
+                    "WATTLE"
+                ]
+            },
+            {
+                "label": "NUMBERS WITH FIRST LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "HIVE",
+                    "MIX",
+                    "POUR",
+                    "WIGHT"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1055,
+        "date": "2026-05-02",
+        "has_images": false,
+        "words": [
+            "EXTRASENSORY",
+            "MENTAL",
+            "PSYCHIC",
+            "TELEPATHIC",
+            "BALLET",
+            "MUSICAL",
+            "OPERA",
+            "PLAY",
+            "EDUCATION",
+            "INTERIOR",
+            "STATE",
+            "TREASURY",
+            "GLOBETROTTER",
+            "HERALDRY",
+            "POST-IT",
+            "TIMES TABLES"
+        ],
+        "groups": [
+            {
+                "label": "CLAIRVOYANT",
+                "tier": "Yellow",
+                "members": [
+                    "EXTRASENSORY",
+                    "MENTAL",
+                    "PSYCHIC",
+                    "TELEPATHIC"
+                ]
+            },
+            {
+                "label": "STAGED PERFORMANCES",
+                "tier": "Green",
+                "members": [
+                    "BALLET",
+                    "MUSICAL",
+                    "OPERA",
+                    "PLAY"
+                ]
+            },
+            {
+                "label": "U.S. CABINET DEPARTMENTS",
+                "tier": "Blue",
+                "members": [
+                    "EDUCATION",
+                    "INTERIOR",
+                    "STATE",
+                    "TREASURY"
+                ]
+            },
+            {
+                "label": "STARTING WITH NEWSPAPER NAMES",
+                "tier": "Purple",
+                "members": [
+                    "GLOBETROTTER",
+                    "HERALDRY",
+                    "POST-IT",
+                    "TIMES TABLES"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1056,
+        "date": "2026-05-03",
+        "has_images": false,
+        "words": [
+            "GARAGE",
+            "HOUSE",
+            "PORCH",
+            "SHED",
+            "ACID",
+            "COMMUNE",
+            "FREE LOVE",
+            "HIPPIE",
+            "FRENCH",
+            "GREEN",
+            "INDUSTRIAL",
+            "SEXUAL",
+            "AIR QUOTES",
+            "BUNNY EARS",
+            "FINGERS CROSSED",
+            "PEACE"
+        ],
+        "groups": [
+            {
+                "label": "HOME STRUCTURES",
+                "tier": "Yellow",
+                "members": [
+                    "GARAGE",
+                    "HOUSE",
+                    "PORCH",
+                    "SHED"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH 1960S COUNTERCULTURE",
+                "tier": "Green",
+                "members": [
+                    "ACID",
+                    "COMMUNE",
+                    "FREE LOVE",
+                    "HIPPIE"
+                ]
+            },
+            {
+                "label": "FAMOUS REVOLUTIONS IN HISTORY",
+                "tier": "Blue",
+                "members": [
+                    "FRENCH",
+                    "GREEN",
+                    "INDUSTRIAL",
+                    "SEXUAL"
+                ]
+            },
+            {
+                "label": "GESTURES MADE WITH THE INDEX AND MIDDLE FINGERS",
+                "tier": "Purple",
+                "members": [
+                    "AIR QUOTES",
+                    "BUNNY EARS",
+                    "FINGERS CROSSED",
+                    "PEACE"
+                ]
+            }
+        ]
     }
 ]
