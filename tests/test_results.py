@@ -137,3 +137,10 @@ def test_calculate_model_metrics_model(populated_results_dir):
     results = load_results("openai:gpt-4o", populated_results_dir)
     metrics = calculate_model_metrics("openai:gpt-4o", results)
     assert metrics["model"] == "openai:gpt-4o"
+
+
+def test_calculate_model_metrics_ids_period(populated_results_dir):
+    results = load_results("openai:gpt-4o", populated_results_dir)
+    metrics = calculate_model_metrics("openai:gpt-4o", results)
+    assert metrics["min_puzzle_id"] == 1
+    assert metrics["max_puzzle_id"] == 3
