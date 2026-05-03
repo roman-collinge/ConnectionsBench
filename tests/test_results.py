@@ -104,3 +104,9 @@ def test_calculate_model_metrics_puzzle_count(populated_results_dir):
     results = load_results("openai:gpt-4o", populated_results_dir)
     metrics = calculate_model_metrics("openai:gpt-4o", results)
     assert metrics["puzzle_count"] == 3
+
+
+def test_calculate_model_metrics_solve_rate(populated_results_dir):
+    results = load_results("openai:gpt-4o", populated_results_dir)
+    metrics = calculate_model_metrics("openai:gpt-4o", results)
+    assert metrics["solve_pct"] == pytest.approx(33.33, rel=0.01)
