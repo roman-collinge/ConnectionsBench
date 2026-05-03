@@ -50,6 +50,7 @@ def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
     total = len(results)
     solved = sum(1 for r in results if r.solved)
     avg_groups = sum(r.groups_correct for r in results) / total
+    puzzle_ids = [r.puzzle_id for r in results]
 
     tier_accuracies = {}
     for tier in Tier:
@@ -66,4 +67,6 @@ def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
         "blue_pct": tier_accuracies[Tier.BLUE] * 100,
         "purple_pct": tier_accuracies[Tier.PURPLE] * 100,
         "purple_gap": (tier_accuracies[Tier.YELLOW] - tier_accuracies[Tier.PURPLE]) * 100,
+        "min_puzzle_id": min(puzzle_ids),
+        "max_puzzle_id": max(puzzle_ids),
     }
