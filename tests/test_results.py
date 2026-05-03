@@ -1,7 +1,8 @@
 import pytest
 
 from src.connectionsbench.models import PuzzleResult, Tier
-from src.connectionsbench.results import save_result, load_results, get_run_puzzle_ids, check_duplicate_run
+from src.connectionsbench.results import save_result, load_results, get_run_puzzle_ids, check_duplicate_run, \
+    calculate_model_metrics
 
 MOCK_RESULT_1 = PuzzleResult(
     puzzle_id=1,
@@ -95,3 +96,11 @@ def test_check_duplicate_run_none(populated_results_dir):
     all_dup, overlap = check_duplicate_run("openai:gpt-4o", [99, 100], populated_results_dir)
     assert all_dup is False
     assert overlap == set()
+
+
+# calculate_model_metrics tests
+
+def test_calculate_model_metrics_puzzle_count(populated_results_dir):
+    results = load_results("openai:gpt-4o", populated_results_dir)
+    metrics = calculate_model_metrics("openai:gpt-4o", results)
+    assert metrics["puzzle_count"] == 3
