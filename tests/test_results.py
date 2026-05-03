@@ -165,3 +165,8 @@ def test_calculate_leaderboard_sorted_by_solve_pct(populated_results_dir):
     leaderboard = calculate_leaderboard(
         {"openai:gpt-4o": openai_results, "xai:grok-4-1-fast-non-reasoning": xai_results})
     assert leaderboard[0]["model"] == "openai:gpt-4o"
+
+
+def test_calculate_leaderboard_excludes_empty_results(results_dir):
+    leaderboard = calculate_leaderboard({"openai:gpt-4o": []})
+    assert leaderboard == []
