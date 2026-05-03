@@ -48,7 +48,9 @@ def calculate_leaderboard():
 def calculate_model_metrics(model: str, results: list[PuzzleResult]) -> dict:
     """Calculate metrics for a single model."""
     total = len(results)
+    solved = sum(1 for r in results if r.solved)
 
     return {
         "puzzle_count": total,
+        "solve_pct": solved / total * 100,
     }
