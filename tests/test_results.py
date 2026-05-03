@@ -2,7 +2,7 @@ import pytest
 
 from src.connectionsbench.models import PuzzleResult, Tier
 from src.connectionsbench.results import save_result, load_results, get_run_puzzle_ids, check_duplicate_run, \
-    calculate_model_metrics
+    calculate_model_metrics, calculate_leaderboard
 
 MOCK_RESULT_1 = PuzzleResult(
     puzzle_id=1,
@@ -28,6 +28,14 @@ MOCK_RESULT_3 = PuzzleResult(
     tier_results={Tier.YELLOW: False, Tier.GREEN: False, Tier.BLUE: False, Tier.PURPLE: False},
 )
 
+MOCK_RESULT_4 = PuzzleResult(
+    puzzle_id=2,
+    model="xai:grok-4-1-fast-non-reasoning",
+    solved=False,
+    groups_correct=2,
+    tier_results={Tier.YELLOW: False, Tier.GREEN: False, Tier.BLUE: False, Tier.PURPLE: False},
+)
+
 
 @pytest.fixture
 def results_dir(tmp_path):
@@ -36,11 +44,14 @@ def results_dir(tmp_path):
 
 @pytest.fixture
 def populated_results_dir(tmp_path):
-    path = tmp_path / "openai_gpt-4o.jsonl"
-    with open(path, "w") as f:
+    openai_path = tmp_path / "openai_gpt-4o.jsonl"
+    xai_path = tmp_path / "xai_grok-4.1-fast-non-reasoning.jsonl"
+    with open(openai_path, "w") as f:
         f.write(MOCK_RESULT_1.model_dump_json() + "\n")
         f.write(MOCK_RESULT_2.model_dump_json() + "\n")
         f.write(MOCK_RESULT_3.model_dump_json() + "\n")
+    with open(xai_path, "w") as f:
+        f.write(MOCK_RESULT_4.model_dump_json() + "\n")
     return tmp_path
 
 
@@ -144,3 +155,13 @@ def test_calculate_model_metrics_ids_period(populated_results_dir):
     metrics = calculate_model_metrics("openai:gpt-4o", results)
     assert metrics["min_puzzle_id"] == 1
     assert metrics["max_puzzle_id"] == 3
+
+
+# calculate leaderboard tests
+
+def test_calculate_leaderboard_sorted_by_solve_pct(populated_results_dir):
+    openai_results = load_results("openai:gpt-4o", populated_results_dir)
+    xai_results = load_results("xai:grok-4-1-fast-non-reasoning", populated_results_dir)
+    leaderboard = calculate_leaderboard(
+        {"openai:gpt-4o": openai_results, "xai:grok-4-1-fast-non-reasoning": xai_results})
+    assert leaderboard[0]["model"] == "openai:gpt-4o"
