@@ -7,8 +7,8 @@ from pathlib import Path
 
 import pytest
 
-from src.connectionsbench.loader import load_all_puzzles, load_puzzle, load_text_puzzles
-from src.connectionsbench.models import Puzzle, Tier
+from connectionsbench.loader import load_all_puzzles, load_puzzle, load_text_puzzles
+from connectionsbench.models import Puzzle, Tier
 
 MOCK_PUZZLES = [
     {

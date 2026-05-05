@@ -8,8 +8,8 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 
-from src.connectionsbench.models import Group, Puzzle, Tier, ModelAnswer
-from src.connectionsbench.runner import build_prompt, run_puzzle
+from connectionsbench.models import Group, Puzzle, Tier, ModelAnswer
+from connectionsbench.runner import build_prompt, run_puzzle
 
 PUZZLE = Puzzle(
     schema_version=1,
@@ -36,7 +36,7 @@ def test_build_prompt_contains_all_words():
 
 
 def test_build_prompt_shuffles_words():
-    with patch("src.connectionsbench.runner.random.shuffle") as mock_shuffle:
+    with patch("connectionsbench.runner.random.shuffle") as mock_shuffle:
         build_prompt(PUZZLE)
     mock_shuffle.assert_called_once()
 
@@ -51,13 +51,13 @@ def test_build_prompt_raises_on_image_puzzle():
 
 def test_run_puzzle_returns_model_answer():
     mock_result = MagicMock()
-    mock_result.data = ModelAnswer(groups=[
+    mock_result.output = ModelAnswer(groups=[
         ["A", "B", "C", "D"],
         ["E", "F", "G", "H"],
         ["I", "J", "K", "L"],
         ["M", "N", "O", "P"],
     ])
-    with patch("src.connectionsbench.runner.Agent") as mock_agent:
+    with patch("connectionsbench.runner.Agent") as mock_agent:
         mock_agent.return_value.run_sync.return_value = mock_result
         result = run_puzzle(PUZZLE, model="openai:gpt-4o")
     assert isinstance(result, ModelAnswer)
@@ -66,16 +66,16 @@ def test_run_puzzle_returns_model_answer():
 
 def test_run_puzzle_passes_model_string_to_agent():
     mock_result = MagicMock()
-    mock_result.data = ModelAnswer(groups=[
+    mock_result.output = ModelAnswer(groups=[
         ["A", "B", "C", "D"],
         ["E", "F", "G", "H"],
         ["I", "J", "K", "L"],
         ["M", "N", "O", "P"],
     ])
-    with patch("src.connectionsbench.runner.Agent") as mock_agent:
+    with patch("connectionsbench.runner.Agent") as mock_agent:
         mock_agent.return_value.run_sync.return_value = mock_result
         run_puzzle(PUZZLE, model="openai:gpt-4o")
-    mock_agent.assert_called_once_with("openai:gpt-4o", result_type=ModelAnswer)
+    mock_agent.assert_called_once_with("openai:gpt-4o", output_type=ModelAnswer)
 
 
 def test_run_puzzle_raises_on_image_puzzle():

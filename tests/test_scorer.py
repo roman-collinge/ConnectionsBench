@@ -3,10 +3,11 @@ Tests for scorer.py
 """
 
 from datetime import date
-from src.connectionsbench.models import Group, ModelAnswer, Puzzle, Tier, PuzzleResult
-from src.connectionsbench.scorer import score_puzzle
 
 import pytest
+
+from connectionsbench.models import Group, ModelAnswer, Puzzle, Tier, PuzzleResult
+from connectionsbench.scorer import score_puzzle
 
 PUZZLE = Puzzle(
     schema_version=1,

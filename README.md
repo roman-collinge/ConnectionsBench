@@ -11,7 +11,7 @@ across 1000+ puzzles with built-in difficulty tiers. Tracks model accuracy by ti
 - [x] Loader
 - [x] Scorer
 - [x] Runner
-- [ ] CLI
+- [x] CLI
 - [ ] First benchmark run
 - [ ] Results + leaderboard
 
@@ -46,11 +46,38 @@ benchmark run time.
 
 ### Run benchmark
 
-_Coming soon — see [Status](#status)._
+```bash
+connectionsbench run --model openai:gpt-4o
+connectionsbench run --model openai:gpt-4o --limit 50
+connectionsbench run --model openai:gpt-4o --from 2024-01-01 --to 2024-06-01
+connectionsbench run --model openai:gpt-4o --dry-run
+```
+
+API keys are read from environment variables. Create a `.env` file in the project root:
+
+```
+OPENAI_API_KEY=sk-...
+ANTHROPIC_API_KEY=...
+GEMINI_API_KEY=...
+```
+
+Supported model strings follow PydanticAI conventions: `openai:gpt-4o`, `anthropic:claude-sonnet-4-6`,
+`google-gla:gemini-2.5-flash` etc.
+
+Results are written to `results/{model}.jsonl` — one scored result per line. Runs are resumable — already-run puzzles
+are skipped automatically.
+
+### View results
+
+```bash
+connectionsbench results
+connectionsbench results --model openai:gpt-4o
+connectionsbench results --provider anthropic
+```
 
 ## Results
 
-_Coming soon._
+_Coming soon — first benchmark run in progress._
 
 ## Methodology
 
@@ -60,10 +87,9 @@ difficulty-tiered: Yellow (straightforward) → Green → Blue → Purple (later
 Each model receives the 16 words and must return 4 groups in a single attempt with no hints. Scoring is exact
 set-match — a group is correct only if all 4 members are right.
 
-**Prompt design:** Words are presented as a comma-separated list in randomised order
-per run. Shuffling prevents exploitation of positional patterns. NYT returns words
-in difficulty order (Yellow→Purple), so a model with training data exposure could
-use position as a signal rather than semantic reasoning.
+**Prompt design:** Words are presented as a comma-separated list in randomised order per run. Shuffling prevents
+exploitation of positional patterns — NYT returns words in difficulty order (Yellow→Purple), so a model with training
+data exposure could use position as a signal rather than genuine semantic reasoning.
 
 **Metrics:**
 
@@ -80,7 +106,8 @@ of this benchmark.
 
 ## Contributing
 
-Open an issue or PR. If adding a new model runner, follow the pattern (soon coming) and include results in your PR.
+Open an issue or PR. If adding a new model, pass any PydanticAI-compatible model string to `--model` and include results
+in your PR.
 
 ## License
 
