@@ -25,17 +25,24 @@ from connectionsbench.scorer import score_puzzle
 
 load_dotenv()
 
-app = typer.Typer(help="ConnectionsBench — benchmark LLMs on NYT Connections puzzles.")
+app = typer.Typer(help="ConnectionsBench: Benchmark LLMs on NYT Connections puzzles.")
 console = Console()
 
 _COST_PER_PUZZLE = {
-    "openai:gpt-4o": 0.001,
-    "openai:gpt-4o-mini": 0.00006,
-    "anthropic:claude-sonnet-4-6": 0.001,
-    "anthropic:claude-haiku-4-5": 0.0005,
+    # $2.50/$10.00 per MTok
+    "openai:gpt-4o": 0.000875,
+    # $0.15/$0.60 per MTok
+    "openai:gpt-4o-mini": 0.0000525,
+    # $3.00/$15.00 per MTok
+    "anthropic:claude-sonnet-4-6": 0.0012,
+    # $1.00/$5.00 per MTok
+    "anthropic:claude-haiku-4-5": 0.0004,
+    # $5.00/$25.00 per MTok
     "anthropic:claude-opus-4-7": 0.002,
-    "google-gla:gemini-1.5-flash": 0.0,
-    "google-gla:gemini-1.5-pro": 0.0005,
+    # $0.075/$0.30 per MTok
+    "google-gla:gemini-1.5-flash": 0.0000263,
+    # $0.075/$0.30 per MTok (same tier now after price cuts)
+    "google-gla:gemini-1.5-pro": 0.00002,
 }
 
 
