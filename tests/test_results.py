@@ -1,7 +1,7 @@
 import pytest
 
-from src.connectionsbench.models import PuzzleResult, Tier
-from src.connectionsbench.results import save_result, load_results, get_run_puzzle_ids, check_duplicate_run, \
+from connectionsbench.models import PuzzleResult, Tier
+from connectionsbench.results import save_result, load_results, get_run_puzzle_ids, check_duplicate_run, \
     calculate_model_metrics, calculate_leaderboard
 
 MOCK_RESULT_1 = PuzzleResult(

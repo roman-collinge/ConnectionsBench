@@ -7,7 +7,7 @@ from datetime import date
 import pytest
 from pydantic import ValidationError
 
-from src.connectionsbench.models import Group, GroupResult, ModelAnswer, Puzzle, PuzzleResult, Tier
+from connectionsbench.models import Group, GroupResult, ModelAnswer, Puzzle, PuzzleResult, Tier
 
 # Tier tests
 

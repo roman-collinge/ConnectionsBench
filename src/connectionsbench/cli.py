@@ -12,16 +12,16 @@ from rich import box
 from rich.console import Console
 from rich.table import Table
 
-from src.connectionsbench.loader import load_text_puzzles
-from src.connectionsbench.results import (
+from connectionsbench.loader import load_text_puzzles
+from connectionsbench.results import (
     load_results,
     save_result,
     check_duplicate_run,
     calculate_leaderboard,
     _DEFAULT_RESULTS_DIR,
 )
-from src.connectionsbench.runner import run_puzzle
-from src.connectionsbench.scorer import score_puzzle
+from connectionsbench.runner import run_puzzle
+from connectionsbench.scorer import score_puzzle
 
 load_dotenv()
 

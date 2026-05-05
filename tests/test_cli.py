@@ -5,7 +5,7 @@ from unittest.mock import patch
 
 from typer.testing import CliRunner
 
-from src.connectionsbench.cli import app
+from connectionsbench.cli import app
 
 runner = CliRunner()
 
@@ -42,7 +42,7 @@ def test_results_command_exists():
 
 
 def test_run_no_puzzles(tmp_path):
-    with patch("src.connectionsbench.cli.load_text_puzzles") as mock_load:
+    with patch("connectionsbench.cli.load_text_puzzles") as mock_load:
         mock_load.return_value = []
         result = runner.invoke(app, ["run", "--model", "openai:gpt-4o"])
     assert result.exit_code == 1
@@ -50,8 +50,8 @@ def test_run_no_puzzles(tmp_path):
 
 
 def test_run_dry_run(tmp_path):
-    with patch("src.connectionsbench.cli.load_text_puzzles") as mock_load, \
-            patch("src.connectionsbench.cli.check_duplicate_run") as mock_dup:
+    with patch("connectionsbench.cli.load_text_puzzles") as mock_load, \
+            patch("connectionsbench.cli.check_duplicate_run") as mock_dup:
         mock_load.return_value = _mock_puzzles()
         mock_dup.return_value = (False, set())
         result = runner.invoke(app, ["run", "--model", "openai:gpt-4o", "--dry-run"])

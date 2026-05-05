@@ -4,7 +4,7 @@ Results loading and leaderboard calculation for ConnectionsBench.
 
 from pathlib import Path
 
-from src.connectionsbench.models import PuzzleResult, Tier
+from connectionsbench.models import PuzzleResult, Tier
 
 _DEFAULT_RESULTS_DIR = Path(__file__).parent.parent.parent / "results"
 

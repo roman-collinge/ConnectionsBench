@@ -2,7 +2,7 @@ import random
 
 from pydantic_ai import Agent
 
-from src.connectionsbench.models import Puzzle, ModelAnswer
+from connectionsbench.models import Puzzle, ModelAnswer
 
 _PROMPT_TEMPLATE = """You are solving a NYT Connections puzzle.
 

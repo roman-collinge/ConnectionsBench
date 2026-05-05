@@ -5,7 +5,7 @@ Loads NYT Connections puzzles from the local JSON dataset and returns validated 
 import json
 from pathlib import Path
 
-from src.connectionsbench.models import Puzzle
+from connectionsbench.models import Puzzle
 
 _DEFAULT_DATA_FILE = Path(__file__).parent.parent.parent / "data" / "connections.json"
 

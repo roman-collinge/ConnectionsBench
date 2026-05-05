@@ -2,7 +2,7 @@
 Scores a model's answer against the correct puzzle solution.
 """
 
-from src.connectionsbench.models import ModelAnswer, Puzzle, PuzzleResult, Tier
+from connectionsbench.models import ModelAnswer, Puzzle, PuzzleResult, Tier
 
 
 def score_puzzle(puzzle: Puzzle, answer: ModelAnswer, model: str) -> PuzzleResult:
