@@ -69412,5 +69412,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1058,
+        "date": "2026-05-05",
+        "has_images": false,
+        "words": [
+            "FLICKER",
+            "HINT",
+            "SUGGESTION",
+            "WHIFF",
+            "BLINK",
+            "HICCUP",
+            "SHIVER",
+            "SNEEZE",
+            "BEND",
+            "BOWLINE",
+            "HITCH",
+            "SHEEPSHANK",
+            "GAMELAN",
+            "MATCHSTICK",
+            "POINTER",
+            "SETBACK"
+        ],
+        "groups": [
+            {
+                "label": "GLIMMER",
+                "tier": "Yellow",
+                "members": [
+                    "FLICKER",
+                    "HINT",
+                    "SUGGESTION",
+                    "WHIFF"
+                ]
+            },
+            {
+                "label": "INVOLUNTARY ACTIONS",
+                "tier": "Green",
+                "members": [
+                    "BLINK",
+                    "HICCUP",
+                    "SHIVER",
+                    "SNEEZE"
+                ]
+            },
+            {
+                "label": "KINDS OF KNOTS",
+                "tier": "Blue",
+                "members": [
+                    "BEND",
+                    "BOWLINE",
+                    "HITCH",
+                    "SHEEPSHANK"
+                ]
+            },
+            {
+                "label": "STARTING WITH UNITS IN COMPETITIONS",
+                "tier": "Purple",
+                "members": [
+                    "GAMELAN",
+                    "MATCHSTICK",
+                    "POINTER",
+                    "SETBACK"
+                ]
+            }
+        ]
     }
 ]
