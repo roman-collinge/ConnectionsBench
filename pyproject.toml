@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [project.scripts]
-connectionsbench = "connectionsbench:main"
+connectionsbench = "connectionsbench.cli:app"
 
 [build-system]
 requires = ["hatchling"]
