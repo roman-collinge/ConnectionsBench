@@ -69486,5 +69486,71 @@
         "has_images": true,
         "words": [],
         "groups": []
+    },
+    {
+        "schema_version": 1,
+        "id": 1060,
+        "date": "2026-05-07",
+        "has_images": false,
+        "words": [
+            "FLY",
+            "HOOK",
+            "LINE",
+            "NET",
+            "DROVE",
+            "HOST",
+            "MASS",
+            "PACK",
+            "CARRY",
+            "DOUBLE-DRIBBLE",
+            "GOALTEND",
+            "TRAVEL",
+            "CAR WINDOW",
+            "CHANNEL",
+            "ELEVATOR",
+            "VOLUME"
+        ],
+        "groups": [
+            {
+                "label": "FISHING GEAR",
+                "tier": "Yellow",
+                "members": [
+                    "FLY",
+                    "HOOK",
+                    "LINE",
+                    "NET"
+                ]
+            },
+            {
+                "label": "MULTITUDE",
+                "tier": "Green",
+                "members": [
+                    "DROVE",
+                    "HOST",
+                    "MASS",
+                    "PACK"
+                ]
+            },
+            {
+                "label": "COMMIT A BASKETBALL INFRACTION",
+                "tier": "Blue",
+                "members": [
+                    "CARRY",
+                    "DOUBLE-DRIBBLE",
+                    "GOALTEND",
+                    "TRAVEL"
+                ]
+            },
+            {
+                "label": "CONTROLLED WITH UP/DOWN BUTTONS",
+                "tier": "Purple",
+                "members": [
+                    "CAR WINDOW",
+                    "CHANNEL",
+                    "ELEVATOR",
+                    "VOLUME"
+                ]
+            }
+        ]
     }
 ]
