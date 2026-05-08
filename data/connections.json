@@ -69552,5 +69552,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1061,
+        "date": "2026-05-08",
+        "has_images": false,
+        "words": [
+            "FIRST BASE",
+            "MAKING OUT",
+            "NECKING",
+            "TONSIL HOCKEY",
+            "HOME PLATE",
+            "JEANS BACK POCKET",
+            "SCHOOL CROSSING SIGN",
+            "THE PENTAGON",
+            "LEFT FIELD",
+            "NOWHERE",
+            "THE BLUE",
+            "THIN AIR",
+            "BURGER KING WHOPPER",
+            "FILM NERD",
+            "MEMENTO",
+            "PITCHER'S MOUND"
+        ],
+        "groups": [
+            {
+                "label": "CANOODLING",
+                "tier": "Yellow",
+                "members": [
+                    "FIRST BASE",
+                    "MAKING OUT",
+                    "NECKING",
+                    "TONSIL HOCKEY"
+                ]
+            },
+            {
+                "label": "FIVE-SIDED THINGS",
+                "tier": "Green",
+                "members": [
+                    "HOME PLATE",
+                    "JEANS BACK POCKET",
+                    "SCHOOL CROSSING SIGN",
+                    "THE PENTAGON"
+                ]
+            },
+            {
+                "label": "UNEXPECTED PLACES TO BE \"OUT OF\"",
+                "tier": "Blue",
+                "members": [
+                    "LEFT FIELD",
+                    "NOWHERE",
+                    "THE BLUE",
+                    "THIN AIR"
+                ]
+            },
+            {
+                "label": "ENDING IN CANDY BRANDS MINUS \"S\"",
+                "tier": "Purple",
+                "members": [
+                    "BURGER KING WHOPPER",
+                    "FILM NERD",
+                    "MEMENTO",
+                    "PITCHER'S MOUND"
+                ]
+            }
+        ]
     }
 ]
