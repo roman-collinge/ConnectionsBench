@@ -69618,5 +69618,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1062,
+        "date": "2026-05-09",
+        "has_images": false,
+        "words": [
+            "EPISODE",
+            "FRANCHISE",
+            "SEASON",
+            "SERIES",
+            "BOA",
+            "CHAIN",
+            "LANYARD",
+            "TIE",
+            "FRIENDSHIP BRACELET",
+            "MACRAM\u00c9",
+            "QUIPU",
+            "SHOELACES",
+            "CONVERSATION",
+            "PERIOD",
+            "PUFF",
+            "THINK"
+        ],
+        "groups": [
+            {
+                "label": "UNITS OF TV PROGRAMS",
+                "tier": "Yellow",
+                "members": [
+                    "EPISODE",
+                    "FRANCHISE",
+                    "SEASON",
+                    "SERIES"
+                ]
+            },
+            {
+                "label": "THINGS WORN AROUND THE NECK",
+                "tier": "Green",
+                "members": [
+                    "BOA",
+                    "CHAIN",
+                    "LANYARD",
+                    "TIE"
+                ]
+            },
+            {
+                "label": "STRINGS TIED IN KNOTS",
+                "tier": "Blue",
+                "members": [
+                    "FRIENDSHIP BRACELET",
+                    "MACRAM\u00c9",
+                    "QUIPU",
+                    "SHOELACES"
+                ]
+            },
+            {
+                "label": "___ PIECE",
+                "tier": "Purple",
+                "members": [
+                    "CONVERSATION",
+                    "PERIOD",
+                    "PUFF",
+                    "THINK"
+                ]
+            }
+        ]
     }
 ]
