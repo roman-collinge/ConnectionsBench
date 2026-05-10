@@ -69684,5 +69684,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1063,
+        "date": "2026-05-10",
+        "has_images": false,
+        "words": [
+            "PLAY",
+            "REPEAT",
+            "SHUFFLE",
+            "SKIP",
+            "BOUND",
+            "CERTAIN",
+            "FATED",
+            "SURE",
+            "GARNISH",
+            "MUDDLE",
+            "POUR",
+            "STIR",
+            "COIL",
+            "FOUNTAIN",
+            "LEAP",
+            "SEASON"
+        ],
+        "groups": [
+            {
+                "label": "MUSIC PLAYER BUTTONS",
+                "tier": "Yellow",
+                "members": [
+                    "PLAY",
+                    "REPEAT",
+                    "SHUFFLE",
+                    "SKIP"
+                ]
+            },
+            {
+                "label": "DESTINED",
+                "tier": "Green",
+                "members": [
+                    "BOUND",
+                    "CERTAIN",
+                    "FATED",
+                    "SURE"
+                ]
+            },
+            {
+                "label": "VERBS IN MAKING A MOJITO",
+                "tier": "Blue",
+                "members": [
+                    "GARNISH",
+                    "MUDDLE",
+                    "POUR",
+                    "STIR"
+                ]
+            },
+            {
+                "label": "WHAT \"SPRING\" MIGHT REFER TO",
+                "tier": "Purple",
+                "members": [
+                    "COIL",
+                    "FOUNTAIN",
+                    "LEAP",
+                    "SEASON"
+                ]
+            }
+        ]
     }
 ]
