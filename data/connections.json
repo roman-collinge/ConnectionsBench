@@ -69750,5 +69750,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1064,
+        "date": "2026-05-11",
+        "has_images": false,
+        "words": [
+            "CREEP",
+            "SLIP",
+            "SNEAK",
+            "STEAL",
+            "COLOR",
+            "PONZI",
+            "PYRAMID",
+            "RHYME",
+            "CHINATOWN",
+            "KNIVES OUT",
+            "SEVEN",
+            "VERTIGO",
+            "ELEGY",
+            "KARMA",
+            "KEYED",
+            "SHANDY"
+        ],
+        "groups": [
+            {
+                "label": "MOVE STEALTHILY, WITH \"IN\"",
+                "tier": "Yellow",
+                "members": [
+                    "CREEP",
+                    "SLIP",
+                    "SNEAK",
+                    "STEAL"
+                ]
+            },
+            {
+                "label": "KINDS OF SCHEMES",
+                "tier": "Green",
+                "members": [
+                    "COLOR",
+                    "PONZI",
+                    "PYRAMID",
+                    "RHYME"
+                ]
+            },
+            {
+                "label": "DETECTIVE MOVIES",
+                "tier": "Blue",
+                "members": [
+                    "CHINATOWN",
+                    "KNIVES OUT",
+                    "SEVEN",
+                    "VERTIGO"
+                ]
+            },
+            {
+                "label": "BODY PARTS SURROUNDED BY TWO LETTERS",
+                "tier": "Purple",
+                "members": [
+                    "ELEGY",
+                    "KARMA",
+                    "KEYED",
+                    "SHANDY"
+                ]
+            }
+        ]
     }
 ]
