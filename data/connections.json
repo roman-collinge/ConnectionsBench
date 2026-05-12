@@ -69816,5 +69816,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1065,
+        "date": "2026-05-12",
+        "has_images": false,
+        "words": [
+            "OPUS",
+            "TOME",
+            "VOLUME",
+            "WORK",
+            "MONICA",
+            "PAULO",
+            "PETERSBURG",
+            "SALVADOR",
+            "DISTANCE",
+            "DIVISION",
+            "JOHNS",
+            "WEEKEND",
+            "FRANCI",
+            "RANDO",
+            "REALM",
+            "WONK"
+        ],
+        "groups": [
+            {
+                "label": "SUBSTANTIAL BOOK",
+                "tier": "Yellow",
+                "members": [
+                    "OPUS",
+                    "TOME",
+                    "VOLUME",
+                    "WORK"
+                ]
+            },
+            {
+                "label": "\"SAINT\" CITIES",
+                "tier": "Green",
+                "members": [
+                    "MONICA",
+                    "PAULO",
+                    "PETERSBURG",
+                    "SALVADOR"
+                ]
+            },
+            {
+                "label": "\"LONG\" THINGS",
+                "tier": "Blue",
+                "members": [
+                    "DISTANCE",
+                    "DIVISION",
+                    "JOHNS",
+                    "WEEKEND"
+                ]
+            },
+            {
+                "label": "CURRENCIES PLUS A LETTER",
+                "tier": "Purple",
+                "members": [
+                    "FRANCI",
+                    "RANDO",
+                    "REALM",
+                    "WONK"
+                ]
+            }
+        ]
     }
 ]
