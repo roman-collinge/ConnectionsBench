@@ -69882,5 +69882,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1066,
+        "date": "2026-05-13",
+        "has_images": false,
+        "words": [
+            "GRINDER",
+            "HERO",
+            "HOAGIE",
+            "SUB",
+            "ARGUMENT",
+            "BASIS",
+            "CAUSE",
+            "GROUNDS",
+            "ADJUST",
+            "CROP",
+            "FILTERS",
+            "MARKUP",
+            "BEAN",
+            "BELLY",
+            "DONUT",
+            "ROLL"
+        ],
+        "groups": [
+            {
+                "label": "LONG SANDWICH",
+                "tier": "Yellow",
+                "members": [
+                    "GRINDER",
+                    "HERO",
+                    "HOAGIE",
+                    "SUB"
+                ]
+            },
+            {
+                "label": "PRETEXT",
+                "tier": "Green",
+                "members": [
+                    "ARGUMENT",
+                    "BASIS",
+                    "CAUSE",
+                    "GROUNDS"
+                ]
+            },
+            {
+                "label": "SMARTPHONE PHOTO EDITING OPTIONS",
+                "tier": "Blue",
+                "members": [
+                    "ADJUST",
+                    "CROP",
+                    "FILTERS",
+                    "MARKUP"
+                ]
+            },
+            {
+                "label": "JELLY ___",
+                "tier": "Purple",
+                "members": [
+                    "BEAN",
+                    "BELLY",
+                    "DONUT",
+                    "ROLL"
+                ]
+            }
+        ]
     }
 ]
