@@ -69948,5 +69948,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1067,
+        "date": "2026-05-14",
+        "has_images": false,
+        "words": [
+            "GUT FEELING",
+            "HUNCH",
+            "INTUITION",
+            "SIXTH SENSE",
+            "DO NOT DISTURB",
+            "RING",
+            "SILENT",
+            "VIBRATE",
+            "BREADCRUMB",
+            "CATFISH",
+            "GHOST",
+            "LOVE BOMB",
+            "AIR CAIRO",
+            "ALL HALLOWS",
+            "ARM WARMER",
+            "THE OTHERS"
+        ],
+        "groups": [
+            {
+                "label": "PREMONITION",
+                "tier": "Yellow",
+                "members": [
+                    "GUT FEELING",
+                    "HUNCH",
+                    "INTUITION",
+                    "SIXTH SENSE"
+                ]
+            },
+            {
+                "label": "CELLPHONE MODES",
+                "tier": "Green",
+                "members": [
+                    "DO NOT DISTURB",
+                    "RING",
+                    "SILENT",
+                    "VIBRATE"
+                ]
+            },
+            {
+                "label": "BAD THINGS TO DO IN MODERN DATING",
+                "tier": "Blue",
+                "members": [
+                    "BREADCRUMB",
+                    "CATFISH",
+                    "GHOST",
+                    "LOVE BOMB"
+                ]
+            },
+            {
+                "label": "PHRASES WHOSE SECOND WORDS INCLUDE THEIR FIRST WORD",
+                "tier": "Purple",
+                "members": [
+                    "AIR CAIRO",
+                    "ALL HALLOWS",
+                    "ARM WARMER",
+                    "THE OTHERS"
+                ]
+            }
+        ]
     }
 ]
