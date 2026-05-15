@@ -70014,5 +70014,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1068,
+        "date": "2026-05-15",
+        "has_images": false,
+        "words": [
+            "CROSS",
+            "FORD",
+            "TRAVERSE",
+            "WADE",
+            "BIRD",
+            "CURRY",
+            "JAMES",
+            "JORDAN",
+            "ABLE",
+            "ELBA",
+            "SAW",
+            "WAS",
+            "CIAO",
+            "PALM",
+            "PEEK",
+            "PITT"
+        ],
+        "groups": [
+            {
+                "label": "NAVIGATE THROUGH, AS A RIVER",
+                "tier": "Yellow",
+                "members": [
+                    "CROSS",
+                    "FORD",
+                    "TRAVERSE",
+                    "WADE"
+                ]
+            },
+            {
+                "label": "MULTI-TIME NBA MVPS",
+                "tier": "Green",
+                "members": [
+                    "BIRD",
+                    "CURRY",
+                    "JAMES",
+                    "JORDAN"
+                ]
+            },
+            {
+                "label": "NON-PALINDROMIC WORDS IN A FAMOUS PALINDROME",
+                "tier": "Blue",
+                "members": [
+                    "ABLE",
+                    "ELBA",
+                    "SAW",
+                    "WAS"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF KINDS OF DOGS, FAMILIARLY",
+                "tier": "Purple",
+                "members": [
+                    "CIAO",
+                    "PALM",
+                    "PEEK",
+                    "PITT"
+                ]
+            }
+        ]
     }
 ]
