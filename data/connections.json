@@ -70080,5 +70080,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1069,
+        "date": "2026-05-16",
+        "has_images": false,
+        "words": [
+            "COUPE",
+            "FLUTE",
+            "STEIN",
+            "TUMBLER",
+            "FIDDLE",
+            "MESS",
+            "PLAY",
+            "TINKER",
+            "ALLEGRO",
+            "FORTE",
+            "LARGO",
+            "PIANO",
+            "BASSOON",
+            "BELFAST",
+            "NESQUICK",
+            "THERMOSTAT"
+        ],
+        "groups": [
+            {
+                "label": "GLASSWARE",
+                "tier": "Yellow",
+                "members": [
+                    "COUPE",
+                    "FLUTE",
+                    "STEIN",
+                    "TUMBLER"
+                ]
+            },
+            {
+                "label": "MESS AROUND (WITH)",
+                "tier": "Green",
+                "members": [
+                    "FIDDLE",
+                    "MESS",
+                    "PLAY",
+                    "TINKER"
+                ]
+            },
+            {
+                "label": "MUSIC PERFORMANCE DIRECTIONS",
+                "tier": "Blue",
+                "members": [
+                    "ALLEGRO",
+                    "FORTE",
+                    "LARGO",
+                    "PIANO"
+                ]
+            },
+            {
+                "label": "ENDING IN SYNONYMS FOR \"ASAP\"",
+                "tier": "Purple",
+                "members": [
+                    "BASSOON",
+                    "BELFAST",
+                    "NESQUICK",
+                    "THERMOSTAT"
+                ]
+            }
+        ]
     }
 ]
