@@ -70146,5 +70146,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1070,
+        "date": "2026-05-17",
+        "has_images": false,
+        "words": [
+            "DUCT",
+            "LINE",
+            "MAIN",
+            "PIPE",
+            "FLEECE",
+            "HOSE",
+            "SQUEEZE",
+            "STIFF",
+            "BOIL",
+            "POUR",
+            "STEEP",
+            "STRAIN",
+            "GRADE",
+            "GRAMMAR",
+            "HIGH",
+            "PRIMARY"
+        ],
+        "groups": [
+            {
+                "label": "CONDUIT",
+                "tier": "Yellow",
+                "members": [
+                    "DUCT",
+                    "LINE",
+                    "MAIN",
+                    "PIPE"
+                ]
+            },
+            {
+                "label": "SWINDLE",
+                "tier": "Green",
+                "members": [
+                    "FLEECE",
+                    "HOSE",
+                    "SQUEEZE",
+                    "STIFF"
+                ]
+            },
+            {
+                "label": "TEA-MAKING VERBS",
+                "tier": "Blue",
+                "members": [
+                    "BOIL",
+                    "POUR",
+                    "STEEP",
+                    "STRAIN"
+                ]
+            },
+            {
+                "label": "\"SCHOOL\" MODIFIERS",
+                "tier": "Purple",
+                "members": [
+                    "GRADE",
+                    "GRAMMAR",
+                    "HIGH",
+                    "PRIMARY"
+                ]
+            }
+        ]
     }
 ]
