@@ -70212,5 +70212,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1071,
+        "date": "2026-05-18",
+        "has_images": false,
+        "words": [
+            "PAIR",
+            "PARE",
+            "PEAR",
+            "P\u00c8RE",
+            "BLOW",
+            "CRACK",
+            "POP",
+            "SPLIT",
+            "PADRE",
+            "RED",
+            "ROYAL",
+            "TWIN",
+            "CHEAP",
+            "EARP",
+            "LUMP",
+            "WIKI"
+        ],
+        "groups": [
+            {
+                "label": "HOMOPHONES",
+                "tier": "Yellow",
+                "members": [
+                    "PAIR",
+                    "PARE",
+                    "PEAR",
+                    "P\u00c8RE"
+                ]
+            },
+            {
+                "label": "RUPTURE",
+                "tier": "Green",
+                "members": [
+                    "BLOW",
+                    "CRACK",
+                    "POP",
+                    "SPLIT"
+                ]
+            },
+            {
+                "label": "MLB PLAYER",
+                "tier": "Blue",
+                "members": [
+                    "PADRE",
+                    "RED",
+                    "ROYAL",
+                    "TWIN"
+                ]
+            },
+            {
+                "label": "FRUIT ANAGRAMS",
+                "tier": "Purple",
+                "members": [
+                    "CHEAP",
+                    "EARP",
+                    "LUMP",
+                    "WIKI"
+                ]
+            }
+        ]
     }
 ]
