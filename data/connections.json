@@ -70278,5 +70278,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1072,
+        "date": "2026-05-19",
+        "has_images": false,
+        "words": [
+            "BABBLE",
+            "CRY",
+            "NURSE",
+            "TEETHE",
+            "ALTER",
+            "COOK",
+            "DOCTOR",
+            "FUDGE",
+            "BLUBBER",
+            "DEENIE",
+            "FOREVER",
+            "SUPERFUDGE",
+            "FOUNDER",
+            "SALON",
+            "SURGEON",
+            "TROT"
+        ],
+        "groups": [
+            {
+                "label": "THINGS BABIES DO",
+                "tier": "Yellow",
+                "members": [
+                    "BABBLE",
+                    "CRY",
+                    "NURSE",
+                    "TEETHE"
+                ]
+            },
+            {
+                "label": "MODIFY DECEPTIVELY",
+                "tier": "Green",
+                "members": [
+                    "ALTER",
+                    "COOK",
+                    "DOCTOR",
+                    "FUDGE"
+                ]
+            },
+            {
+                "label": "JUDY BLUME BOOKS",
+                "tier": "Blue",
+                "members": [
+                    "BLUBBER",
+                    "DEENIE",
+                    "FOREVER",
+                    "SUPERFUDGE"
+                ]
+            },
+            {
+                "label": "FISH MINUS A LETTER",
+                "tier": "Purple",
+                "members": [
+                    "FOUNDER",
+                    "SALON",
+                    "SURGEON",
+                    "TROT"
+                ]
+            }
+        ]
     }
 ]
