@@ -70344,5 +70344,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1073,
+        "date": "2026-05-20",
+        "has_images": false,
+        "words": [
+            "HIGH",
+            "MEDIUM",
+            "OFF",
+            "SIMMER",
+            "CONCENTRATION",
+            "FORCE",
+            "INTENSITY",
+            "MIGHT",
+            "INTERVAL",
+            "KEY",
+            "MODE",
+            "SCALE",
+            "GROUNDHOG",
+            "INDEPENDENCE",
+            "THE LONGEST",
+            "TRAINING"
+        ],
+        "groups": [
+            {
+                "label": "STOVE KNOB SETTINGS",
+                "tier": "Yellow",
+                "members": [
+                    "HIGH",
+                    "MEDIUM",
+                    "OFF",
+                    "SIMMER"
+                ]
+            },
+            {
+                "label": "POTENCY",
+                "tier": "Green",
+                "members": [
+                    "CONCENTRATION",
+                    "FORCE",
+                    "INTENSITY",
+                    "MIGHT"
+                ]
+            },
+            {
+                "label": "MUSIC THEORY CONCEPTS",
+                "tier": "Blue",
+                "members": [
+                    "INTERVAL",
+                    "KEY",
+                    "MODE",
+                    "SCALE"
+                ]
+            },
+            {
+                "label": "\"___ DAY\" MOVIES",
+                "tier": "Purple",
+                "members": [
+                    "GROUNDHOG",
+                    "INDEPENDENCE",
+                    "THE LONGEST",
+                    "TRAINING"
+                ]
+            }
+        ]
     }
 ]
