@@ -70410,5 +70410,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1074,
+        "date": "2026-05-21",
+        "has_images": false,
+        "words": [
+            "CHESS",
+            "PECAN",
+            "PUMPKIN",
+            "SHOOFLY",
+            "CABOOSE",
+            "CAN",
+            "MOON",
+            "PEACH",
+            "ADVANTAGE",
+            "DEUCE",
+            "FORTY",
+            "LOVE",
+            "COLONEL",
+            "HONEY",
+            "HOT",
+            "YELLOW"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF PIES",
+                "tier": "Yellow",
+                "members": [
+                    "CHESS",
+                    "PECAN",
+                    "PUMPKIN",
+                    "SHOOFLY"
+                ]
+            },
+            {
+                "label": "THINGS ASSOCIATED WITH BUTTS",
+                "tier": "Green",
+                "members": [
+                    "CABOOSE",
+                    "CAN",
+                    "MOON",
+                    "PEACH"
+                ]
+            },
+            {
+                "label": "TENNIS SCORING TERMS",
+                "tier": "Blue",
+                "members": [
+                    "ADVANTAGE",
+                    "DEUCE",
+                    "FORTY",
+                    "LOVE"
+                ]
+            },
+            {
+                "label": "___ MUSTARD",
+                "tier": "Purple",
+                "members": [
+                    "COLONEL",
+                    "HONEY",
+                    "HOT",
+                    "YELLOW"
+                ]
+            }
+        ]
     }
 ]
