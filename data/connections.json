@@ -70476,5 +70476,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1075,
+        "date": "2026-05-22",
+        "has_images": false,
+        "words": [
+            "CHECK IN",
+            "FOLLOW UP",
+            "RECONNECT",
+            "TOUCH BASE",
+            "CONVENTION",
+            "CUSTOM",
+            "SOCIAL NORM",
+            "UNWRITTEN RULE",
+            "ASSEMBLY LINE",
+            "BAGGAGE CLAIM",
+            "CHECKOUT LANE",
+            "REVOLVING SUSHI BAR",
+            "CARRY-ON",
+            "EL NI\u00d1O",
+            "LOOSEY-GOOSEY",
+            "TAILOR-MADE"
+        ],
+        "groups": [
+            {
+                "label": "REACH BACK OUT",
+                "tier": "Yellow",
+                "members": [
+                    "CHECK IN",
+                    "FOLLOW UP",
+                    "RECONNECT",
+                    "TOUCH BASE"
+                ]
+            },
+            {
+                "label": "THE WAY THINGS ARE DONE",
+                "tier": "Green",
+                "members": [
+                    "CONVENTION",
+                    "CUSTOM",
+                    "SOCIAL NORM",
+                    "UNWRITTEN RULE"
+                ]
+            },
+            {
+                "label": "PLACES WITH CONVEYOR BELTS",
+                "tier": "Blue",
+                "members": [
+                    "ASSEMBLY LINE",
+                    "BAGGAGE CLAIM",
+                    "CHECKOUT LANE",
+                    "REVOLVING SUSHI BAR"
+                ]
+            },
+            {
+                "label": "STARTING WITH NAME HOMOPHONES",
+                "tier": "Purple",
+                "members": [
+                    "CARRY-ON",
+                    "EL NI\u00d1O",
+                    "LOOSEY-GOOSEY",
+                    "TAILOR-MADE"
+                ]
+            }
+        ]
     }
 ]
