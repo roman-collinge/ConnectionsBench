@@ -70542,5 +70542,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1076,
+        "date": "2026-05-23",
+        "has_images": false,
+        "words": [
+            "BEEHIVE",
+            "BOUFFANT",
+            "CHIGNON",
+            "POMPADOUR",
+            "FIRST",
+            "PREFERABLY",
+            "RATHER",
+            "SOONER",
+            "DAREDEVIL",
+            "HAWKEYE",
+            "NIGHTCRAWLER",
+            "WOLVERINE",
+            "EMPIRE",
+            "FORCE",
+            "LAST",
+            "PHANTOM"
+        ],
+        "groups": [
+            {
+                "label": "HAIRDOS",
+                "tier": "Yellow",
+                "members": [
+                    "BEEHIVE",
+                    "BOUFFANT",
+                    "CHIGNON",
+                    "POMPADOUR"
+                ]
+            },
+            {
+                "label": "MORE READILY",
+                "tier": "Green",
+                "members": [
+                    "FIRST",
+                    "PREFERABLY",
+                    "RATHER",
+                    "SOONER"
+                ]
+            },
+            {
+                "label": "MARVEL CHARACTERS",
+                "tier": "Blue",
+                "members": [
+                    "DAREDEVIL",
+                    "HAWKEYE",
+                    "NIGHTCRAWLER",
+                    "WOLVERINE"
+                ]
+            },
+            {
+                "label": "WORDS AFTER \"THE\" IN \"STAR WARS\" MOVIE TITLES",
+                "tier": "Purple",
+                "members": [
+                    "EMPIRE",
+                    "FORCE",
+                    "LAST",
+                    "PHANTOM"
+                ]
+            }
+        ]
     }
 ]
