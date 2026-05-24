@@ -70608,5 +70608,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1077,
+        "date": "2026-05-24",
+        "has_images": false,
+        "words": [
+            "COOP",
+            "PEN",
+            "SHED",
+            "STABLE",
+            "MARCH",
+            "PICKET",
+            "RALLY",
+            "STRIKE",
+            "DRUM",
+            "MASK",
+            "RATTLE",
+            "STAFF",
+            "HERB",
+            "HISS",
+            "ITSY",
+            "MYA"
+        ],
+        "groups": [
+            {
+                "label": "FARM FIXTURES",
+                "tier": "Yellow",
+                "members": [
+                    "COOP",
+                    "PEN",
+                    "SHED",
+                    "STABLE"
+                ]
+            },
+            {
+                "label": "LABOR PROTEST ACTIONS",
+                "tier": "Green",
+                "members": [
+                    "MARCH",
+                    "PICKET",
+                    "RALLY",
+                    "STRIKE"
+                ]
+            },
+            {
+                "label": "OBJECTS USED IN RITUAL PERFORMANCES",
+                "tier": "Blue",
+                "members": [
+                    "DRUM",
+                    "MASK",
+                    "RATTLE",
+                    "STAFF"
+                ]
+            },
+            {
+                "label": "POSSESSIVE ADJECTIVES PLUS A LETTER",
+                "tier": "Purple",
+                "members": [
+                    "HERB",
+                    "HISS",
+                    "ITSY",
+                    "MYA"
+                ]
+            }
+        ]
     }
 ]
