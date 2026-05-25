@@ -70674,5 +70674,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1078,
+        "date": "2026-05-25",
+        "has_images": false,
+        "words": [
+            "CAP",
+            "PIN",
+            "SHIRT",
+            "STICKER",
+            "JOT",
+            "SCRAP",
+            "SHRED",
+            "WHIT",
+            "ATM",
+            "CYA",
+            "LOL",
+            "TIA",
+            "BALL",
+            "BROW",
+            "LASH",
+            "LID"
+        ],
+        "groups": [
+            {
+                "label": "COMMON PROMO ITEMS",
+                "tier": "Yellow",
+                "members": [
+                    "CAP",
+                    "PIN",
+                    "SHIRT",
+                    "STICKER"
+                ]
+            },
+            {
+                "label": "TINY BIT",
+                "tier": "Green",
+                "members": [
+                    "JOT",
+                    "SCRAP",
+                    "SHRED",
+                    "WHIT"
+                ]
+            },
+            {
+                "label": "TEXTING ABBREVIATIONS",
+                "tier": "Blue",
+                "members": [
+                    "ATM",
+                    "CYA",
+                    "LOL",
+                    "TIA"
+                ]
+            },
+            {
+                "label": "EYE___",
+                "tier": "Purple",
+                "members": [
+                    "BALL",
+                    "BROW",
+                    "LASH",
+                    "LID"
+                ]
+            }
+        ]
     }
 ]
