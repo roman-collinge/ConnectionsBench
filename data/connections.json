@@ -70740,5 +70740,137 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1079,
+        "date": "2026-05-26",
+        "has_images": false,
+        "words": [
+            "CUP",
+            "MEDAL",
+            "PENNANT",
+            "RING",
+            "CONCERN",
+            "FOCUS",
+            "POINT",
+            "SUBJECT",
+            "AIRPLANE",
+            "BIG",
+            "CLUE",
+            "TWINS",
+            "ENLIST",
+            "LISTEN",
+            "SILENT",
+            "TINSEL"
+        ],
+        "groups": [
+            {
+                "label": "CHAMPIONSHIP AWARDS",
+                "tier": "Yellow",
+                "members": [
+                    "CUP",
+                    "MEDAL",
+                    "PENNANT",
+                    "RING"
+                ]
+            },
+            {
+                "label": "MATTER AT HAND",
+                "tier": "Green",
+                "members": [
+                    "CONCERN",
+                    "FOCUS",
+                    "POINT",
+                    "SUBJECT"
+                ]
+            },
+            {
+                "label": "'80S COMEDIES",
+                "tier": "Blue",
+                "members": [
+                    "AIRPLANE",
+                    "BIG",
+                    "CLUE",
+                    "TWINS"
+                ]
+            },
+            {
+                "label": "ANAGRAMS",
+                "tier": "Purple",
+                "members": [
+                    "ENLIST",
+                    "LISTEN",
+                    "SILENT",
+                    "TINSEL"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1080,
+        "date": "2026-05-27",
+        "has_images": false,
+        "words": [
+            "COMMUNE",
+            "HAMLET",
+            "TOWNSHIP",
+            "VILLAGE",
+            "BATTLESHIP",
+            "OPERATION",
+            "OTHELLO",
+            "TROUBLE",
+            "AYE",
+            "LEAR",
+            "PIER",
+            "STAIR",
+            "BANJO",
+            "MACBETH",
+            "MONOGAMY",
+            "NUTMEG"
+        ],
+        "groups": [
+            {
+                "label": "SMALL COMMUNITY",
+                "tier": "Yellow",
+                "members": [
+                    "COMMUNE",
+                    "HAMLET",
+                    "TOWNSHIP",
+                    "VILLAGE"
+                ]
+            },
+            {
+                "label": "CLASSIC BOARD GAMES",
+                "tier": "Green",
+                "members": [
+                    "BATTLESHIP",
+                    "OPERATION",
+                    "OTHELLO",
+                    "TROUBLE"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF WAYS OF LOOKING",
+                "tier": "Blue",
+                "members": [
+                    "AYE",
+                    "LEAR",
+                    "PIER",
+                    "STAIR"
+                ]
+            },
+            {
+                "label": "ENDING IN THE \"LITTLE WOMEN\" MARCH SISTERS",
+                "tier": "Purple",
+                "members": [
+                    "BANJO",
+                    "MACBETH",
+                    "MONOGAMY",
+                    "NUTMEG"
+                ]
+            }
+        ]
     }
 ]
