@@ -70872,5 +70872,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1081,
+        "date": "2026-05-28",
+        "has_images": false,
+        "words": [
+            "DUCK",
+            "HUNCH",
+            "SQUAT",
+            "STOOP",
+            "MEDIA",
+            "NEWS",
+            "PAPERS",
+            "PRESS",
+            "BAR",
+            "BENCH",
+            "PODIUM",
+            "STAND",
+            "JUMP",
+            "LIFT",
+            "LODGE",
+            "SLOPE"
+        ],
+        "groups": [
+            {
+                "label": "GET LOW",
+                "tier": "Yellow",
+                "members": [
+                    "DUCK",
+                    "HUNCH",
+                    "SQUAT",
+                    "STOOP"
+                ]
+            },
+            {
+                "label": "FOURTH ESTATE",
+                "tier": "Green",
+                "members": [
+                    "MEDIA",
+                    "NEWS",
+                    "PAPERS",
+                    "PRESS"
+                ]
+            },
+            {
+                "label": "PARTS OF A COURTROOM",
+                "tier": "Blue",
+                "members": [
+                    "BAR",
+                    "BENCH",
+                    "PODIUM",
+                    "STAND"
+                ]
+            },
+            {
+                "label": "SKI ___",
+                "tier": "Purple",
+                "members": [
+                    "JUMP",
+                    "LIFT",
+                    "LODGE",
+                    "SLOPE"
+                ]
+            }
+        ]
     }
 ]
