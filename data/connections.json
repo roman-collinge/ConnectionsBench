@@ -70938,5 +70938,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1082,
+        "date": "2026-05-29",
+        "has_images": false,
+        "words": [
+            "ARCTIC",
+            "ATLANTIC",
+            "PACIFIC",
+            "SOUTHERN",
+            "AMMONIA",
+            "BO",
+            "DURIAN",
+            "WET DOG",
+            "BILLIARD",
+            "DRAWING",
+            "POWDER",
+            "READING",
+            "FATHER",
+            "PENNSYLVANIA",
+            "PROTACTINIUM",
+            "PUBLIC ADDRESS"
+        ],
+        "groups": [
+            {
+                "label": "OCEANS",
+                "tier": "Yellow",
+                "members": [
+                    "ARCTIC",
+                    "ATLANTIC",
+                    "PACIFIC",
+                    "SOUTHERN"
+                ]
+            },
+            {
+                "label": "SOURCES OF DISTINCTIVE SMELLS",
+                "tier": "Green",
+                "members": [
+                    "AMMONIA",
+                    "BO",
+                    "DURIAN",
+                    "WET DOG"
+                ]
+            },
+            {
+                "label": "KINDS OF ROOMS IN A MANSION",
+                "tier": "Blue",
+                "members": [
+                    "BILLIARD",
+                    "DRAWING",
+                    "POWDER",
+                    "READING"
+                ]
+            },
+            {
+                "label": "WHAT \"PA\" MIGHT REFER TO",
+                "tier": "Purple",
+                "members": [
+                    "FATHER",
+                    "PENNSYLVANIA",
+                    "PROTACTINIUM",
+                    "PUBLIC ADDRESS"
+                ]
+            }
+        ]
     }
 ]
