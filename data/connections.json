@@ -71004,5 +71004,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1083,
+        "date": "2026-05-30",
+        "has_images": false,
+        "words": [
+            "IMPOSSIBLE",
+            "NEVER",
+            "NO WAY",
+            "SORRY",
+            "CLEAR",
+            "LUCID",
+            "RIGHT",
+            "SOUND",
+            "BRACE",
+            "CARET",
+            "PIPE",
+            "TILDE",
+            "FEVER",
+            "GIGI",
+            "VOLARE",
+            "WITCHCRAFT"
+        ],
+        "groups": [
+            {
+                "label": "\"IN YOUR DREAMS\"",
+                "tier": "Yellow",
+                "members": [
+                    "IMPOSSIBLE",
+                    "NEVER",
+                    "NO WAY",
+                    "SORRY"
+                ]
+            },
+            {
+                "label": "SENSIBLE",
+                "tier": "Green",
+                "members": [
+                    "CLEAR",
+                    "LUCID",
+                    "RIGHT",
+                    "SOUND"
+                ]
+            },
+            {
+                "label": "TYPOGRAPHICAL SYMBOLS",
+                "tier": "Blue",
+                "members": [
+                    "BRACE",
+                    "CARET",
+                    "PIPE",
+                    "TILDE"
+                ]
+            },
+            {
+                "label": "SONG OF THE YEAR NOMINEES AT THE FIRST GRAMMY AWARDS",
+                "tier": "Purple",
+                "members": [
+                    "FEVER",
+                    "GIGI",
+                    "VOLARE",
+                    "WITCHCRAFT"
+                ]
+            }
+        ]
     }
 ]
