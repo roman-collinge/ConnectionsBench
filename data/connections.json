@@ -71136,5 +71136,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1085,
+        "date": "2026-06-01",
+        "has_images": false,
+        "words": [
+            "CEILING",
+            "DOOR",
+            "WALL",
+            "WINDOW",
+            "NEWSPAPER",
+            "PIPE",
+            "ROBE",
+            "SLIPPERS",
+            "STREETCAR",
+            "CAT",
+            "MENAGERIE",
+            "TATTOO",
+            "KEY",
+            "ONION",
+            "TREE",
+            "WEDDING"
+        ],
+        "groups": [
+            {
+                "label": "ROOM FEATURES",
+                "tier": "Yellow",
+                "members": [
+                    "CEILING",
+                    "DOOR",
+                    "WALL",
+                    "WINDOW"
+                ]
+            },
+            {
+                "label": "OLD-TIMEY LOUNGING ACCESSORIES",
+                "tier": "Green",
+                "members": [
+                    "NEWSPAPER",
+                    "PIPE",
+                    "ROBE",
+                    "SLIPPERS"
+                ]
+            },
+            {
+                "label": "SUBJECTS IN TENNESSEE WILLIAMS TITLES",
+                "tier": "Blue",
+                "members": [
+                    "STREETCAR",
+                    "CAT",
+                    "MENAGERIE",
+                    "TATTOO"
+                ]
+            },
+            {
+                "label": "___ RING",
+                "tier": "Purple",
+                "members": [
+                    "KEY",
+                    "ONION",
+                    "TREE",
+                    "WEDDING"
+                ]
+            }
+        ]
     }
 ]
