@@ -71202,5 +71202,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1086,
+        "date": "2026-06-02",
+        "has_images": false,
+        "words": [
+            "CLOAK-AND-DAGGER",
+            "COVERT",
+            "HUSH-HUSH",
+            "TOP SECRET",
+            "BUBBLE AND SQUEAK",
+            "CHIPS",
+            "JACKET POTATO",
+            "MASH",
+            "COAT OF ARMS",
+            "CREST",
+            "HELMET",
+            "SHIELD",
+            "CAPE MAY",
+            "FREE WILL",
+            "GRAPE MUST",
+            "TIN CAN"
+        ],
+        "groups": [
+            {
+                "label": "CLANDESTINE",
+                "tier": "Yellow",
+                "members": [
+                    "CLOAK-AND-DAGGER",
+                    "COVERT",
+                    "HUSH-HUSH",
+                    "TOP SECRET"
+                ]
+            },
+            {
+                "label": "BRITISH POTATO DISHES",
+                "tier": "Green",
+                "members": [
+                    "BUBBLE AND SQUEAK",
+                    "CHIPS",
+                    "JACKET POTATO",
+                    "MASH"
+                ]
+            },
+            {
+                "label": "HERALDIC ACHIEVEMENTS",
+                "tier": "Blue",
+                "members": [
+                    "COAT OF ARMS",
+                    "CREST",
+                    "HELMET",
+                    "SHIELD"
+                ]
+            },
+            {
+                "label": "ENDING IN MODAL AUXILIARY VERBS",
+                "tier": "Purple",
+                "members": [
+                    "CAPE MAY",
+                    "FREE WILL",
+                    "GRAPE MUST",
+                    "TIN CAN"
+                ]
+            }
+        ]
     }
 ]
