@@ -71268,5 +71268,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1087,
+        "date": "2026-06-03",
+        "has_images": false,
+        "words": [
+            "BROWN",
+            "JASMINE",
+            "STICKY",
+            "SUSHI",
+            "COLORFUL",
+            "GUMMY",
+            "SUGARY",
+            "URSINE",
+            "EMPANADA",
+            "FATAYER",
+            "PASTY",
+            "SAMOSA",
+            "ARIE",
+            "BELL",
+            "MOAN",
+            "RAY"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF RICE",
+                "tier": "Yellow",
+                "members": [
+                    "BROWN",
+                    "JASMINE",
+                    "STICKY",
+                    "SUSHI"
+                ]
+            },
+            {
+                "label": "GUMMY BEAR DESCRIPTORS",
+                "tier": "Green",
+                "members": [
+                    "COLORFUL",
+                    "GUMMY",
+                    "SUGARY",
+                    "URSINE"
+                ]
+            },
+            {
+                "label": "SAVORY STUFFED PASTRIES",
+                "tier": "Blue",
+                "members": [
+                    "EMPANADA",
+                    "FATAYER",
+                    "PASTY",
+                    "SAMOSA"
+                ]
+            },
+            {
+                "label": "DISNEY PRINCESSES MINUS LAST LETTER",
+                "tier": "Purple",
+                "members": [
+                    "ARIE",
+                    "BELL",
+                    "MOAN",
+                    "RAY"
+                ]
+            }
+        ]
     }
 ]
