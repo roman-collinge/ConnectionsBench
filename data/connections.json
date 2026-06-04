@@ -71334,5 +71334,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1088,
+        "date": "2026-06-04",
+        "has_images": false,
+        "words": [
+            "ACRYLIC",
+            "GOUACHE",
+            "OIL",
+            "TEMPERA",
+            "GUSTO",
+            "PANACHE",
+            "VERVE",
+            "VINEGAR",
+            "BEASTIE",
+            "PUBLIC",
+            "RUN",
+            "SALT",
+            "KITCHEN",
+            "PEPPER",
+            "TOWN",
+            "WRITER"
+        ],
+        "groups": [
+            {
+                "label": "PAINTING MEDIA",
+                "tier": "Yellow",
+                "members": [
+                    "ACRYLIC",
+                    "GOUACHE",
+                    "OIL",
+                    "TEMPERA"
+                ]
+            },
+            {
+                "label": "ESPRIT",
+                "tier": "Green",
+                "members": [
+                    "GUSTO",
+                    "PANACHE",
+                    "VERVE",
+                    "VINEGAR"
+                ]
+            },
+            {
+                "label": "STARTS OF CLASSIC HIP-HOP GROUPS",
+                "tier": "Blue",
+                "members": [
+                    "BEASTIE",
+                    "PUBLIC",
+                    "RUN",
+                    "SALT"
+                ]
+            },
+            {
+                "label": "GHOST ___",
+                "tier": "Purple",
+                "members": [
+                    "KITCHEN",
+                    "PEPPER",
+                    "TOWN",
+                    "WRITER"
+                ]
+            }
+        ]
     }
 ]
