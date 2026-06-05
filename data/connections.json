@@ -71400,5 +71400,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1089,
+        "date": "2026-06-05",
+        "has_images": false,
+        "words": [
+            "BREADCRUMB",
+            "FOREST",
+            "OVEN",
+            "WITCH",
+            "CLUSTER",
+            "FLAKE",
+            "LOOP",
+            "PUFF",
+            "DISCLOSURE",
+            "GHOST",
+            "STRIPTEASE",
+            "THE SUBSTANCE",
+            "INCUBUS",
+            "OSCAR",
+            "QUATRAIN",
+            "SITUATIONSHIP"
+        ],
+        "groups": [
+            {
+                "label": "ASSOCIATED WITH HANSEL AND GRETEL",
+                "tier": "Yellow",
+                "members": [
+                    "BREADCRUMB",
+                    "FOREST",
+                    "OVEN",
+                    "WITCH"
+                ]
+            },
+            {
+                "label": "BIT OF CEREAL",
+                "tier": "Green",
+                "members": [
+                    "CLUSTER",
+                    "FLAKE",
+                    "LOOP",
+                    "PUFF"
+                ]
+            },
+            {
+                "label": "DEMI MOORE MOVIES",
+                "tier": "Blue",
+                "members": [
+                    "DISCLOSURE",
+                    "GHOST",
+                    "STRIPTEASE",
+                    "THE SUBSTANCE"
+                ]
+            },
+            {
+                "label": "ENDING IN METHODS OF TRANSPORTATION",
+                "tier": "Purple",
+                "members": [
+                    "INCUBUS",
+                    "OSCAR",
+                    "QUATRAIN",
+                    "SITUATIONSHIP"
+                ]
+            }
+        ]
     }
 ]
