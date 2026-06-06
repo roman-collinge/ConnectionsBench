@@ -71466,5 +71466,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1090,
+        "date": "2026-06-06",
+        "has_images": false,
+        "words": [
+            "POLE",
+            "POST",
+            "SHAFT",
+            "STAKE",
+            "BETRAY",
+            "DISPLAY",
+            "EXPRESS",
+            "REGISTER",
+            "BASILISK",
+            "DRAGON",
+            "MONITOR",
+            "SKINK",
+            "DINNER",
+            "DRAFTING",
+            "ROUND",
+            "TIMES"
+        ],
+        "groups": [
+            {
+                "label": "PILLAR",
+                "tier": "Yellow",
+                "members": [
+                    "POLE",
+                    "POST",
+                    "SHAFT",
+                    "STAKE"
+                ]
+            },
+            {
+                "label": "INDICATE, AS EMOTIONS",
+                "tier": "Green",
+                "members": [
+                    "BETRAY",
+                    "DISPLAY",
+                    "EXPRESS",
+                    "REGISTER"
+                ]
+            },
+            {
+                "label": "KINDS OF LIZARDS",
+                "tier": "Blue",
+                "members": [
+                    "BASILISK",
+                    "DRAGON",
+                    "MONITOR",
+                    "SKINK"
+                ]
+            },
+            {
+                "label": "___ TABLE",
+                "tier": "Purple",
+                "members": [
+                    "DINNER",
+                    "DRAFTING",
+                    "ROUND",
+                    "TIMES"
+                ]
+            }
+        ]
     }
 ]
