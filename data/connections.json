@@ -71532,5 +71532,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1091,
+        "date": "2026-06-07",
+        "has_images": false,
+        "words": [
+            "GAUZY",
+            "GOSSAMER",
+            "SHEER",
+            "THIN",
+            "EXPRESS",
+            "STATE",
+            "UTTER",
+            "VOICE",
+            "GUT",
+            "LEVEL",
+            "TOTAL",
+            "TRASH",
+            "CORE",
+            "POP",
+            "STEP",
+            "WAVE"
+        ],
+        "groups": [
+            {
+                "label": "TRANSLUCENT, AS FABRIC",
+                "tier": "Yellow",
+                "members": [
+                    "GAUZY",
+                    "GOSSAMER",
+                    "SHEER",
+                    "THIN"
+                ]
+            },
+            {
+                "label": "SPEAK",
+                "tier": "Green",
+                "members": [
+                    "EXPRESS",
+                    "STATE",
+                    "UTTER",
+                    "VOICE"
+                ]
+            },
+            {
+                "label": "DEMOLISH",
+                "tier": "Blue",
+                "members": [
+                    "GUT",
+                    "LEVEL",
+                    "TOTAL",
+                    "TRASH"
+                ]
+            },
+            {
+                "label": "MUSIC GENRE SUFFIXES",
+                "tier": "Purple",
+                "members": [
+                    "CORE",
+                    "POP",
+                    "STEP",
+                    "WAVE"
+                ]
+            }
+        ]
     }
 ]
