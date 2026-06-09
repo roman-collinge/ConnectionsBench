@@ -71664,5 +71664,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1093,
+        "date": "2026-06-09",
+        "has_images": false,
+        "words": [
+            "ANGEL",
+            "BABE",
+            "DOVE",
+            "LAMB",
+            "PASSWORD",
+            "SECRET",
+            "SPOILER",
+            "SURPRISE",
+            "ASTERISK",
+            "DEGREE",
+            "EXPONENT",
+            "TRADEMARK",
+            "AXE",
+            "BONE",
+            "KEYS",
+            "SKINS"
+        ],
+        "groups": [
+            {
+                "label": "SYMBOLS OF INNOCENCE",
+                "tier": "Yellow",
+                "members": [
+                    "ANGEL",
+                    "BABE",
+                    "DOVE",
+                    "LAMB"
+                ]
+            },
+            {
+                "label": "THINGS YOU'RE NOT SUPPOSED TO REVEAL",
+                "tier": "Green",
+                "members": [
+                    "PASSWORD",
+                    "SECRET",
+                    "SPOILER",
+                    "SURPRISE"
+                ]
+            },
+            {
+                "label": "THINGS REPRESENTED IN SUPERSCRIPT",
+                "tier": "Blue",
+                "members": [
+                    "ASTERISK",
+                    "DEGREE",
+                    "EXPONENT",
+                    "TRADEMARK"
+                ]
+            },
+            {
+                "label": "SLANG FOR MUSICAL INSTRUMENTS",
+                "tier": "Purple",
+                "members": [
+                    "AXE",
+                    "BONE",
+                    "KEYS",
+                    "SKINS"
+                ]
+            }
+        ]
     }
 ]
