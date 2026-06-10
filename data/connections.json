@@ -71730,5 +71730,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1094,
+        "date": "2026-06-10",
+        "has_images": false,
+        "words": [
+            "FASHION",
+            "MANNER",
+            "METHOD",
+            "WAY",
+            "CRUST",
+            "FILM",
+            "SCUM",
+            "SKIN",
+            "CATWALK",
+            "PIT",
+            "STAGE",
+            "WINGS",
+            "CHARACTER",
+            "LINE",
+            "PAGE",
+            "WORD"
+        ],
+        "groups": [
+            {
+                "label": "TECHNIQUE",
+                "tier": "Yellow",
+                "members": [
+                    "FASHION",
+                    "MANNER",
+                    "METHOD",
+                    "WAY"
+                ]
+            },
+            {
+                "label": "GROSS THINGS THAT FORM ON WET SURFACES",
+                "tier": "Green",
+                "members": [
+                    "CRUST",
+                    "FILM",
+                    "SCUM",
+                    "SKIN"
+                ]
+            },
+            {
+                "label": "PARTS OF A THEATER",
+                "tier": "Blue",
+                "members": [
+                    "CATWALK",
+                    "PIT",
+                    "STAGE",
+                    "WINGS"
+                ]
+            },
+            {
+                "label": "COUNTED IN DOCUMENT WORD COUNTS",
+                "tier": "Purple",
+                "members": [
+                    "CHARACTER",
+                    "LINE",
+                    "PAGE",
+                    "WORD"
+                ]
+            }
+        ]
     }
 ]
