@@ -71796,5 +71796,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1095,
+        "date": "2026-06-11",
+        "has_images": false,
+        "words": [
+            "BALANCE",
+            "CARDIO",
+            "STRETCHING",
+            "WEIGHTS",
+            "BRASS BAND",
+            "DEVIL",
+            "RHINO",
+            "VIKING HELMET",
+            "BRONCHO",
+            "FORERUNNER",
+            "TROUPER",
+            "UCONN",
+            "ELLE",
+            "PAPAL",
+            "STRIP",
+            "VENO"
+        ],
+        "groups": [
+            {
+                "label": "PARTS OF A WORKOUT ROUTINE",
+                "tier": "Yellow",
+                "members": [
+                    "BALANCE",
+                    "CARDIO",
+                    "STRETCHING",
+                    "WEIGHTS"
+                ]
+            },
+            {
+                "label": "THINGS WITH HORNS",
+                "tier": "Green",
+                "members": [
+                    "BRASS BAND",
+                    "DEVIL",
+                    "RHINO",
+                    "VIKING HELMET"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF SUVS",
+                "tier": "Blue",
+                "members": [
+                    "BRONCHO",
+                    "FORERUNNER",
+                    "TROUPER",
+                    "UCONN"
+                ]
+            },
+            {
+                "label": "PAYMENT APPS MINUS A LETTER",
+                "tier": "Purple",
+                "members": [
+                    "ELLE",
+                    "PAPAL",
+                    "STRIP",
+                    "VENO"
+                ]
+            }
+        ]
     }
 ]
