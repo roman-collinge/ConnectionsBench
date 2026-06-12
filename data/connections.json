@@ -71862,5 +71862,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1096,
+        "date": "2026-06-12",
+        "has_images": false,
+        "words": [
+            "CHARM BRACELET",
+            "CURSE WORD",
+            "HEX KEY",
+            "SPELL CHECKER",
+            "MURDER MYSTERY",
+            "PACK RAT",
+            "PRIDE ROCK",
+            "SCHOOL DAYS",
+            "COPY EDITOR",
+            "ECHO PARK",
+            "MIRROR SELFIE",
+            "QUOTE UNQUOTE",
+            "BANK TELLER",
+            "BED HEAD",
+            "DELTA AIRLINES",
+            "MOUTH GUARD"
+        ],
+        "groups": [
+            {
+                "label": "STARTING WITH INCANTATIONS",
+                "tier": "Yellow",
+                "members": [
+                    "CHARM BRACELET",
+                    "CURSE WORD",
+                    "HEX KEY",
+                    "SPELL CHECKER"
+                ]
+            },
+            {
+                "label": "STARTING WITH ANIMAL GROUP NAMES",
+                "tier": "Green",
+                "members": [
+                    "MURDER MYSTERY",
+                    "PACK RAT",
+                    "PRIDE ROCK",
+                    "SCHOOL DAYS"
+                ]
+            },
+            {
+                "label": "STARTING WITH SYNONYMS FOR \"REPEAT\"",
+                "tier": "Blue",
+                "members": [
+                    "COPY EDITOR",
+                    "ECHO PARK",
+                    "MIRROR SELFIE",
+                    "QUOTE UNQUOTE"
+                ]
+            },
+            {
+                "label": "STARTING WITH PARTS OF A RIVER",
+                "tier": "Purple",
+                "members": [
+                    "BANK TELLER",
+                    "BED HEAD",
+                    "DELTA AIRLINES",
+                    "MOUTH GUARD"
+                ]
+            }
+        ]
     }
 ]
