@@ -71994,5 +71994,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1098,
+        "date": "2026-06-14",
+        "has_images": false,
+        "words": [
+            "BANANA PEEL",
+            "CREAM PIE",
+            "RUBBER CHICKEN",
+            "SELTZER BOTTLE",
+            "GLOBE",
+            "GRINDSTONE",
+            "GYROSCOPE",
+            "ROULETTE WHEEL",
+            "CATERPILLAR",
+            "POCKET WATCH",
+            "RABBIT HOLE",
+            "TEA PARTY",
+            "MASSACHUSETTS",
+            "MASTER OF ARTS",
+            "MILLIAMPERE",
+            "MOTHER"
+        ],
+        "groups": [
+            {
+                "label": "CLASSIC SLAPSTICK PROPS",
+                "tier": "Yellow",
+                "members": [
+                    "BANANA PEEL",
+                    "CREAM PIE",
+                    "RUBBER CHICKEN",
+                    "SELTZER BOTTLE"
+                ]
+            },
+            {
+                "label": "THINGS THAT SPIN",
+                "tier": "Green",
+                "members": [
+                    "GLOBE",
+                    "GRINDSTONE",
+                    "GYROSCOPE",
+                    "ROULETTE WHEEL"
+                ]
+            },
+            {
+                "label": "FEATURED IN \"ALICE'S ADVENTURES IN WONDERLAND\"",
+                "tier": "Blue",
+                "members": [
+                    "CATERPILLAR",
+                    "POCKET WATCH",
+                    "RABBIT HOLE",
+                    "TEA PARTY"
+                ]
+            },
+            {
+                "label": "WHAT \"MA\" MIGHT REFER TO",
+                "tier": "Purple",
+                "members": [
+                    "MASSACHUSETTS",
+                    "MASTER OF ARTS",
+                    "MILLIAMPERE",
+                    "MOTHER"
+                ]
+            }
+        ]
     }
 ]
