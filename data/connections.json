@@ -72060,5 +72060,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1099,
+        "date": "2026-06-15",
+        "has_images": false,
+        "words": [
+            "LEGS",
+            "MOMENTUM",
+            "STAMINA",
+            "TRACTION",
+            "ACCESSORIZE",
+            "CHANGE",
+            "PRIMP",
+            "SHOWER",
+            "DOG",
+            "DRAGON",
+            "HORSE",
+            "SNAKE",
+            "ANEMONE",
+            "LARKSPUR",
+            "MONKSHOOD",
+            "PHLOX"
+        ],
+        "groups": [
+            {
+                "label": "STAYING POWER",
+                "tier": "Yellow",
+                "members": [
+                    "LEGS",
+                    "MOMENTUM",
+                    "STAMINA",
+                    "TRACTION"
+                ]
+            },
+            {
+                "label": "GET READY FOR A NIGHT OUT",
+                "tier": "Green",
+                "members": [
+                    "ACCESSORIZE",
+                    "CHANGE",
+                    "PRIMP",
+                    "SHOWER"
+                ]
+            },
+            {
+                "label": "CHINESE ZODIAC ANIMALS",
+                "tier": "Blue",
+                "members": [
+                    "DOG",
+                    "DRAGON",
+                    "HORSE",
+                    "SNAKE"
+                ]
+            },
+            {
+                "label": "FLOWERS",
+                "tier": "Purple",
+                "members": [
+                    "ANEMONE",
+                    "LARKSPUR",
+                    "MONKSHOOD",
+                    "PHLOX"
+                ]
+            }
+        ]
     }
 ]
