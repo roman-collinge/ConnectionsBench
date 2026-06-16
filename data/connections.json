@@ -72126,5 +72126,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1100,
+        "date": "2026-06-16",
+        "has_images": false,
+        "words": [
+            "BLUE CHEESE",
+            "CAESAR",
+            "GREEN GODDESS",
+            "RANCH",
+            "COURT",
+            "ENTOURAGE",
+            "RETINUE",
+            "SUITE",
+            "BLACK SWAN",
+            "BLUE MOON",
+            "PERFECT STORM",
+            "UNICORN",
+            "BASKETBALL",
+            "EARRINGS",
+            "RED TAPE",
+            "RHYTHMIC GYMNASTICS GEAR"
+        ],
+        "groups": [
+            {
+                "label": "CREAMY SALAD DRESSINGS",
+                "tier": "Yellow",
+                "members": [
+                    "BLUE CHEESE",
+                    "CAESAR",
+                    "GREEN GODDESS",
+                    "RANCH"
+                ]
+            },
+            {
+                "label": "ATTENDANTS",
+                "tier": "Green",
+                "members": [
+                    "COURT",
+                    "ENTOURAGE",
+                    "RETINUE",
+                    "SUITE"
+                ]
+            },
+            {
+                "label": "RARE THINGS, IDIOMATICALLY",
+                "tier": "Blue",
+                "members": [
+                    "BLACK SWAN",
+                    "BLUE MOON",
+                    "PERFECT STORM",
+                    "UNICORN"
+                ]
+            },
+            {
+                "label": "WHAT \"HOOPS\" MIGHT REFER TO",
+                "tier": "Purple",
+                "members": [
+                    "BASKETBALL",
+                    "EARRINGS",
+                    "RED TAPE",
+                    "RHYTHMIC GYMNASTICS GEAR"
+                ]
+            }
+        ]
     }
 ]
