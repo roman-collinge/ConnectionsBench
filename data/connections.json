@@ -72192,5 +72192,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1101,
+        "date": "2026-06-17",
+        "has_images": false,
+        "words": [
+            "CAVITY",
+            "NICHE",
+            "NOOK",
+            "RECESS",
+            "CHEEK",
+            "LIP",
+            "MOUTH",
+            "NERVE",
+            "CALLIOPE",
+            "ECHO",
+            "IRIS",
+            "NEMESIS",
+            "CLASSIC",
+            "KINDLE",
+            "SORTIE",
+            "TYPEFACE"
+        ],
+        "groups": [
+            {
+                "label": "ALCOVE",
+                "tier": "Yellow",
+                "members": [
+                    "CAVITY",
+                    "NICHE",
+                    "NOOK",
+                    "RECESS"
+                ]
+            },
+            {
+                "label": "BODILY WORDS FOR ATTITUDE",
+                "tier": "Green",
+                "members": [
+                    "CHEEK",
+                    "LIP",
+                    "MOUTH",
+                    "NERVE"
+                ]
+            },
+            {
+                "label": "FIGURES IN GREEK MYTH",
+                "tier": "Blue",
+                "members": [
+                    "CALLIOPE",
+                    "ECHO",
+                    "IRIS",
+                    "NEMESIS"
+                ]
+            },
+            {
+                "label": "STARTING WITH SYNONYMS FOR \"ILK\"",
+                "tier": "Purple",
+                "members": [
+                    "CLASSIC",
+                    "KINDLE",
+                    "SORTIE",
+                    "TYPEFACE"
+                ]
+            }
+        ]
     }
 ]
