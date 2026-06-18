@@ -72258,5 +72258,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1102,
+        "date": "2026-06-18",
+        "has_images": false,
+        "words": [
+            "AEROBICS",
+            "BARRE",
+            "BOOTCAMP",
+            "PILATES",
+            "ATTITUDE",
+            "BEARING",
+            "CARRIAGE",
+            "PRESENCE",
+            "GANDHI",
+            "KING",
+            "MANDELA",
+            "TUTU",
+            "HAMM",
+            "JIGS",
+            "PLIE",
+            "WREN"
+        ],
+        "groups": [
+            {
+                "label": "FITNESS CLASS TYPES",
+                "tier": "Yellow",
+                "members": [
+                    "AEROBICS",
+                    "BARRE",
+                    "BOOTCAMP",
+                    "PILATES"
+                ]
+            },
+            {
+                "label": "DEMEANOR",
+                "tier": "Green",
+                "members": [
+                    "ATTITUDE",
+                    "BEARING",
+                    "CARRIAGE",
+                    "PRESENCE"
+                ]
+            },
+            {
+                "label": "PEACE ACTIVISTS",
+                "tier": "Blue",
+                "members": [
+                    "GANDHI",
+                    "KING",
+                    "MANDELA",
+                    "TUTU"
+                ]
+            },
+            {
+                "label": "TOOLS MINUS LAST TWO LETTERS",
+                "tier": "Purple",
+                "members": [
+                    "HAMM",
+                    "JIGS",
+                    "PLIE",
+                    "WREN"
+                ]
+            }
+        ]
     }
 ]
