@@ -72324,5 +72324,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1103,
+        "date": "2026-06-19",
+        "has_images": false,
+        "words": [
+            "MISO PASTE",
+            "PARMESAN",
+            "SOY SAUCE",
+            "VEGEMITE",
+            "CHOPSTICKS",
+            "F\u00dcR ELISE",
+            "HEART AND SOUL",
+            "THE ENTERTAINER",
+            "FORTUNE COOKIE",
+            "PEOPLE PERSON",
+            "SPINDERELLA",
+            "TIME MACHINE",
+            "COINCIDENTALLY",
+            "DIM SUM",
+            "TEETOTAL",
+            "VISCOUNT"
+        ],
+        "groups": [
+            {
+                "label": "UMAMI-RICH FOODS",
+                "tier": "Yellow",
+                "members": [
+                    "MISO PASTE",
+                    "PARMESAN",
+                    "SOY SAUCE",
+                    "VEGEMITE"
+                ]
+            },
+            {
+                "label": "THINGS A BEGINNER MIGHT LEARN ON THE PIANO",
+                "tier": "Green",
+                "members": [
+                    "CHOPSTICKS",
+                    "F\u00dcR ELISE",
+                    "HEART AND SOUL",
+                    "THE ENTERTAINER"
+                ]
+            },
+            {
+                "label": "STARTING WITH MAGAZINES",
+                "tier": "Blue",
+                "members": [
+                    "FORTUNE COOKIE",
+                    "PEOPLE PERSON",
+                    "SPINDERELLA",
+                    "TIME MACHINE"
+                ]
+            },
+            {
+                "label": "ENDING IN SYNONYMS FOR \"AGGREGATE\"",
+                "tier": "Purple",
+                "members": [
+                    "COINCIDENTALLY",
+                    "DIM SUM",
+                    "TEETOTAL",
+                    "VISCOUNT"
+                ]
+            }
+        ]
     }
 ]
