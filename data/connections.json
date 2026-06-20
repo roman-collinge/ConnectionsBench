@@ -72390,5 +72390,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1104,
+        "date": "2026-06-20",
+        "has_images": false,
+        "words": [
+            "JACKKNIFE",
+            "KNAPSACK",
+            "KNICKS",
+            "KNOCK-KNOCK",
+            "BACK",
+            "BOLSTER",
+            "CHAMPION",
+            "SUPPORT",
+            "BEANBAG",
+            "RECLINER",
+            "ROCKER",
+            "STOOL",
+            "JUMPIN'",
+            "LOUIE",
+            "NEW YORK",
+            "REBEL"
+        ],
+        "groups": [
+            {
+                "label": "FEATURING SILENT AND PRONOUNCED \"K\"S",
+                "tier": "Yellow",
+                "members": [
+                    "JACKKNIFE",
+                    "KNAPSACK",
+                    "KNICKS",
+                    "KNOCK-KNOCK"
+                ]
+            },
+            {
+                "label": "ENDORSE",
+                "tier": "Green",
+                "members": [
+                    "BACK",
+                    "BOLSTER",
+                    "CHAMPION",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "label": "KINDS OF CHAIRS",
+                "tier": "Blue",
+                "members": [
+                    "BEANBAG",
+                    "RECLINER",
+                    "ROCKER",
+                    "STOOL"
+                ]
+            },
+            {
+                "label": "WORDS REPEATED IN HIT SONG TITLES",
+                "tier": "Purple",
+                "members": [
+                    "JUMPIN'",
+                    "LOUIE",
+                    "NEW YORK",
+                    "REBEL"
+                ]
+            }
+        ]
     }
 ]
