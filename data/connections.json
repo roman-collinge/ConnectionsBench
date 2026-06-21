@@ -72456,5 +72456,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1105,
+        "date": "2026-06-21",
+        "has_images": false,
+        "words": [
+            "DRIZZLE",
+            "RAIN",
+            "SHOWERS",
+            "SPRINKLES",
+            "FLOORS",
+            "ROCKS",
+            "STUNS",
+            "SURPRISES",
+            "COMMUNITY",
+            "FRIENDS",
+            "SCRUBS",
+            "WINGS",
+            "BARBADOS",
+            "DIGGITY",
+            "DISSECT",
+            "SLAPDASH"
+        ],
+        "groups": [
+            {
+                "label": "PRECIPITATION",
+                "tier": "Yellow",
+                "members": [
+                    "DRIZZLE",
+                    "RAIN",
+                    "SHOWERS",
+                    "SPRINKLES"
+                ]
+            },
+            {
+                "label": "BOWLS OVER",
+                "tier": "Green",
+                "members": [
+                    "FLOORS",
+                    "ROCKS",
+                    "STUNS",
+                    "SURPRISES"
+                ]
+            },
+            {
+                "label": "NBC SITCOMS",
+                "tier": "Blue",
+                "members": [
+                    "COMMUNITY",
+                    "FRIENDS",
+                    "SCRUBS",
+                    "WINGS"
+                ]
+            },
+            {
+                "label": "STARTING WITH KINDS OF INSULTS",
+                "tier": "Purple",
+                "members": [
+                    "BARBADOS",
+                    "DIGGITY",
+                    "DISSECT",
+                    "SLAPDASH"
+                ]
+            }
+        ]
     }
 ]
