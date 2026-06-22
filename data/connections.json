@@ -72522,5 +72522,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1106,
+        "date": "2026-06-22",
+        "has_images": false,
+        "words": [
+            "ALPHA",
+            "HEAD",
+            "LEAD",
+            "PRIMARY",
+            "BY",
+            "TIMES",
+            "X",
+            "\u25cf",
+            "SHORT",
+            "SILENT",
+            "SOFT",
+            "STRESSED",
+            "BANGKOK",
+            "BOOMER",
+            "POPSICLE",
+            "POWDER"
+        ],
+        "groups": [
+            {
+                "label": "DOMINANT",
+                "tier": "Yellow",
+                "members": [
+                    "ALPHA",
+                    "HEAD",
+                    "LEAD",
+                    "PRIMARY"
+                ]
+            },
+            {
+                "label": "MULTIPLICATION INDICATORS",
+                "tier": "Green",
+                "members": [
+                    "BY",
+                    "TIMES",
+                    "X",
+                    "\u25cf"
+                ]
+            },
+            {
+                "label": "PRONUNCIATION DESCRIPTORS",
+                "tier": "Blue",
+                "members": [
+                    "SHORT",
+                    "SILENT",
+                    "SOFT",
+                    "STRESSED"
+                ]
+            },
+            {
+                "label": "STARTING WITH EXPLOSIVE ONOMATOPOEIA",
+                "tier": "Purple",
+                "members": [
+                    "BANGKOK",
+                    "BOOMER",
+                    "POPSICLE",
+                    "POWDER"
+                ]
+            }
+        ]
     }
 ]
