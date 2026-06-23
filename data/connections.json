@@ -72588,5 +72588,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1107,
+        "date": "2026-06-23",
+        "has_images": false,
+        "words": [
+            "FOXTROT",
+            "MODERN",
+            "SWING",
+            "TAP",
+            "DEED",
+            "HOTEL",
+            "MONEY",
+            "TOKEN",
+            "FEATURED",
+            "POPULAR",
+            "RECENT",
+            "TRENDING",
+            "EARTH",
+            "EMPEROR",
+            "FIREPLACE",
+            "YANKEES"
+        ],
+        "groups": [
+            {
+                "label": "DANCE STYLES",
+                "tier": "Yellow",
+                "members": [
+                    "FOXTROT",
+                    "MODERN",
+                    "SWING",
+                    "TAP"
+                ]
+            },
+            {
+                "label": "IN A MONOPOLY BOX",
+                "tier": "Green",
+                "members": [
+                    "DEED",
+                    "HOTEL",
+                    "MONEY",
+                    "TOKEN"
+                ]
+            },
+            {
+                "label": "CONTENT SORTING OPTIONS ONLINE",
+                "tier": "Blue",
+                "members": [
+                    "FEATURED",
+                    "POPULAR",
+                    "RECENT",
+                    "TRENDING"
+                ]
+            },
+            {
+                "label": "THINGS WITH MANTLES/MANTELS",
+                "tier": "Purple",
+                "members": [
+                    "EARTH",
+                    "EMPEROR",
+                    "FIREPLACE",
+                    "YANKEES"
+                ]
+            }
+        ]
     }
 ]
