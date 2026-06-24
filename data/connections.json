@@ -72654,5 +72654,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1108,
+        "date": "2026-06-24",
+        "has_images": false,
+        "words": [
+            "GENESIS",
+            "KING CRIMSON",
+            "PINK FLOYD",
+            "RUSH",
+            "CHINA",
+            "LUGGAGE",
+            "MONEY",
+            "TOASTER",
+            "CLIFFORD",
+            "DEADPOOL",
+            "KOOL-AID MAN",
+            "MR. KRABS",
+            "CHICK FLICK",
+            "HELTER SKELTER",
+            "HUMPTY DUMPTY",
+            "MUMBO JUMBO"
+        ],
+        "groups": [
+            {
+                "label": "PROG BANDS",
+                "tier": "Yellow",
+                "members": [
+                    "GENESIS",
+                    "KING CRIMSON",
+                    "PINK FLOYD",
+                    "RUSH"
+                ]
+            },
+            {
+                "label": "CLASSIC WEDDING GIFTS",
+                "tier": "Green",
+                "members": [
+                    "CHINA",
+                    "LUGGAGE",
+                    "MONEY",
+                    "TOASTER"
+                ]
+            },
+            {
+                "label": "RED CHARACTERS",
+                "tier": "Blue",
+                "members": [
+                    "CLIFFORD",
+                    "DEADPOOL",
+                    "KOOL-AID MAN",
+                    "MR. KRABS"
+                ]
+            },
+            {
+                "label": "RHYMING COMPOUND WORDS",
+                "tier": "Purple",
+                "members": [
+                    "CHICK FLICK",
+                    "HELTER SKELTER",
+                    "HUMPTY DUMPTY",
+                    "MUMBO JUMBO"
+                ]
+            }
+        ]
     }
 ]
