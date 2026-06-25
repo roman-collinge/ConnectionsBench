@@ -72720,5 +72720,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1109,
+        "date": "2026-06-25",
+        "has_images": false,
+        "words": [
+            "MICROPHONE",
+            "MONITOR",
+            "PRINTER",
+            "TRACKPAD",
+            "COMPACT",
+            "COMPRESSED",
+            "DENSE",
+            "SQUASHED",
+            "FRANCIUM",
+            "LEAD",
+            "MERCURY",
+            "POLONIUM",
+            "CRANIUM",
+            "CROQUETTE",
+            "DUCTILE",
+            "HOCKEY"
+        ],
+        "groups": [
+            {
+                "label": "COMPUTER PERIPHERALS",
+                "tier": "Yellow",
+                "members": [
+                    "MICROPHONE",
+                    "MONITOR",
+                    "PRINTER",
+                    "TRACKPAD"
+                ]
+            },
+            {
+                "label": "TIGHTLY PACKED",
+                "tier": "Green",
+                "members": [
+                    "COMPACT",
+                    "COMPRESSED",
+                    "DENSE",
+                    "SQUASHED"
+                ]
+            },
+            {
+                "label": "HAZARDOUS ELEMENTAL METALS",
+                "tier": "Blue",
+                "members": [
+                    "FRANCIUM",
+                    "LEAD",
+                    "MERCURY",
+                    "POLONIUM"
+                ]
+            },
+            {
+                "label": "STARTING WITH BIRD HOMOPHONES",
+                "tier": "Purple",
+                "members": [
+                    "CRANIUM",
+                    "CROQUETTE",
+                    "DUCTILE",
+                    "HOCKEY"
+                ]
+            }
+        ]
     }
 ]
