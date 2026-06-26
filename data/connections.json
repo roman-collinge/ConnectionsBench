@@ -72786,5 +72786,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1110,
+        "date": "2026-06-26",
+        "has_images": false,
+        "words": [
+            "CHIP",
+            "CRACKER",
+            "NUT",
+            "PRETZEL",
+            "BOARD",
+            "LOG",
+            "SPLINTER",
+            "TREE",
+            "DALE",
+            "DELL",
+            "GORGE",
+            "HOLLOW",
+            "BRONZER",
+            "PINKY",
+            "REDO",
+            "TANG"
+        ],
+        "groups": [
+            {
+                "label": "CRUNCHY SNACK ITEM",
+                "tier": "Yellow",
+                "members": [
+                    "CHIP",
+                    "CRACKER",
+                    "NUT",
+                    "PRETZEL"
+                ]
+            },
+            {
+                "label": "VARIOUS AMOUNTS OF WOOD",
+                "tier": "Green",
+                "members": [
+                    "BOARD",
+                    "LOG",
+                    "SPLINTER",
+                    "TREE"
+                ]
+            },
+            {
+                "label": "AREAS OF LOW GROUND",
+                "tier": "Blue",
+                "members": [
+                    "DALE",
+                    "DELL",
+                    "GORGE",
+                    "HOLLOW"
+                ]
+            },
+            {
+                "label": "COLORS PLUS A LETTER",
+                "tier": "Purple",
+                "members": [
+                    "BRONZER",
+                    "PINKY",
+                    "REDO",
+                    "TANG"
+                ]
+            }
+        ]
     }
 ]
