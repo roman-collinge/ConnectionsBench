@@ -72852,5 +72852,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1111,
+        "date": "2026-06-27",
+        "has_images": false,
+        "words": [
+            "BOARDWALK",
+            "INCOME TAX",
+            "SHORT LINE",
+            "WATER WORKS",
+            "CATWALK",
+            "COLLECTION",
+            "DESIGNER",
+            "MODEL",
+            "BARBER POLE",
+            "BILLIARD BALL",
+            "CREDIT CARD",
+            "CROSSWALK",
+            "DECANTER",
+            "ENVELOPE",
+            "FIREWALK",
+            "FOXTROT"
+        ],
+        "groups": [
+            {
+                "label": "MONOPOLY SQUARES",
+                "tier": "Yellow",
+                "members": [
+                    "BOARDWALK",
+                    "INCOME TAX",
+                    "SHORT LINE",
+                    "WATER WORKS"
+                ]
+            },
+            {
+                "label": "COMPONENTS OF A FASHION SHOW",
+                "tier": "Green",
+                "members": [
+                    "CATWALK",
+                    "COLLECTION",
+                    "DESIGNER",
+                    "MODEL"
+                ]
+            },
+            {
+                "label": "COMMONLY STRIPED THINGS",
+                "tier": "Blue",
+                "members": [
+                    "BARBER POLE",
+                    "BILLIARD BALL",
+                    "CREDIT CARD",
+                    "CROSSWALK"
+                ]
+            },
+            {
+                "label": "ENDING IN HORSE GAITS",
+                "tier": "Purple",
+                "members": [
+                    "DECANTER",
+                    "ENVELOPE",
+                    "FIREWALK",
+                    "FOXTROT"
+                ]
+            }
+        ]
     }
 ]
