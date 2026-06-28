@@ -72918,5 +72918,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1112,
+        "date": "2026-06-28",
+        "has_images": false,
+        "words": [
+            "CHOICE",
+            "FINE",
+            "PRIME",
+            "SELECT",
+            "BEGIN",
+            "GO",
+            "NOW",
+            "START",
+            "CAPO",
+            "PICK",
+            "SLIDE",
+            "STRAP",
+            "CHESS",
+            "CORPORATION",
+            "DARTS",
+            "SURFER"
+        ],
+        "groups": [
+            {
+                "label": "HIGH-QUALITY",
+                "tier": "Yellow",
+                "members": [
+                    "CHOICE",
+                    "FINE",
+                    "PRIME",
+                    "SELECT"
+                ]
+            },
+            {
+                "label": "SIGNALS TO COMMENCE",
+                "tier": "Green",
+                "members": [
+                    "BEGIN",
+                    "GO",
+                    "NOW",
+                    "START"
+                ]
+            },
+            {
+                "label": "ACCESSORIES FOR A GUITARIST",
+                "tier": "Blue",
+                "members": [
+                    "CAPO",
+                    "PICK",
+                    "SLIDE",
+                    "STRAP"
+                ]
+            },
+            {
+                "label": "THEY HAVE BOARDS",
+                "tier": "Purple",
+                "members": [
+                    "CHESS",
+                    "CORPORATION",
+                    "DARTS",
+                    "SURFER"
+                ]
+            }
+        ]
     }
 ]
