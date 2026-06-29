@@ -72984,5 +72984,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1113,
+        "date": "2026-06-29",
+        "has_images": false,
+        "words": [
+            "MISCREANT",
+            "ROGUE",
+            "RUFFIAN",
+            "SCOUNDREL",
+            "CRUSH",
+            "GUZZLE",
+            "INHALE",
+            "SNARF",
+            "CABINET",
+            "CONE",
+            "MAGNET",
+            "WOOFER",
+            "EMBARK",
+            "GROOT",
+            "NUDIBRANCH",
+            "STRUNK"
+        ],
+        "groups": [
+            {
+                "label": "OLD TIMEY TROUBLEMAKERS",
+                "tier": "Yellow",
+                "members": [
+                    "MISCREANT",
+                    "ROGUE",
+                    "RUFFIAN",
+                    "SCOUNDREL"
+                ]
+            },
+            {
+                "label": "CONSUME WITH GUSTO",
+                "tier": "Green",
+                "members": [
+                    "CRUSH",
+                    "GUZZLE",
+                    "INHALE",
+                    "SNARF"
+                ]
+            },
+            {
+                "label": "PARTS OF A SPEAKER",
+                "tier": "Blue",
+                "members": [
+                    "CABINET",
+                    "CONE",
+                    "MAGNET",
+                    "WOOFER"
+                ]
+            },
+            {
+                "label": "ENDING IN PARTS OF A TREE",
+                "tier": "Purple",
+                "members": [
+                    "EMBARK",
+                    "GROOT",
+                    "NUDIBRANCH",
+                    "STRUNK"
+                ]
+            }
+        ]
     }
 ]
