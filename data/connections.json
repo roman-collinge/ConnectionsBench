@@ -73050,5 +73050,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1114,
+        "date": "2026-06-30",
+        "has_images": false,
+        "words": [
+            "FENCE",
+            "GATE",
+            "HEDGE",
+            "WALL",
+            "CURL",
+            "LUGE",
+            "SKATE",
+            "SKI",
+            "BOTTLE",
+            "BOX",
+            "CAN",
+            "NEWSPAPER",
+            "BREEZE",
+            "ON TAP",
+            "RECRUIT",
+            "SKETCH"
+        ],
+        "groups": [
+            {
+                "label": "DIVIDING STRUCTURES",
+                "tier": "Yellow",
+                "members": [
+                    "FENCE",
+                    "GATE",
+                    "HEDGE",
+                    "WALL"
+                ]
+            },
+            {
+                "label": "PARTICIPATE IN SOME WINTER OLYMPICS",
+                "tier": "Green",
+                "members": [
+                    "CURL",
+                    "LUGE",
+                    "SKATE",
+                    "SKI"
+                ]
+            },
+            {
+                "label": "COMMON RECYCLABLES",
+                "tier": "Blue",
+                "members": [
+                    "BOTTLE",
+                    "BOX",
+                    "CAN",
+                    "NEWSPAPER"
+                ]
+            },
+            {
+                "label": "WHAT \"DRAFT\" MIGHT REFER TO",
+                "tier": "Purple",
+                "members": [
+                    "BREEZE",
+                    "ON TAP",
+                    "RECRUIT",
+                    "SKETCH"
+                ]
+            }
+        ]
     }
 ]
