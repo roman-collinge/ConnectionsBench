@@ -73116,5 +73116,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1115,
+        "date": "2026-07-01",
+        "has_images": false,
+        "words": [
+            "CHAMPAGNE",
+            "CHINA",
+            "COLOGNE",
+            "LIMERICK",
+            "CASABLANCA",
+            "CHICAGO",
+            "FARGO",
+            "MUNICH",
+            "CUBA",
+            "LONG ISLAND",
+            "MOSCOW",
+            "SINGAPORE",
+            "DOMINICAN REPUBLIC",
+            "GUINEA-BISSAU",
+            "INDIANAPOLIS",
+            "NIGERIA"
+        ],
+        "groups": [
+            {
+                "label": "THINGS NAMED AFTER PLACES",
+                "tier": "Yellow",
+                "members": [
+                    "CHAMPAGNE",
+                    "CHINA",
+                    "COLOGNE",
+                    "LIMERICK"
+                ]
+            },
+            {
+                "label": "BEST PICTURE WINNERS/NOMINEES",
+                "tier": "Green",
+                "members": [
+                    "CASABLANCA",
+                    "CHICAGO",
+                    "FARGO",
+                    "MUNICH"
+                ]
+            },
+            {
+                "label": "PLACES IN COCKTAIL NAMES",
+                "tier": "Blue",
+                "members": [
+                    "CUBA",
+                    "LONG ISLAND",
+                    "MOSCOW",
+                    "SINGAPORE"
+                ]
+            },
+            {
+                "label": "STARTING WITH COUNTRIES",
+                "tier": "Purple",
+                "members": [
+                    "DOMINICAN REPUBLIC",
+                    "GUINEA-BISSAU",
+                    "INDIANAPOLIS",
+                    "NIGERIA"
+                ]
+            }
+        ]
     }
 ]
