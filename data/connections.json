@@ -73182,5 +73182,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1116,
+        "date": "2026-07-02",
+        "has_images": false,
+        "words": [
+            "COPYCAT",
+            "MIME",
+            "MOCKINGBIRD",
+            "T-1000",
+            "LOOKING GLASS",
+            "SPECTACLES",
+            "TALKIE",
+            "WATER CLOSET",
+            "BILLY GOAT",
+            "DAN DAN NOODLES",
+            "RICH TEXT",
+            "TOM-TOM",
+            "COURT JESTER",
+            "DIAMOND RING",
+            "FIELD MOUSE",
+            "TRACK RECORD"
+        ],
+        "groups": [
+            {
+                "label": "THEY IMPERSONATE OTHER THINGS",
+                "tier": "Yellow",
+                "members": [
+                    "COPYCAT",
+                    "MIME",
+                    "MOCKINGBIRD",
+                    "T-1000"
+                ]
+            },
+            {
+                "label": "OLD-TIMEY NAMES FOR THINGS WE STILL USE",
+                "tier": "Green",
+                "members": [
+                    "LOOKING GLASS",
+                    "SPECTACLES",
+                    "TALKIE",
+                    "WATER CLOSET"
+                ]
+            },
+            {
+                "label": "STARTING WITH NICKNAMES",
+                "tier": "Blue",
+                "members": [
+                    "BILLY GOAT",
+                    "DAN DAN NOODLES",
+                    "RICH TEXT",
+                    "TOM-TOM"
+                ]
+            },
+            {
+                "label": "STARTING WITH SPORTS VENUES",
+                "tier": "Purple",
+                "members": [
+                    "COURT JESTER",
+                    "DIAMOND RING",
+                    "FIELD MOUSE",
+                    "TRACK RECORD"
+                ]
+            }
+        ]
     }
 ]
