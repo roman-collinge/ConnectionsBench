@@ -73248,5 +73248,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1117,
+        "date": "2026-07-03",
+        "has_images": false,
+        "words": [
+            "BLISS",
+            "FELICITY",
+            "HAPPINESS",
+            "WARM FUZZIES",
+            "COOL BEANS",
+            "FAR OUT",
+            "GROOVY",
+            "RIGHT ON",
+            "COLD SHOULDER",
+            "DIRTY LOOK",
+            "HARD TIME",
+            "RUNAROUND",
+            "GOLF ACCESSORY",
+            "GOSSIP",
+            "HOT DRINK",
+            "SHIRT"
+        ],
+        "groups": [
+            {
+                "label": "POSITIVE FEELINGS",
+                "tier": "Yellow",
+                "members": [
+                    "BLISS",
+                    "FELICITY",
+                    "HAPPINESS",
+                    "WARM FUZZIES"
+                ]
+            },
+            {
+                "label": "RETRO EXPRESSIONS OF APPROVAL",
+                "tier": "Green",
+                "members": [
+                    "COOL BEANS",
+                    "FAR OUT",
+                    "GROOVY",
+                    "RIGHT ON"
+                ]
+            },
+            {
+                "label": "BAD THINGS TO GIVE SOMEONE",
+                "tier": "Blue",
+                "members": [
+                    "COLD SHOULDER",
+                    "DIRTY LOOK",
+                    "HARD TIME",
+                    "RUNAROUND"
+                ]
+            },
+            {
+                "label": "WHAT THINGS PRONOUNCED \"T\" MIGHT REFER TO",
+                "tier": "Purple",
+                "members": [
+                    "GOLF ACCESSORY",
+                    "GOSSIP",
+                    "HOT DRINK",
+                    "SHIRT"
+                ]
+            }
+        ]
     }
 ]
