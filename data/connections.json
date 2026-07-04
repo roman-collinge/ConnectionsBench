@@ -73314,5 +73314,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1118,
+        "date": "2026-07-04",
+        "has_images": false,
+        "words": [
+            "CONTINUE",
+            "LAST",
+            "LINGER",
+            "STAY",
+            "BALLAD",
+            "EPIC",
+            "ODE",
+            "VILLANELLE",
+            "HURRICANE",
+            "PAINKILLER",
+            "SCORPION",
+            "ZOMBIE",
+            "DREAMS",
+            "NOTHINGS",
+            "PEA",
+            "SPOT"
+        ],
+        "groups": [
+            {
+                "label": "PERSIST",
+                "tier": "Yellow",
+                "members": [
+                    "CONTINUE",
+                    "LAST",
+                    "LINGER",
+                    "STAY"
+                ]
+            },
+            {
+                "label": "KINDS OF POEMS",
+                "tier": "Green",
+                "members": [
+                    "BALLAD",
+                    "EPIC",
+                    "ODE",
+                    "VILLANELLE"
+                ]
+            },
+            {
+                "label": "TROPICAL DRINKS",
+                "tier": "Blue",
+                "members": [
+                    "HURRICANE",
+                    "PAINKILLER",
+                    "SCORPION",
+                    "ZOMBIE"
+                ]
+            },
+            {
+                "label": "SWEET ___",
+                "tier": "Purple",
+                "members": [
+                    "DREAMS",
+                    "NOTHINGS",
+                    "PEA",
+                    "SPOT"
+                ]
+            }
+        ]
     }
 ]
