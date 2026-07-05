@@ -73380,5 +73380,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1119,
+        "date": "2026-07-05",
+        "has_images": false,
+        "words": [
+            "HONEY",
+            "NUTS",
+            "OATS",
+            "SEEDS",
+            "CARD",
+            "CASH",
+            "CHECK",
+            "WIRE",
+            "CENTURION",
+            "GOLD",
+            "GREEN",
+            "PLATINUM",
+            "TUNGSTEN",
+            "WEST",
+            "WIN",
+            "WITH"
+        ],
+        "groups": [
+            {
+                "label": "GRANOLA INGREDIENTS",
+                "tier": "Yellow",
+                "members": [
+                    "HONEY",
+                    "NUTS",
+                    "OATS",
+                    "SEEDS"
+                ]
+            },
+            {
+                "label": "PAYMENT METHODS",
+                "tier": "Green",
+                "members": [
+                    "CARD",
+                    "CASH",
+                    "CHECK",
+                    "WIRE"
+                ]
+            },
+            {
+                "label": "AMEX CARD TYPES",
+                "tier": "Blue",
+                "members": [
+                    "CENTURION",
+                    "GOLD",
+                    "GREEN",
+                    "PLATINUM"
+                ]
+            },
+            {
+                "label": "WHAT \"W\" MIGHT STAND FOR",
+                "tier": "Purple",
+                "members": [
+                    "TUNGSTEN",
+                    "WEST",
+                    "WIN",
+                    "WITH"
+                ]
+            }
+        ]
     }
 ]
