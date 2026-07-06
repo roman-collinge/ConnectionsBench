@@ -73446,5 +73446,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1120,
+        "date": "2026-07-06",
+        "has_images": false,
+        "words": [
+            "BOMBSHELL",
+            "REVELATION",
+            "SHOCKER",
+            "THUNDERBOLT",
+            "ATOM",
+            "DNA",
+            "SOLAR SYSTEM",
+            "VOLCANO",
+            "EARTHQUAKE PILLS",
+            "IRON BIRD SEED",
+            "ROCKET SKATES",
+            "TNT",
+            "BUMBLEBEE",
+            "GRIND RAIL",
+            "MATCHA",
+            "TINDERBOX"
+        ],
+        "groups": [
+            {
+                "label": "STUNNING NEWS",
+                "tier": "Yellow",
+                "members": [
+                    "BOMBSHELL",
+                    "REVELATION",
+                    "SHOCKER",
+                    "THUNDERBOLT"
+                ]
+            },
+            {
+                "label": "SCIENCE FAIR MODEL SUBJECTS",
+                "tier": "Green",
+                "members": [
+                    "ATOM",
+                    "DNA",
+                    "SOLAR SYSTEM",
+                    "VOLCANO"
+                ]
+            },
+            {
+                "label": "ACME PRODUCTS USED BY WILE E. COYOTE",
+                "tier": "Blue",
+                "members": [
+                    "EARTHQUAKE PILLS",
+                    "IRON BIRD SEED",
+                    "ROCKET SKATES",
+                    "TNT"
+                ]
+            },
+            {
+                "label": "STARTING WITH DATING APPS",
+                "tier": "Purple",
+                "members": [
+                    "BUMBLEBEE",
+                    "GRIND RAIL",
+                    "MATCHA",
+                    "TINDERBOX"
+                ]
+            }
+        ]
     }
 ]
