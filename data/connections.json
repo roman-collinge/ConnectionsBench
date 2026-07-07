@@ -73512,5 +73512,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1121,
+        "date": "2026-07-07",
+        "has_images": false,
+        "words": [
+            "CONSERVATORY",
+            "HALL",
+            "KITCHEN",
+            "STUDY",
+            "ALL-AMERICAN",
+            "JOCK",
+            "LETTERMAN",
+            "TEAM CAPTAIN",
+            "FRENCH",
+            "LEMON",
+            "OLIVER",
+            "PLOT",
+            "BERNIE",
+            "COLBERT",
+            "DISCOUNT",
+            "SAN ANSELMO"
+        ],
+        "groups": [
+            {
+                "label": "ROOMS IN CLUE",
+                "tier": "Yellow",
+                "members": [
+                    "CONSERVATORY",
+                    "HALL",
+                    "KITCHEN",
+                    "STUDY"
+                ]
+            },
+            {
+                "label": "STUDENT-ATHLETE DESIGNATIONS",
+                "tier": "Green",
+                "members": [
+                    "ALL-AMERICAN",
+                    "JOCK",
+                    "LETTERMAN",
+                    "TEAM CAPTAIN"
+                ]
+            },
+            {
+                "label": "___ TWIST",
+                "tier": "Blue",
+                "members": [
+                    "FRENCH",
+                    "LEMON",
+                    "OLIVER",
+                    "PLOT"
+                ]
+            },
+            {
+                "label": "ENDING IN \"SESAME STREET\" CHARACTERS",
+                "tier": "Purple",
+                "members": [
+                    "BERNIE",
+                    "COLBERT",
+                    "DISCOUNT",
+                    "SAN ANSELMO"
+                ]
+            }
+        ]
     }
 ]
