@@ -73578,5 +73578,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1122,
+        "date": "2026-07-08",
+        "has_images": false,
+        "words": [
+            "GRATE",
+            "PLANE",
+            "SHAVE",
+            "SLIVER",
+            "DRIFT",
+            "PLOT",
+            "THEME",
+            "THREAD",
+            "PICK",
+            "PLUCK",
+            "STRUM",
+            "TAP",
+            "CARDS",
+            "LORDS",
+            "WAX",
+            "WORSHIP"
+        ],
+        "groups": [
+            {
+                "label": "CUT INTO THIN PIECES",
+                "tier": "Yellow",
+                "members": [
+                    "GRATE",
+                    "PLANE",
+                    "SHAVE",
+                    "SLIVER"
+                ]
+            },
+            {
+                "label": "MOTIF",
+                "tier": "Green",
+                "members": [
+                    "DRIFT",
+                    "PLOT",
+                    "THEME",
+                    "THREAD"
+                ]
+            },
+            {
+                "label": "GUITAR-PLAYING TECHNIQUES",
+                "tier": "Blue",
+                "members": [
+                    "PICK",
+                    "PLUCK",
+                    "STRUM",
+                    "TAP"
+                ]
+            },
+            {
+                "label": "HOUSE OF ___",
+                "tier": "Purple",
+                "members": [
+                    "CARDS",
+                    "LORDS",
+                    "WAX",
+                    "WORSHIP"
+                ]
+            }
+        ]
     }
 ]
