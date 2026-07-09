@@ -73644,5 +73644,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1123,
+        "date": "2026-07-09",
+        "has_images": false,
+        "words": [
+            "NA",
+            "SPIRIT-FREE",
+            "VIRGIN",
+            "ZERO-PROOF",
+            "BILLBOARD",
+            "PITCHFORK",
+            "ROLLING STONE",
+            "SPIN",
+            "PERSIAN",
+            "PRAYER",
+            "SHAG",
+            "THROW",
+            "FIREBIRD",
+            "G6",
+            "GRAND PRIX",
+            "TRANS AM"
+        ],
+        "groups": [
+            {
+                "label": "NON-ALCOHOLIC DESIGNATORS",
+                "tier": "Yellow",
+                "members": [
+                    "NA",
+                    "SPIRIT-FREE",
+                    "VIRGIN",
+                    "ZERO-PROOF"
+                ]
+            },
+            {
+                "label": "MUSIC PUBLICATIONS",
+                "tier": "Green",
+                "members": [
+                    "BILLBOARD",
+                    "PITCHFORK",
+                    "ROLLING STONE",
+                    "SPIN"
+                ]
+            },
+            {
+                "label": "KINDS OF RUGS",
+                "tier": "Blue",
+                "members": [
+                    "PERSIAN",
+                    "PRAYER",
+                    "SHAG",
+                    "THROW"
+                ]
+            },
+            {
+                "label": "PONTIAC MODELS",
+                "tier": "Purple",
+                "members": [
+                    "FIREBIRD",
+                    "G6",
+                    "GRAND PRIX",
+                    "TRANS AM"
+                ]
+            }
+        ]
     }
 ]
