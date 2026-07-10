@@ -73710,5 +73710,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1124,
+        "date": "2026-07-10",
+        "has_images": false,
+        "words": [
+            "AIRPLANE MODE",
+            "DO NOT DISTURB",
+            "HOTSPOT",
+            "LOCATION SERVICES",
+            "DECADENT",
+            "FRESH-BAKED",
+            "MOLTEN",
+            "\u00c0 LA MODE",
+            "DEPECHE MODE",
+            "ERASURE",
+            "NEW ORDER",
+            "PET SHOP BOYS",
+            "BALL GOWN",
+            "OUTKAST",
+            "SAFE MODE",
+            "STRIKE A POSE"
+        ],
+        "groups": [
+            {
+                "label": "SMARTPHONE SETTINGS",
+                "tier": "Yellow",
+                "members": [
+                    "AIRPLANE MODE",
+                    "DO NOT DISTURB",
+                    "HOTSPOT",
+                    "LOCATION SERVICES"
+                ]
+            },
+            {
+                "label": "DESSERT MENU DESCRIPTORS",
+                "tier": "Green",
+                "members": [
+                    "DECADENT",
+                    "FRESH-BAKED",
+                    "MOLTEN",
+                    "\u00c0 LA MODE"
+                ]
+            },
+            {
+                "label": "'80S SYNTH-POP BANDS",
+                "tier": "Blue",
+                "members": [
+                    "DEPECHE MODE",
+                    "ERASURE",
+                    "NEW ORDER",
+                    "PET SHOP BOYS"
+                ]
+            },
+            {
+                "label": "STARTING WITH BASEBALL CALLS",
+                "tier": "Purple",
+                "members": [
+                    "BALL GOWN",
+                    "OUTKAST",
+                    "SAFE MODE",
+                    "STRIKE A POSE"
+                ]
+            }
+        ]
     }
 ]
