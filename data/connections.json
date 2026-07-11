@@ -73776,5 +73776,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1125,
+        "date": "2026-07-11",
+        "has_images": false,
+        "words": [
+            "CANNON",
+            "STILTS",
+            "TRAPEZE",
+            "UNICYCLE",
+            "CALM",
+            "FLAT",
+            "GLASSY",
+            "STILL",
+            "BO PEEP",
+            "JESSIE",
+            "SLINKY",
+            "WOODY",
+            "AARDVARK",
+            "BOCCE",
+            "EBBING",
+            "TWIDDLE"
+        ],
+        "groups": [
+            {
+                "label": "CIRCUS EQUIPMENT",
+                "tier": "Yellow",
+                "members": [
+                    "CANNON",
+                    "STILTS",
+                    "TRAPEZE",
+                    "UNICYCLE"
+                ]
+            },
+            {
+                "label": "UNDISTURBED, AS WATER",
+                "tier": "Green",
+                "members": [
+                    "CALM",
+                    "FLAT",
+                    "GLASSY",
+                    "STILL"
+                ]
+            },
+            {
+                "label": "\"TOY STORY\" CHARACTERS",
+                "tier": "Blue",
+                "members": [
+                    "BO PEEP",
+                    "JESSIE",
+                    "SLINKY",
+                    "WOODY"
+                ]
+            },
+            {
+                "label": "DOUBLE LETTERS APPEARING IN THAT LETTER'S ALPHABETICAL POSITION",
+                "tier": "Purple",
+                "members": [
+                    "AARDVARK",
+                    "BOCCE",
+                    "EBBING",
+                    "TWIDDLE"
+                ]
+            }
+        ]
     }
 ]
