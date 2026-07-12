@@ -73842,5 +73842,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1126,
+        "date": "2026-07-12",
+        "has_images": false,
+        "words": [
+            "PIP",
+            "PIT",
+            "SEED",
+            "STONE",
+            "DOT",
+            "NERD",
+            "RUNT",
+            "SPREE",
+            "PARTY",
+            "REPEAT",
+            "SLEEP",
+            "STUDY",
+            "DEN",
+            "MAD",
+            "PHO",
+            "SAC"
+        ],
+        "groups": [
+            {
+                "label": "REPRODUCTIVE PART OF FRUIT",
+                "tier": "Yellow",
+                "members": [
+                    "PIP",
+                    "PIT",
+                    "SEED",
+                    "STONE"
+                ]
+            },
+            {
+                "label": "BIT OF FRUIT-FLAVORED CANDY",
+                "tier": "Green",
+                "members": [
+                    "DOT",
+                    "NERD",
+                    "RUNT",
+                    "SPREE"
+                ]
+            },
+            {
+                "label": "VERBS IN A COLLEGE LIFE SLOGAN",
+                "tier": "Blue",
+                "members": [
+                    "PARTY",
+                    "REPEAT",
+                    "SLEEP",
+                    "STUDY"
+                ]
+            },
+            {
+                "label": "STARTS OF U.S. CAPITALS",
+                "tier": "Purple",
+                "members": [
+                    "DEN",
+                    "MAD",
+                    "PHO",
+                    "SAC"
+                ]
+            }
+        ]
     }
 ]
