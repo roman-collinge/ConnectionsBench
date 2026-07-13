@@ -73908,5 +73908,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1127,
+        "date": "2026-07-13",
+        "has_images": false,
+        "words": [
+            "EXAMINE",
+            "GRILL",
+            "PUMP",
+            "QUESTION",
+            "BUCKET",
+            "DRAWER",
+            "MUG",
+            "UMBRELLA",
+            "FIGARO",
+            "PUSS",
+            "SALEM",
+            "TOM",
+            "BUSSIN",
+            "KISSER",
+            "PECKISH",
+            "SMACKDOWN"
+        ],
+        "groups": [
+            {
+                "label": "INTERROGATE",
+                "tier": "Yellow",
+                "members": [
+                    "EXAMINE",
+                    "GRILL",
+                    "PUMP",
+                    "QUESTION"
+                ]
+            },
+            {
+                "label": "THINGS WITH HANDLES",
+                "tier": "Green",
+                "members": [
+                    "BUCKET",
+                    "DRAWER",
+                    "MUG",
+                    "UMBRELLA"
+                ]
+            },
+            {
+                "label": "FICTIONAL CATS",
+                "tier": "Blue",
+                "members": [
+                    "FIGARO",
+                    "PUSS",
+                    "SALEM",
+                    "TOM"
+                ]
+            },
+            {
+                "label": "STARTING WITH SMOOCHES",
+                "tier": "Purple",
+                "members": [
+                    "BUSSIN",
+                    "KISSER",
+                    "PECKISH",
+                    "SMACKDOWN"
+                ]
+            }
+        ]
     }
 ]
