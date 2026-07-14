@@ -73974,5 +73974,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1128,
+        "date": "2026-07-14",
+        "has_images": false,
+        "words": [
+            "AGREEMENT",
+            "BARGAIN",
+            "DEAL",
+            "UNDERSTANDING",
+            "COPY",
+            "CUT",
+            "DELETE",
+            "PASTE",
+            "EASTER",
+            "GROCERY",
+            "LAUNDRY",
+            "PICNIC",
+            "RECYCLING",
+            "SHUFFLE",
+            "THIS SIDE UP",
+            "U-TURN"
+        ],
+        "groups": [
+            {
+                "label": "CONTRACT",
+                "tier": "Yellow",
+                "members": [
+                    "AGREEMENT",
+                    "BARGAIN",
+                    "DEAL",
+                    "UNDERSTANDING"
+                ]
+            },
+            {
+                "label": "EDIT MENU OPTIONS",
+                "tier": "Green",
+                "members": [
+                    "COPY",
+                    "CUT",
+                    "DELETE",
+                    "PASTE"
+                ]
+            },
+            {
+                "label": "KINDS OF BASKETS",
+                "tier": "Blue",
+                "members": [
+                    "EASTER",
+                    "GROCERY",
+                    "LAUNDRY",
+                    "PICNIC"
+                ]
+            },
+            {
+                "label": "SYMBOLIZED WITH ARROWS",
+                "tier": "Purple",
+                "members": [
+                    "RECYCLING",
+                    "SHUFFLE",
+                    "THIS SIDE UP",
+                    "U-TURN"
+                ]
+            }
+        ]
     }
 ]
