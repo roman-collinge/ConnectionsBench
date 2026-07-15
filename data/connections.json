@@ -74040,5 +74040,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1129,
+        "date": "2026-07-15",
+        "has_images": false,
+        "words": [
+            "BAR",
+            "BENCH",
+            "COURT",
+            "TRIBUNAL",
+            "BASEBALL GLOVE",
+            "CORSET",
+            "FOOTBALL",
+            "SHOE",
+            "EXTREME",
+            "MOTOR",
+            "RACKET",
+            "WATER",
+            "BREATHING",
+            "ELBOW",
+            "HEAD",
+            "WIGGLE"
+        ],
+        "groups": [
+            {
+                "label": "TERMS FOR THE LEGAL SYSTEM",
+                "tier": "Yellow",
+                "members": [
+                    "BAR",
+                    "BENCH",
+                    "COURT",
+                    "TRIBUNAL"
+                ]
+            },
+            {
+                "label": "THINGS WITH LACES",
+                "tier": "Green",
+                "members": [
+                    "BASEBALL GLOVE",
+                    "CORSET",
+                    "FOOTBALL",
+                    "SHOE"
+                ]
+            },
+            {
+                "label": "KINDS OF SPORTS",
+                "tier": "Blue",
+                "members": [
+                    "EXTREME",
+                    "MOTOR",
+                    "RACKET",
+                    "WATER"
+                ]
+            },
+            {
+                "label": "WORDS BEFORE \"ROOM\" TO INDICATE EXTRA SPACE",
+                "tier": "Purple",
+                "members": [
+                    "BREATHING",
+                    "ELBOW",
+                    "HEAD",
+                    "WIGGLE"
+                ]
+            }
+        ]
     }
 ]
