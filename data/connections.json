@@ -74106,5 +74106,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1130,
+        "date": "2026-07-16",
+        "has_images": false,
+        "words": [
+            "CLAY MASK",
+            "EYE CREAM",
+            "PEEL",
+            "TONER",
+            "CHARCOAL",
+            "INK",
+            "JET",
+            "PITCH",
+            "BULLSEYE",
+            "CLOCKWORK",
+            "LASER",
+            "NEEDLE",
+            "DOT MATRIX",
+            "PERIOD PIECE",
+            "POINT BREAK",
+            "SPOT REMOVER"
+        ],
+        "groups": [
+            {
+                "label": "SKINCARE PRODUCTS",
+                "tier": "Yellow",
+                "members": [
+                    "CLAY MASK",
+                    "EYE CREAM",
+                    "PEEL",
+                    "TONER"
+                ]
+            },
+            {
+                "label": "SHADES OF BLACK",
+                "tier": "Green",
+                "members": [
+                    "CHARCOAL",
+                    "INK",
+                    "JET",
+                    "PITCH"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH PRECISION",
+                "tier": "Blue",
+                "members": [
+                    "BULLSEYE",
+                    "CLOCKWORK",
+                    "LASER",
+                    "NEEDLE"
+                ]
+            },
+            {
+                "label": "STARTING WITH TINY MARKS",
+                "tier": "Purple",
+                "members": [
+                    "DOT MATRIX",
+                    "PERIOD PIECE",
+                    "POINT BREAK",
+                    "SPOT REMOVER"
+                ]
+            }
+        ]
     }
 ]
