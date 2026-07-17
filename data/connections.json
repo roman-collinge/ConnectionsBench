@@ -74172,5 +74172,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1131,
+        "date": "2026-07-17",
+        "has_images": false,
+        "words": [
+            "EPILOGUE",
+            "FAREWELL",
+            "LAST DANCE",
+            "SWAN SONG",
+            "CRANE GAME",
+            "PINBALL",
+            "TICKETS",
+            "TOKENS",
+            "CARDINAL DIRECTIONS",
+            "CLASSICAL ELEMENTS",
+            "SEASONS",
+            "SUITS",
+            "PLOT SPOILER",
+            "ROBIN HOOD",
+            "SATIRES",
+            "TREE TRUNK"
+        ],
+        "groups": [
+            {
+                "label": "GRAND FINALE",
+                "tier": "Yellow",
+                "members": [
+                    "EPILOGUE",
+                    "FAREWELL",
+                    "LAST DANCE",
+                    "SWAN SONG"
+                ]
+            },
+            {
+                "label": "SEEN IN AN ARCADE",
+                "tier": "Green",
+                "members": [
+                    "CRANE GAME",
+                    "PINBALL",
+                    "TICKETS",
+                    "TOKENS"
+                ]
+            },
+            {
+                "label": "FOUR GROUPS OF FOUR",
+                "tier": "Blue",
+                "members": [
+                    "CARDINAL DIRECTIONS",
+                    "CLASSICAL ELEMENTS",
+                    "SEASONS",
+                    "SUITS"
+                ]
+            },
+            {
+                "label": "ENDING IN PARTS OF A CAR",
+                "tier": "Purple",
+                "members": [
+                    "PLOT SPOILER",
+                    "ROBIN HOOD",
+                    "SATIRES",
+                    "TREE TRUNK"
+                ]
+            }
+        ]
     }
 ]
