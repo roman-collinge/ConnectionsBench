@@ -74238,5 +74238,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1132,
+        "date": "2026-07-18",
+        "has_images": false,
+        "words": [
+            "CARRY",
+            "DOUBLE DRIBBLE",
+            "GOALTEND",
+            "TRAVEL",
+            "ATTITUDE",
+            "MIND",
+            "OPINION",
+            "VIEW",
+            "HEALTH",
+            "LIVES",
+            "SCORE",
+            "TIME",
+            "CULTURE",
+            "FLY",
+            "QUIZ",
+            "TART"
+        ],
+        "groups": [
+            {
+                "label": "COMMIT A BASKETBALL VIOLATION",
+                "tier": "Yellow",
+                "members": [
+                    "CARRY",
+                    "DOUBLE DRIBBLE",
+                    "GOALTEND",
+                    "TRAVEL"
+                ]
+            },
+            {
+                "label": "BELIEF",
+                "tier": "Green",
+                "members": [
+                    "ATTITUDE",
+                    "MIND",
+                    "OPINION",
+                    "VIEW"
+                ]
+            },
+            {
+                "label": "THINGS TRACKED IN VIDEO GAMES",
+                "tier": "Blue",
+                "members": [
+                    "HEALTH",
+                    "LIVES",
+                    "SCORE",
+                    "TIME"
+                ]
+            },
+            {
+                "label": "WORDS AFTER \"POP\"",
+                "tier": "Purple",
+                "members": [
+                    "CULTURE",
+                    "FLY",
+                    "QUIZ",
+                    "TART"
+                ]
+            }
+        ]
     }
 ]
