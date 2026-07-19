@@ -74304,5 +74304,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1133,
+        "date": "2026-07-19",
+        "has_images": false,
+        "words": [
+            "BREAKER",
+            "FUSE",
+            "RELAY",
+            "SWITCH",
+            "CONNECT",
+            "JOIN",
+            "PAIR",
+            "SYNC",
+            "DRAIN",
+            "FLUSH",
+            "REFILL",
+            "SWIRL",
+            "GAME",
+            "LONG",
+            "POKER",
+            "STRAIGHT"
+        ],
+        "groups": [
+            {
+                "label": "CIRCUIT COMPONENTS",
+                "tier": "Yellow",
+                "members": [
+                    "BREAKER",
+                    "FUSE",
+                    "RELAY",
+                    "SWITCH"
+                ]
+            },
+            {
+                "label": "DIGITAL COUPLING VERBS",
+                "tier": "Green",
+                "members": [
+                    "CONNECT",
+                    "JOIN",
+                    "PAIR",
+                    "SYNC"
+                ]
+            },
+            {
+                "label": "THINGS TOILETS DO",
+                "tier": "Blue",
+                "members": [
+                    "DRAIN",
+                    "FLUSH",
+                    "REFILL",
+                    "SWIRL"
+                ]
+            },
+            {
+                "label": "___ FACE EXPRESSIONS",
+                "tier": "Purple",
+                "members": [
+                    "GAME",
+                    "LONG",
+                    "POKER",
+                    "STRAIGHT"
+                ]
+            }
+        ]
     }
 ]
