@@ -74370,5 +74370,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1134,
+        "date": "2026-07-20",
+        "has_images": false,
+        "words": [
+            "BLARE",
+            "HERALD",
+            "SOUND",
+            "TRUMPET",
+            "BUTTON",
+            "ICON",
+            "LINK",
+            "MENU",
+            "BUBBLE TEA",
+            "OYSTER",
+            "SWINE",
+            "WISDOM",
+            "ALEXA",
+            "MEADOW",
+            "PORTOBELLO",
+            "SAKES"
+        ],
+        "groups": [
+            {
+                "label": "ANNOUNCE",
+                "tier": "Yellow",
+                "members": [
+                    "BLARE",
+                    "HERALD",
+                    "SOUND",
+                    "TRUMPET"
+                ]
+            },
+            {
+                "label": "THINGS TO CLICK",
+                "tier": "Green",
+                "members": [
+                    "BUTTON",
+                    "ICON",
+                    "LINK",
+                    "MENU"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH PEARLS",
+                "tier": "Blue",
+                "members": [
+                    "BUBBLE TEA",
+                    "OYSTER",
+                    "SWINE",
+                    "WISDOM"
+                ]
+            },
+            {
+                "label": "STARTING WITH ALCOHOLIC BEVERAGES",
+                "tier": "Purple",
+                "members": [
+                    "ALEXA",
+                    "MEADOW",
+                    "PORTOBELLO",
+                    "SAKES"
+                ]
+            }
+        ]
     }
 ]
