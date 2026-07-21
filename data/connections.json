@@ -74436,5 +74436,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1135,
+        "date": "2026-07-21",
+        "has_images": false,
+        "words": [
+            "CROP",
+            "HALTER",
+            "TANK",
+            "TUBE",
+            "APP",
+            "DRIVER",
+            "EXTENSION",
+            "PLUGIN",
+            "BOOK",
+            "LYRICS",
+            "MUSIC",
+            "ORCHESTRATION",
+            "GRAM",
+            "KINESIS",
+            "PROMPTER",
+            "VISION"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF TOPS",
+                "tier": "Yellow",
+                "members": [
+                    "CROP",
+                    "HALTER",
+                    "TANK",
+                    "TUBE"
+                ]
+            },
+            {
+                "label": "SOFTWARE DOWNLOADS",
+                "tier": "Green",
+                "members": [
+                    "APP",
+                    "DRIVER",
+                    "EXTENSION",
+                    "PLUGIN"
+                ]
+            },
+            {
+                "label": "ELEMENTS OF A MUSICAL",
+                "tier": "Blue",
+                "members": [
+                    "BOOK",
+                    "LYRICS",
+                    "MUSIC",
+                    "ORCHESTRATION"
+                ]
+            },
+            {
+                "label": "TELE___",
+                "tier": "Purple",
+                "members": [
+                    "GRAM",
+                    "KINESIS",
+                    "PROMPTER",
+                    "VISION"
+                ]
+            }
+        ]
     }
 ]
