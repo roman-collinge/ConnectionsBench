@@ -74502,5 +74502,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1136,
+        "date": "2026-07-22",
+        "has_images": false,
+        "words": [
+            "HIVES",
+            "ITCHING",
+            "RASH",
+            "REDNESS",
+            "HOLE",
+            "PAR",
+            "SCORE",
+            "STROKES",
+            "PINS",
+            "SNAPS",
+            "TWEETS",
+            "VINES",
+            "HOOVES",
+            "MANE",
+            "TAIL",
+            "WHITE STRIPES"
+        ],
+        "groups": [
+            {
+                "label": "SYMPTOMS OF AN ALLERGIC REACTION",
+                "tier": "Yellow",
+                "members": [
+                    "HIVES",
+                    "ITCHING",
+                    "RASH",
+                    "REDNESS"
+                ]
+            },
+            {
+                "label": "ON A GOLF SCORECARD",
+                "tier": "Green",
+                "members": [
+                    "HOLE",
+                    "PAR",
+                    "SCORE",
+                    "STROKES"
+                ]
+            },
+            {
+                "label": "PLATFORM-SPECIFIC POSTS",
+                "tier": "Blue",
+                "members": [
+                    "PINS",
+                    "SNAPS",
+                    "TWEETS",
+                    "VINES"
+                ]
+            },
+            {
+                "label": "FEATURES OF A ZEBRA",
+                "tier": "Purple",
+                "members": [
+                    "HOOVES",
+                    "MANE",
+                    "TAIL",
+                    "WHITE STRIPES"
+                ]
+            }
+        ]
     }
 ]
