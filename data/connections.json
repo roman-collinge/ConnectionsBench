@@ -74568,5 +74568,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1137,
+        "date": "2026-07-23",
+        "has_images": false,
+        "words": [
+            "BASEBALL",
+            "GLOBE",
+            "MARBLE",
+            "ORANGE",
+            "EXCITED",
+            "FEBRILE",
+            "FRENETIC",
+            "INTENSE",
+            "APRON",
+            "HANGAR",
+            "RUNWAY",
+            "TERMINAL",
+            "APPOINT",
+            "DEPLANE",
+            "FELINE",
+            "JANGLE"
+        ],
+        "groups": [
+            {
+                "label": "SPHERICAL THINGS",
+                "tier": "Yellow",
+                "members": [
+                    "BASEBALL",
+                    "GLOBE",
+                    "MARBLE",
+                    "ORANGE"
+                ]
+            },
+            {
+                "label": "IN AN ANXIOUS STATE",
+                "tier": "Green",
+                "members": [
+                    "EXCITED",
+                    "FEBRILE",
+                    "FRENETIC",
+                    "INTENSE"
+                ]
+            },
+            {
+                "label": "PARTS OF AN AIRPORT",
+                "tier": "Blue",
+                "members": [
+                    "APRON",
+                    "HANGAR",
+                    "RUNWAY",
+                    "TERMINAL"
+                ]
+            },
+            {
+                "label": "ENDING IN GEOMETRY TERMS",
+                "tier": "Purple",
+                "members": [
+                    "APPOINT",
+                    "DEPLANE",
+                    "FELINE",
+                    "JANGLE"
+                ]
+            }
+        ]
     }
 ]
