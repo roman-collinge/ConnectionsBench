@@ -74634,5 +74634,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1138,
+        "date": "2026-07-24",
+        "has_images": false,
+        "words": [
+            "BABBLE",
+            "DRONE",
+            "RAMBLE",
+            "YAK",
+            "HOME RUN",
+            "SINGLE",
+            "STRIKEOUT",
+            "WALK",
+            "JOG",
+            "PROMPT",
+            "REFRESH",
+            "SPARK",
+            "CANTER",
+            "FRYER",
+            "LLAMA",
+            "NONE"
+        ],
+        "groups": [
+            {
+                "label": "TALK AT LENGTH",
+                "tier": "Yellow",
+                "members": [
+                    "BABBLE",
+                    "DRONE",
+                    "RAMBLE",
+                    "YAK"
+                ]
+            },
+            {
+                "label": "OUTCOMES FOR A BATTER",
+                "tier": "Green",
+                "members": [
+                    "HOME RUN",
+                    "SINGLE",
+                    "STRIKEOUT",
+                    "WALK"
+                ]
+            },
+            {
+                "label": "BRING TO MIND, AS A MEMORY",
+                "tier": "Blue",
+                "members": [
+                    "JOG",
+                    "PROMPT",
+                    "REFRESH",
+                    "SPARK"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF RELIGIOUS ROLES",
+                "tier": "Purple",
+                "members": [
+                    "CANTER",
+                    "FRYER",
+                    "LLAMA",
+                    "NONE"
+                ]
+            }
+        ]
     }
 ]
