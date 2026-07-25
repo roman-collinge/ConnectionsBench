@@ -74700,5 +74700,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1139,
+        "date": "2026-07-25",
+        "has_images": false,
+        "words": [
+            "ABUELA",
+            "HIJO",
+            "MADRE",
+            "PRIMO",
+            "CHOKE",
+            "MIST",
+            "TEAR",
+            "WELL",
+            "KWANZA",
+            "LEONE",
+            "NAIRA",
+            "RAND",
+            "CLUB",
+            "MALL",
+            "POKER",
+            "STEAK"
+        ],
+        "groups": [
+            {
+                "label": "SPANISH RELATIVES",
+                "tier": "Yellow",
+                "members": [
+                    "ABUELA",
+                    "HIJO",
+                    "MADRE",
+                    "PRIMO"
+                ]
+            },
+            {
+                "label": "START TO CRY, WITH \"UP\"",
+                "tier": "Green",
+                "members": [
+                    "CHOKE",
+                    "MIST",
+                    "TEAR",
+                    "WELL"
+                ]
+            },
+            {
+                "label": "AFRICAN CURRENCIES",
+                "tier": "Blue",
+                "members": [
+                    "KWANZA",
+                    "LEONE",
+                    "NAIRA",
+                    "RAND"
+                ]
+            },
+            {
+                "label": "STRIP ___",
+                "tier": "Purple",
+                "members": [
+                    "CLUB",
+                    "MALL",
+                    "POKER",
+                    "STEAK"
+                ]
+            }
+        ]
     }
 ]
