@@ -74832,5 +74832,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1141,
+        "date": "2026-07-27",
+        "has_images": false,
+        "words": [
+            "BEAM",
+            "HORSE",
+            "RINGS",
+            "VAULT",
+            "CARROT",
+            "ICICLE",
+            "KNITTING NEEDLE",
+            "STALACTITE",
+            "DOPPLER",
+            "GRAVEYARD",
+            "PARADIGM",
+            "STICK",
+            "BELL",
+            "CART",
+            "HEART",
+            "MAGNIFYING GLASS"
+        ],
+        "groups": [
+            {
+                "label": "GYMNASTICS APPARATUS",
+                "tier": "Yellow",
+                "members": [
+                    "BEAM",
+                    "HORSE",
+                    "RINGS",
+                    "VAULT"
+                ]
+            },
+            {
+                "label": "LONG TAPERED THINGS",
+                "tier": "Green",
+                "members": [
+                    "CARROT",
+                    "ICICLE",
+                    "KNITTING NEEDLE",
+                    "STALACTITE"
+                ]
+            },
+            {
+                "label": "KINDS OF SHIFTS",
+                "tier": "Blue",
+                "members": [
+                    "DOPPLER",
+                    "GRAVEYARD",
+                    "PARADIGM",
+                    "STICK"
+                ]
+            },
+            {
+                "label": "ICONS ON A SHOPPING SITE",
+                "tier": "Purple",
+                "members": [
+                    "BELL",
+                    "CART",
+                    "HEART",
+                    "MAGNIFYING GLASS"
+                ]
+            }
+        ]
     }
 ]
