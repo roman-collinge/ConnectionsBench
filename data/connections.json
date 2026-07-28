@@ -74898,5 +74898,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1142,
+        "date": "2026-07-28",
+        "has_images": false,
+        "words": [
+            "CAPTAIN",
+            "DIRECT",
+            "HEAD",
+            "LEAD",
+            "EMPIRE",
+            "FUJI",
+            "GALA",
+            "HONEYCRISP",
+            "CAMPER",
+            "CLARKS",
+            "CONVERSE",
+            "CROCS",
+            "ANNAPOLIS",
+            "BOBSLED",
+            "EVEREST",
+            "OTTOMAN"
+        ],
+        "groups": [
+            {
+                "label": "COMMAND",
+                "tier": "Yellow",
+                "members": [
+                    "CAPTAIN",
+                    "DIRECT",
+                    "HEAD",
+                    "LEAD"
+                ]
+            },
+            {
+                "label": "HOW DO YOU LIKE THEM APPLES",
+                "tier": "Green",
+                "members": [
+                    "EMPIRE",
+                    "FUJI",
+                    "GALA",
+                    "HONEYCRISP"
+                ]
+            },
+            {
+                "label": "SHOE BRANDS STARTING WITH \"C\"",
+                "tier": "Blue",
+                "members": [
+                    "CAMPER",
+                    "CLARKS",
+                    "CONVERSE",
+                    "CROCS"
+                ]
+            },
+            {
+                "label": "STARTING WITH PALINDROMIC NAMES",
+                "tier": "Purple",
+                "members": [
+                    "ANNAPOLIS",
+                    "BOBSLED",
+                    "EVEREST",
+                    "OTTOMAN"
+                ]
+            }
+        ]
     }
 ]
