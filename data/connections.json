@@ -74964,5 +74964,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1143,
+        "date": "2026-07-29",
+        "has_images": false,
+        "words": [
+            "NAIL",
+            "RIVET",
+            "SCREW",
+            "STAPLE",
+            "BASIC",
+            "MID",
+            "PLAIN",
+            "VANILLA",
+            "GEM",
+            "NUGGET",
+            "PEARL",
+            "WORD",
+            "BLACK",
+            "CHALK",
+            "CORK",
+            "WHITE"
+        ],
+        "groups": [
+            {
+                "label": "FASTENERS",
+                "tier": "Yellow",
+                "members": [
+                    "NAIL",
+                    "RIVET",
+                    "SCREW",
+                    "STAPLE"
+                ]
+            },
+            {
+                "label": "NONDESCRIPT",
+                "tier": "Green",
+                "members": [
+                    "BASIC",
+                    "MID",
+                    "PLAIN",
+                    "VANILLA"
+                ]
+            },
+            {
+                "label": "UNITS OF WISDOM",
+                "tier": "Blue",
+                "members": [
+                    "GEM",
+                    "NUGGET",
+                    "PEARL",
+                    "WORD"
+                ]
+            },
+            {
+                "label": "___BOARDS IN A CLASSROOM",
+                "tier": "Purple",
+                "members": [
+                    "BLACK",
+                    "CHALK",
+                    "CORK",
+                    "WHITE"
+                ]
+            }
+        ]
     }
 ]
