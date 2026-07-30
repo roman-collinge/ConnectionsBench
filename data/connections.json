@@ -75030,5 +75030,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1144,
+        "date": "2026-07-30",
+        "has_images": false,
+        "words": [
+            "FAIR",
+            "GOOD",
+            "JUST",
+            "RIGHT",
+            "BEER PONG",
+            "BINGO",
+            "JUGGLING",
+            "POOL",
+            "CARNIVAL",
+            "CELEBRITY",
+            "PRINCESS",
+            "VIKING",
+            "DOT",
+            "MARK",
+            "MONEY",
+            "NOSE"
+        ],
+        "groups": [
+            {
+                "label": "VIRTUOUS",
+                "tier": "Yellow",
+                "members": [
+                    "FAIR",
+                    "GOOD",
+                    "JUST",
+                    "RIGHT"
+                ]
+            },
+            {
+                "label": "ACTIVITIES WITH MULTIPLE BALLS",
+                "tier": "Green",
+                "members": [
+                    "BEER PONG",
+                    "BINGO",
+                    "JUGGLING",
+                    "POOL"
+                ]
+            },
+            {
+                "label": "CRUISE LINES",
+                "tier": "Blue",
+                "members": [
+                    "CARNIVAL",
+                    "CELEBRITY",
+                    "PRINCESS",
+                    "VIKING"
+                ]
+            },
+            {
+                "label": "ON THE ___, TO MEAN \"PRECISE\"",
+                "tier": "Purple",
+                "members": [
+                    "DOT",
+                    "MARK",
+                    "MONEY",
+                    "NOSE"
+                ]
+            }
+        ]
     }
 ]
