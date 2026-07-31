@@ -75096,5 +75096,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1145,
+        "date": "2026-07-31",
+        "has_images": false,
+        "words": [
+            "FASHION",
+            "MODEL",
+            "MOLD",
+            "SHAPE",
+            "DINOSAUR",
+            "MUSHROOM",
+            "PLUMBER",
+            "PRINCESS",
+            "DAPPLE",
+            "JDATE",
+            "SLIME",
+            "SPEAR",
+            "CHEERIOS",
+            "FUNGUS",
+            "GLEEK",
+            "JOYSTICK"
+        ],
+        "groups": [
+            {
+                "label": "CONSTRUCT",
+                "tier": "Yellow",
+                "members": [
+                    "FASHION",
+                    "MODEL",
+                    "MOLD",
+                    "SHAPE"
+                ]
+            },
+            {
+                "label": "SUPER MARIO FIGURES",
+                "tier": "Green",
+                "members": [
+                    "DINOSAUR",
+                    "MUSHROOM",
+                    "PLUMBER",
+                    "PRINCESS"
+                ]
+            },
+            {
+                "label": "FRUITS PLUS STARTING LETTER",
+                "tier": "Blue",
+                "members": [
+                    "DAPPLE",
+                    "JDATE",
+                    "SLIME",
+                    "SPEAR"
+                ]
+            },
+            {
+                "label": "STARTING WITH MERRIMENTS",
+                "tier": "Purple",
+                "members": [
+                    "CHEERIOS",
+                    "FUNGUS",
+                    "GLEEK",
+                    "JOYSTICK"
+                ]
+            }
+        ]
     }
 ]
