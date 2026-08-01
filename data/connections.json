@@ -75162,5 +75162,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1146,
+        "date": "2026-08-01",
+        "has_images": false,
+        "words": [
+            "COMFORTER",
+            "SHAM",
+            "SHEET",
+            "THROW",
+            "BALE",
+            "JORDAN",
+            "PHOENIX",
+            "WALTZ",
+            "BORE",
+            "COUNTERSINK",
+            "DRILL",
+            "REAM",
+            "BOULEVARD",
+            "BUNDLE",
+            "LOAFER",
+            "ROLLS-ROYCE"
+        ],
+        "groups": [
+            {
+                "label": "BEDDING",
+                "tier": "Yellow",
+                "members": [
+                    "COMFORTER",
+                    "SHAM",
+                    "SHEET",
+                    "THROW"
+                ]
+            },
+            {
+                "label": "OSCAR-WINNING ACTORS SINCE 2010",
+                "tier": "Green",
+                "members": [
+                    "BALE",
+                    "JORDAN",
+                    "PHOENIX",
+                    "WALTZ"
+                ]
+            },
+            {
+                "label": "PERFORM SOME HOLE MACHINING OPERATIONS",
+                "tier": "Blue",
+                "members": [
+                    "BORE",
+                    "COUNTERSINK",
+                    "DRILL",
+                    "REAM"
+                ]
+            },
+            {
+                "label": "STARTING WITH BREAD SHAPES",
+                "tier": "Purple",
+                "members": [
+                    "BOULEVARD",
+                    "BUNDLE",
+                    "LOAFER",
+                    "ROLLS-ROYCE"
+                ]
+            }
+        ]
     }
 ]
