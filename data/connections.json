@@ -75294,5 +75294,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1148,
+        "date": "2026-08-03",
+        "has_images": false,
+        "words": [
+            "ALLEY",
+            "BACKSTREET",
+            "BYWAY",
+            "LANE",
+            "FOREST",
+            "HUNTER",
+            "MINT",
+            "SAGE",
+            "FLY BY",
+            "MYRRH",
+            "NSYNC",
+            "RHYTHM",
+            "BUG FIX",
+            "NAG CHAMPA",
+            "NEEDLESS",
+            "TEA SET"
+        ],
+        "groups": [
+            {
+                "label": "ROAD LESS TRAVELED",
+                "tier": "Yellow",
+                "members": [
+                    "ALLEY",
+                    "BACKSTREET",
+                    "BYWAY",
+                    "LANE"
+                ]
+            },
+            {
+                "label": "SHADES OF GREEN",
+                "tier": "Green",
+                "members": [
+                    "FOREST",
+                    "HUNTER",
+                    "MINT",
+                    "SAGE"
+                ]
+            },
+            {
+                "label": "\"Y\" IS THE ONLY VOWEL",
+                "tier": "Blue",
+                "members": [
+                    "FLY BY",
+                    "MYRRH",
+                    "NSYNC",
+                    "RHYTHM"
+                ]
+            },
+            {
+                "label": "STARTING WITH SYNONYMS FOR \"PESTER\"",
+                "tier": "Purple",
+                "members": [
+                    "BUG FIX",
+                    "NAG CHAMPA",
+                    "NEEDLESS",
+                    "TEA SET"
+                ]
+            }
+        ]
     }
 ]
