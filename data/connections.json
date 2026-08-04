@@ -75360,5 +75360,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1149,
+        "date": "2026-08-04",
+        "has_images": false,
+        "words": [
+            "CIGARETTE",
+            "FOAM ROLLER",
+            "POOL NOODLE",
+            "PRETZEL ROD",
+            "BODEGA",
+            "PIGEON",
+            "SUBWAY STATION",
+            "TAXI CAB",
+            "PIANO",
+            "SEWING MACHINE",
+            "SWAN BOAT",
+            "UNICYCLE",
+            "ANGLE BRACKET",
+            "CHEVRON",
+            "GOOSE FORMATION",
+            "PEACE SIGN"
+        ],
+        "groups": [
+            {
+                "label": "LONG CYLINDRICAL THINGS",
+                "tier": "Yellow",
+                "members": [
+                    "CIGARETTE",
+                    "FOAM ROLLER",
+                    "POOL NOODLE",
+                    "PRETZEL ROD"
+                ]
+            },
+            {
+                "label": "ICONIC NYC SIGHTS",
+                "tier": "Green",
+                "members": [
+                    "BODEGA",
+                    "PIGEON",
+                    "SUBWAY STATION",
+                    "TAXI CAB"
+                ]
+            },
+            {
+                "label": "THINGS WITH PEDALS",
+                "tier": "Blue",
+                "members": [
+                    "PIANO",
+                    "SEWING MACHINE",
+                    "SWAN BOAT",
+                    "UNICYCLE"
+                ]
+            },
+            {
+                "label": "V-SHAPED THINGS",
+                "tier": "Purple",
+                "members": [
+                    "ANGLE BRACKET",
+                    "CHEVRON",
+                    "GOOSE FORMATION",
+                    "PEACE SIGN"
+                ]
+            }
+        ]
     }
 ]
