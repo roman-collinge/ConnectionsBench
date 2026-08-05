@@ -75426,5 +75426,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1150,
+        "date": "2026-08-05",
+        "has_images": false,
+        "words": [
+            "DRIVE",
+            "MANEUVER",
+            "PILOT",
+            "STEER",
+            "DIESEL",
+            "GAP",
+            "LUCKY",
+            "WRANGLER",
+            "CAPE COD",
+            "MISSION",
+            "RANCH",
+            "TUDOR",
+            "BROTH",
+            "CATTLE",
+            "INVESTMENT",
+            "MERCHANDISE"
+        ],
+        "groups": [
+            {
+                "label": "NAVIGATE",
+                "tier": "Yellow",
+                "members": [
+                    "DRIVE",
+                    "MANEUVER",
+                    "PILOT",
+                    "STEER"
+                ]
+            },
+            {
+                "label": "JEANS BRANDS",
+                "tier": "Green",
+                "members": [
+                    "DIESEL",
+                    "GAP",
+                    "LUCKY",
+                    "WRANGLER"
+                ]
+            },
+            {
+                "label": "HOUSE STYLES",
+                "tier": "Blue",
+                "members": [
+                    "CAPE COD",
+                    "MISSION",
+                    "RANCH",
+                    "TUDOR"
+                ]
+            },
+            {
+                "label": "WHAT \"STOCK\" MIGHT REFER TO",
+                "tier": "Purple",
+                "members": [
+                    "BROTH",
+                    "CATTLE",
+                    "INVESTMENT",
+                    "MERCHANDISE"
+                ]
+            }
+        ]
     }
 ]
