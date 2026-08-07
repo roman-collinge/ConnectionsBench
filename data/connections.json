@@ -75558,5 +75558,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1152,
+        "date": "2026-08-07",
+        "has_images": false,
+        "words": [
+            "FRAGRANCE",
+            "JAR",
+            "WAX",
+            "WICK",
+            "LIQUID NITROGEN",
+            "REFRIGERATOR",
+            "SNOW",
+            "SUNDAE",
+            "BUTTONS",
+            "CABLES",
+            "MOTOR",
+            "SHAFT",
+            "BUCKYBALL",
+            "JACKPOT",
+            "RAMBO",
+            "TOMATILLO"
+        ],
+        "groups": [
+            {
+                "label": "COMPONENTS OF A CANDLE",
+                "tier": "Yellow",
+                "members": [
+                    "FRAGRANCE",
+                    "JAR",
+                    "WAX",
+                    "WICK"
+                ]
+            },
+            {
+                "label": "COLD THINGS",
+                "tier": "Green",
+                "members": [
+                    "LIQUID NITROGEN",
+                    "REFRIGERATOR",
+                    "SNOW",
+                    "SUNDAE"
+                ]
+            },
+            {
+                "label": "PARTS OF AN ELEVATOR",
+                "tier": "Blue",
+                "members": [
+                    "BUTTONS",
+                    "CABLES",
+                    "MOTOR",
+                    "SHAFT"
+                ]
+            },
+            {
+                "label": "STARTING WITH MALE ANIMALS",
+                "tier": "Purple",
+                "members": [
+                    "BUCKYBALL",
+                    "JACKPOT",
+                    "RAMBO",
+                    "TOMATILLO"
+                ]
+            }
+        ]
     }
 ]
