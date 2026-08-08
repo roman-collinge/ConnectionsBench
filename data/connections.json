@@ -75624,5 +75624,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1153,
+        "date": "2026-08-08",
+        "has_images": false,
+        "words": [
+            "HOT DOG",
+            "HURRAH",
+            "WHOOPEE",
+            "YAHOO",
+            "COUCH",
+            "EXPRESS",
+            "FRAME",
+            "PHRASE",
+            "CUTIE",
+            "EASY",
+            "EFFECTS",
+            "I OWE YOU",
+            "BELT",
+            "GOGGLES",
+            "PIN",
+            "RAZOR"
+        ],
+        "groups": [
+            {
+                "label": "QUAINT EXPRESSIONS OF EXCITEMENT",
+                "tier": "Yellow",
+                "members": [
+                    "HOT DOG",
+                    "HURRAH",
+                    "WHOOPEE",
+                    "YAHOO"
+                ]
+            },
+            {
+                "label": "CONVEY",
+                "tier": "Green",
+                "members": [
+                    "COUCH",
+                    "EXPRESS",
+                    "FRAME",
+                    "PHRASE"
+                ]
+            },
+            {
+                "label": "WORDS ABBREVIATED WITH LETTERS AS HOMOPHONES",
+                "tier": "Blue",
+                "members": [
+                    "CUTIE",
+                    "EASY",
+                    "EFFECTS",
+                    "I OWE YOU"
+                ]
+            },
+            {
+                "label": "SAFETY ___",
+                "tier": "Purple",
+                "members": [
+                    "BELT",
+                    "GOGGLES",
+                    "PIN",
+                    "RAZOR"
+                ]
+            }
+        ]
     }
 ]
