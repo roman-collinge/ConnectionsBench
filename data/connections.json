@@ -75690,5 +75690,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1154,
+        "date": "2026-08-09",
+        "has_images": false,
+        "words": [
+            "CHANGE TACK",
+            "COURSE-CORRECT",
+            "RECALIBRATE",
+            "SHIFT GEARS",
+            "CAPS FOR SALE",
+            "CORDUROY",
+            "GOODNIGHT MOON",
+            "MADELINE",
+            "BUDDY COP",
+            "NEO-NOIR",
+            "SPACE OPERA",
+            "SPAGHETTI WESTERN",
+            "BAD DREAM",
+            "ESCAPE ROOM",
+            "JURY DUTY",
+            "LABYRINTH"
+        ],
+        "groups": [
+            {
+                "label": "TAKE A DIFFERENT APPROACH",
+                "tier": "Yellow",
+                "members": [
+                    "CHANGE TACK",
+                    "COURSE-CORRECT",
+                    "RECALIBRATE",
+                    "SHIFT GEARS"
+                ]
+            },
+            {
+                "label": "CLASSIC CHILDREN'S BOOKS",
+                "tier": "Green",
+                "members": [
+                    "CAPS FOR SALE",
+                    "CORDUROY",
+                    "GOODNIGHT MOON",
+                    "MADELINE"
+                ]
+            },
+            {
+                "label": "MOVIE SUBGENRES",
+                "tier": "Blue",
+                "members": [
+                    "BUDDY COP",
+                    "NEO-NOIR",
+                    "SPACE OPERA",
+                    "SPAGHETTI WESTERN"
+                ]
+            },
+            {
+                "label": "THINGS PEOPLE TRY TO GET OUT OF",
+                "tier": "Purple",
+                "members": [
+                    "BAD DREAM",
+                    "ESCAPE ROOM",
+                    "JURY DUTY",
+                    "LABYRINTH"
+                ]
+            }
+        ]
     }
 ]
