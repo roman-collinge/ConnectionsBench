@@ -75756,5 +75756,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1155,
+        "date": "2026-08-10",
+        "has_images": false,
+        "words": [
+            "ANY OLD HOW",
+            "AT RANDOM",
+            "HELTER-SKELTER",
+            "WILLY-NILLY",
+            "MAIL DELIVERY",
+            "MOBILE TICKET",
+            "PRINT-AT-HOME",
+            "WILL CALL",
+            "BALANCE DUE",
+            "BILL TO",
+            "ORDER NUMBER",
+            "UNIT PRICE",
+            "BILLY GOAT",
+            "COLONEL SANDERS",
+            "DOCTOR STRANGE",
+            "THE DEVIL"
+        ],
+        "groups": [
+            {
+                "label": "HAPHAZARDLY",
+                "tier": "Yellow",
+                "members": [
+                    "ANY OLD HOW",
+                    "AT RANDOM",
+                    "HELTER-SKELTER",
+                    "WILLY-NILLY"
+                ]
+            },
+            {
+                "label": "WAYS TO RECEIVE EVENT TICKETS",
+                "tier": "Green",
+                "members": [
+                    "MAIL DELIVERY",
+                    "MOBILE TICKET",
+                    "PRINT-AT-HOME",
+                    "WILL CALL"
+                ]
+            },
+            {
+                "label": "SECTIONS ON AN INVOICE",
+                "tier": "Blue",
+                "members": [
+                    "BALANCE DUE",
+                    "BILL TO",
+                    "ORDER NUMBER",
+                    "UNIT PRICE"
+                ]
+            },
+            {
+                "label": "FAMOUS GOATEES",
+                "tier": "Purple",
+                "members": [
+                    "BILLY GOAT",
+                    "COLONEL SANDERS",
+                    "DOCTOR STRANGE",
+                    "THE DEVIL"
+                ]
+            }
+        ]
     }
 ]
