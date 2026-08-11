@@ -75822,5 +75822,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1156,
+        "date": "2026-08-11",
+        "has_images": false,
+        "words": [
+            "DONE",
+            "SUNK",
+            "THROUGH",
+            "TOAST",
+            "BET",
+            "BRAVO",
+            "HISTORY",
+            "USA",
+            "GOING",
+            "ONCE",
+            "SOLD",
+            "TWICE",
+            "AYE",
+            "HARE",
+            "KNOWS",
+            "TUNG"
+        ],
+        "groups": [
+            {
+                "label": "DOOMED",
+                "tier": "Yellow",
+                "members": [
+                    "DONE",
+                    "SUNK",
+                    "THROUGH",
+                    "TOAST"
+                ]
+            },
+            {
+                "label": "BASIC CABLE CHANNELS",
+                "tier": "Green",
+                "members": [
+                    "BET",
+                    "BRAVO",
+                    "HISTORY",
+                    "USA"
+                ]
+            },
+            {
+                "label": "WORDS IN AN AUCTIONEER'S CHANT",
+                "tier": "Blue",
+                "members": [
+                    "GOING",
+                    "ONCE",
+                    "SOLD",
+                    "TWICE"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF FACIAL FEATURES",
+                "tier": "Purple",
+                "members": [
+                    "AYE",
+                    "HARE",
+                    "KNOWS",
+                    "TUNG"
+                ]
+            }
+        ]
     }
 ]
