@@ -75888,5 +75888,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1157,
+        "date": "2026-08-12",
+        "has_images": false,
+        "words": [
+            "FOSTER",
+            "HARBOR",
+            "MAINTAIN",
+            "NURSE",
+            "BULL",
+            "GREEN",
+            "POISON DART",
+            "TREE",
+            "BENES",
+            "BING",
+            "LEMON",
+            "SCOTT",
+            "FINE PRINT",
+            "GOODBYE",
+            "GREAT WHITE",
+            "OKAYAMA"
+        ],
+        "groups": [
+            {
+                "label": "HOLD ONTO, AS A FEELING",
+                "tier": "Yellow",
+                "members": [
+                    "FOSTER",
+                    "HARBOR",
+                    "MAINTAIN",
+                    "NURSE"
+                ]
+            },
+            {
+                "label": "KINDS OF FROGS",
+                "tier": "Green",
+                "members": [
+                    "BULL",
+                    "GREEN",
+                    "POISON DART",
+                    "TREE"
+                ]
+            },
+            {
+                "label": "NBC SITCOM SURNAMES",
+                "tier": "Blue",
+                "members": [
+                    "BENES",
+                    "BING",
+                    "LEMON",
+                    "SCOTT"
+                ]
+            },
+            {
+                "label": "STARTING WITH AFFIRMATIVE RESPONSES",
+                "tier": "Purple",
+                "members": [
+                    "FINE PRINT",
+                    "GOODBYE",
+                    "GREAT WHITE",
+                    "OKAYAMA"
+                ]
+            }
+        ]
     }
 ]
