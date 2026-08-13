@@ -75954,5 +75954,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1158,
+        "date": "2026-08-13",
+        "has_images": false,
+        "words": [
+            "CARRY ON",
+            "CONTINUE",
+            "MAKE IT",
+            "PERSIST",
+            "CREEP",
+            "EASE",
+            "EDGE",
+            "INCH",
+            "CHECKED BAGS",
+            "LOUNGE",
+            "MILES",
+            "UPGRADE",
+            "COMFORT",
+            "FEET",
+            "SHOULDER",
+            "TURKEY"
+        ],
+        "groups": [
+            {
+                "label": "PERSEVERE",
+                "tier": "Yellow",
+                "members": [
+                    "CARRY ON",
+                    "CONTINUE",
+                    "MAKE IT",
+                    "PERSIST"
+                ]
+            },
+            {
+                "label": "MOVE SLOWLY (UP TO)",
+                "tier": "Green",
+                "members": [
+                    "CREEP",
+                    "EASE",
+                    "EDGE",
+                    "INCH"
+                ]
+            },
+            {
+                "label": "AIRLINE STATUS PERKS",
+                "tier": "Blue",
+                "members": [
+                    "CHECKED BAGS",
+                    "LOUNGE",
+                    "MILES",
+                    "UPGRADE"
+                ]
+            },
+            {
+                "label": "\"COLD\" THINGS, IN IDIOMS",
+                "tier": "Purple",
+                "members": [
+                    "COMFORT",
+                    "FEET",
+                    "SHOULDER",
+                    "TURKEY"
+                ]
+            }
+        ]
     }
 ]
