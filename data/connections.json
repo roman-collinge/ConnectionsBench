@@ -76020,5 +76020,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1159,
+        "date": "2026-08-14",
+        "has_images": false,
+        "words": [
+            "BUMBLEBEE",
+            "CAUTION TAPE",
+            "CHARLIE BROWN",
+            "WOLVERINE",
+            "BUBBLE",
+            "ECHO CHAMBER",
+            "HIVEMIND",
+            "SILO",
+            "BRISTOL BOARD",
+            "DIP PEN",
+            "INDIA INK",
+            "STRAIGHTEDGE",
+            "BASS ALE",
+            "CITGO",
+            "DELTA AIRLINES",
+            "GOOGLE DRIVE"
+        ],
+        "groups": [
+            {
+                "label": "BLACK-AND-YELLOW",
+                "tier": "Yellow",
+                "members": [
+                    "BUMBLEBEE",
+                    "CAUTION TAPE",
+                    "CHARLIE BROWN",
+                    "WOLVERINE"
+                ]
+            },
+            {
+                "label": "PLACES WHERE EVERYONE THINKS THE SAME WAYS",
+                "tier": "Green",
+                "members": [
+                    "BUBBLE",
+                    "ECHO CHAMBER",
+                    "HIVEMIND",
+                    "SILO"
+                ]
+            },
+            {
+                "label": "COMIC BOOK ARTIST'S TOOLS",
+                "tier": "Blue",
+                "members": [
+                    "BRISTOL BOARD",
+                    "DIP PEN",
+                    "INDIA INK",
+                    "STRAIGHTEDGE"
+                ]
+            },
+            {
+                "label": "TRIANGLE LOGOS",
+                "tier": "Purple",
+                "members": [
+                    "BASS ALE",
+                    "CITGO",
+                    "DELTA AIRLINES",
+                    "GOOGLE DRIVE"
+                ]
+            }
+        ]
     }
 ]
