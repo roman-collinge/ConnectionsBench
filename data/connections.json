@@ -76086,5 +76086,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1160,
+        "date": "2026-08-15",
+        "has_images": false,
+        "words": [
+            "BEAT",
+            "FRIED",
+            "SPENT",
+            "WORN OUT",
+            "LEG",
+            "PHASE",
+            "STAGE",
+            "STRETCH",
+            "CHAMOMILE",
+            "GRINCH",
+            "HOTFOOT",
+            "LANYARD",
+            "BEANSTALK",
+            "EYESHADOW",
+            "HIGHTAIL",
+            "SOUNDTRACK"
+        ],
+        "groups": [
+            {
+                "label": "EXHAUSTED",
+                "tier": "Yellow",
+                "members": [
+                    "BEAT",
+                    "FRIED",
+                    "SPENT",
+                    "WORN OUT"
+                ]
+            },
+            {
+                "label": "SEGMENT",
+                "tier": "Green",
+                "members": [
+                    "LEG",
+                    "PHASE",
+                    "STAGE",
+                    "STRETCH"
+                ]
+            },
+            {
+                "label": "ENDING IN UNITS OF LENGTH",
+                "tier": "Blue",
+                "members": [
+                    "CHAMOMILE",
+                    "GRINCH",
+                    "HOTFOOT",
+                    "LANYARD"
+                ]
+            },
+            {
+                "label": "ENDING IN SYNONYMS FOR FOLLOW SECRETLY",
+                "tier": "Purple",
+                "members": [
+                    "BEANSTALK",
+                    "EYESHADOW",
+                    "HIGHTAIL",
+                    "SOUNDTRACK"
+                ]
+            }
+        ]
     }
 ]
