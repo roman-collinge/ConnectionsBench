@@ -76152,5 +76152,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1161,
+        "date": "2026-08-16",
+        "has_images": false,
+        "words": [
+            "CONCERT",
+            "GIG",
+            "SET",
+            "SHOW",
+            "ACTOR",
+            "AGENT",
+            "PARTY",
+            "PLAYER",
+            "GRAND",
+            "GREAT",
+            "HALF",
+            "STEP",
+            "FROM NEANDER",
+            "HANDY",
+            "UPRIGHT",
+            "WISE"
+        ],
+        "groups": [
+            {
+                "label": "MUSICAL PERFORMANCE",
+                "tier": "Yellow",
+                "members": [
+                    "CONCERT",
+                    "GIG",
+                    "SET",
+                    "SHOW"
+                ]
+            },
+            {
+                "label": "PARTICIPANT",
+                "tier": "Green",
+                "members": [
+                    "ACTOR",
+                    "AGENT",
+                    "PARTY",
+                    "PLAYER"
+                ]
+            },
+            {
+                "label": "FAMILY RELATIONSHIP MODIFIERS",
+                "tier": "Blue",
+                "members": [
+                    "GRAND",
+                    "GREAT",
+                    "HALF",
+                    "STEP"
+                ]
+            },
+            {
+                "label": "DESCRIPTORS FOR OUR HUMAN ANCESTORS",
+                "tier": "Purple",
+                "members": [
+                    "FROM NEANDER",
+                    "HANDY",
+                    "UPRIGHT",
+                    "WISE"
+                ]
+            }
+        ]
     }
 ]
