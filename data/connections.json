@@ -76218,5 +76218,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1162,
+        "date": "2026-08-17",
+        "has_images": false,
+        "words": [
+            "HUDDLE",
+            "MEET",
+            "TEAMS",
+            "ZOOM",
+            "FORMULA",
+            "FUNCTION",
+            "MACRO",
+            "SCRIPT",
+            "DOLLY",
+            "JOHNNY",
+            "PATSY",
+            "WILLIE",
+            "BIRDIE",
+            "CATTLE",
+            "DOGIE",
+            "FISHEYE"
+        ],
+        "groups": [
+            {
+                "label": "VIDEO CALL PLATFORMS",
+                "tier": "Yellow",
+                "members": [
+                    "HUDDLE",
+                    "MEET",
+                    "TEAMS",
+                    "ZOOM"
+                ]
+            },
+            {
+                "label": "SPREADSHEET FEATURES",
+                "tier": "Green",
+                "members": [
+                    "FORMULA",
+                    "FUNCTION",
+                    "MACRO",
+                    "SCRIPT"
+                ]
+            },
+            {
+                "label": "FIRST NAMES OF COUNTRY MUSIC LEGENDS",
+                "tier": "Blue",
+                "members": [
+                    "DOLLY",
+                    "JOHNNY",
+                    "PATSY",
+                    "WILLIE"
+                ]
+            },
+            {
+                "label": "STARTING WITH PETS",
+                "tier": "Purple",
+                "members": [
+                    "BIRDIE",
+                    "CATTLE",
+                    "DOGIE",
+                    "FISHEYE"
+                ]
+            }
+        ]
     }
 ]
