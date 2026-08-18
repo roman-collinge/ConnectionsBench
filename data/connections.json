@@ -76284,5 +76284,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1163,
+        "date": "2026-08-18",
+        "has_images": false,
+        "words": [
+            "LIMOUSINE",
+            "PAPARAZZI",
+            "RED CARPET",
+            "VELVET ROPE",
+            "PETROLEUM JELLY",
+            "POETIC JUSTICE",
+            "PRACTICAL JOKE",
+            "PRIVATE JET",
+            "BASKETBALL",
+            "ORANGUTAN",
+            "SWEET POTATO",
+            "TRAFFIC CONE",
+            "COWBOY COFFEE",
+            "FILM NOIR",
+            "FLYERS MASCOT",
+            "SANDPAPER"
+        ],
+        "groups": [
+            {
+                "label": "SEEN AT A MOVIE PREMIERE",
+                "tier": "Yellow",
+                "members": [
+                    "LIMOUSINE",
+                    "PAPARAZZI",
+                    "RED CARPET",
+                    "VELVET ROPE"
+                ]
+            },
+            {
+                "label": "PJS",
+                "tier": "Green",
+                "members": [
+                    "PETROLEUM JELLY",
+                    "POETIC JUSTICE",
+                    "PRACTICAL JOKE",
+                    "PRIVATE JET"
+                ]
+            },
+            {
+                "label": "THINGS THAT ARE ORANGE",
+                "tier": "Blue",
+                "members": [
+                    "BASKETBALL",
+                    "ORANGUTAN",
+                    "SWEET POTATO",
+                    "TRAFFIC CONE"
+                ]
+            },
+            {
+                "label": "THINGS THAT ARE GRITTY",
+                "tier": "Purple",
+                "members": [
+                    "COWBOY COFFEE",
+                    "FILM NOIR",
+                    "FLYERS MASCOT",
+                    "SANDPAPER"
+                ]
+            }
+        ]
     }
 ]
