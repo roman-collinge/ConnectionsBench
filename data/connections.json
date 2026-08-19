@@ -76350,5 +76350,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1164,
+        "date": "2026-08-19",
+        "has_images": false,
+        "words": [
+            "BREEZE",
+            "CINCH",
+            "PICNIC",
+            "SNAP",
+            "BLANKET",
+            "HIDE",
+            "MASK",
+            "OBSCURE",
+            "BASE",
+            "BASKET",
+            "FOOT",
+            "PICKLE",
+            "ANTS",
+            "COCOA",
+            "RHEO",
+            "SEOUL"
+        ],
+        "groups": [
+            {
+                "label": "PIECE OF CAKE",
+                "tier": "Yellow",
+                "members": [
+                    "BREEZE",
+                    "CINCH",
+                    "PICNIC",
+                    "SNAP"
+                ]
+            },
+            {
+                "label": "CONCEAL",
+                "tier": "Green",
+                "members": [
+                    "BLANKET",
+                    "HIDE",
+                    "MASK",
+                    "OBSCURE"
+                ]
+            },
+            {
+                "label": "WORDS BEFORE \"BALL\" IN SPORT NAMES",
+                "tier": "Blue",
+                "members": [
+                    "BASE",
+                    "BASKET",
+                    "FOOT",
+                    "PICKLE"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF CGI-ANIMATED FILMS",
+                "tier": "Purple",
+                "members": [
+                    "ANTS",
+                    "COCOA",
+                    "RHEO",
+                    "SEOUL"
+                ]
+            }
+        ]
     }
 ]
