@@ -76416,5 +76416,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1165,
+        "date": "2026-08-20",
+        "has_images": false,
+        "words": [
+            "DIAVOLA",
+            "HAWAIIAN",
+            "MEAT LOVERS",
+            "WHITE",
+            "ATOMIC",
+            "SERIAL",
+            "SOCIAL SECURITY",
+            "TELEPHONE",
+            "APOSTROPHE",
+            "CEDILLA",
+            "COMMA",
+            "OKINA",
+            "DRAGONFLY",
+            "OXFORD",
+            "PIGMENT",
+            "RATCHET"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF PIZZA",
+                "tier": "Yellow",
+                "members": [
+                    "DIAVOLA",
+                    "HAWAIIAN",
+                    "MEAT LOVERS",
+                    "WHITE"
+                ]
+            },
+            {
+                "label": "KINDS OF NUMBERS",
+                "tier": "Green",
+                "members": [
+                    "ATOMIC",
+                    "SERIAL",
+                    "SOCIAL SECURITY",
+                    "TELEPHONE"
+                ]
+            },
+            {
+                "label": "SIMILARLY SHAPED TYPOGRAPHICAL MARKS",
+                "tier": "Blue",
+                "members": [
+                    "APOSTROPHE",
+                    "CEDILLA",
+                    "COMMA",
+                    "OKINA"
+                ]
+            },
+            {
+                "label": "STARTING WITH CHINESE ZODIAC ANIMALS",
+                "tier": "Purple",
+                "members": [
+                    "DRAGONFLY",
+                    "OXFORD",
+                    "PIGMENT",
+                    "RATCHET"
+                ]
+            }
+        ]
     }
 ]
