@@ -76482,5 +76482,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1166,
+        "date": "2026-08-21",
+        "has_images": false,
+        "words": [
+            "NUTRITION",
+            "OXYGEN",
+            "SLEEP",
+            "WATER",
+            "ACTION",
+            "CURTAIN UP",
+            "PLACES",
+            "SHOWTIME",
+            "COMEBACK",
+            "KARATE",
+            "SUNDANCE",
+            "WIMPY",
+            "BLUE MOON",
+            "GENERATION",
+            "LIFETIME",
+            "WHILE"
+        ],
+        "groups": [
+            {
+                "label": "THINGS MOST ANIMALS NEED",
+                "tier": "Yellow",
+                "members": [
+                    "NUTRITION",
+                    "OXYGEN",
+                    "SLEEP",
+                    "WATER"
+                ]
+            },
+            {
+                "label": "CALLS TO BEGIN A PERFORMANCE",
+                "tier": "Green",
+                "members": [
+                    "ACTION",
+                    "CURTAIN UP",
+                    "PLACES",
+                    "SHOWTIME"
+                ]
+            },
+            {
+                "label": "___ KIDS",
+                "tier": "Blue",
+                "members": [
+                    "COMEBACK",
+                    "KARATE",
+                    "SUNDANCE",
+                    "WIMPY"
+                ]
+            },
+            {
+                "label": "ONCE IN A ___",
+                "tier": "Purple",
+                "members": [
+                    "BLUE MOON",
+                    "GENERATION",
+                    "LIFETIME",
+                    "WHILE"
+                ]
+            }
+        ]
     }
 ]
