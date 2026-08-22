@@ -76548,5 +76548,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1167,
+        "date": "2026-08-22",
+        "has_images": false,
+        "words": [
+            "CHISEL",
+            "HAMMER",
+            "PLANE",
+            "SAW",
+            "BITTER",
+            "MUSK",
+            "WATER",
+            "WINTER",
+            "CONE",
+            "JET",
+            "MIST",
+            "SHOWER",
+            "GILMORE",
+            "GOLDEN",
+            "MEAN",
+            "SPICE"
+        ],
+        "groups": [
+            {
+                "label": "CARPENTRY TOOLS",
+                "tier": "Yellow",
+                "members": [
+                    "CHISEL",
+                    "HAMMER",
+                    "PLANE",
+                    "SAW"
+                ]
+            },
+            {
+                "label": "KINDS OF MELON",
+                "tier": "Green",
+                "members": [
+                    "BITTER",
+                    "MUSK",
+                    "WATER",
+                    "WINTER"
+                ]
+            },
+            {
+                "label": "GARDEN HOSE SETTINGS",
+                "tier": "Blue",
+                "members": [
+                    "CONE",
+                    "JET",
+                    "MIST",
+                    "SHOWER"
+                ]
+            },
+            {
+                "label": "___ GIRLS OF POP CULTURE",
+                "tier": "Purple",
+                "members": [
+                    "GILMORE",
+                    "GOLDEN",
+                    "MEAN",
+                    "SPICE"
+                ]
+            }
+        ]
     }
 ]
