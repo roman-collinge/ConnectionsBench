@@ -76614,5 +76614,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1168,
+        "date": "2026-08-23",
+        "has_images": false,
+        "words": [
+            "POWDER KEG",
+            "TIME BOMB",
+            "TINDERBOX",
+            "VOLCANO",
+            "ANTIFREEZE",
+            "BAZAAR",
+            "SKIING",
+            "VACUUM",
+            "HOME FRIES",
+            "POTATO BATTERY",
+            "VISCHYSSOISE",
+            "VODKA",
+            "BAKING SODA",
+            "CLUB SODA",
+            "HYDROGEN PEROXIDE",
+            "VINEGAR"
+        ],
+        "groups": [
+            {
+                "label": "POTENTIALLY EXPLOSIVE THINGS",
+                "tier": "Yellow",
+                "members": [
+                    "POWDER KEG",
+                    "TIME BOMB",
+                    "TINDERBOX",
+                    "VOLCANO"
+                ]
+            },
+            {
+                "label": "DOUBLE VOWELS",
+                "tier": "Green",
+                "members": [
+                    "ANTIFREEZE",
+                    "BAZAAR",
+                    "SKIING",
+                    "VACUUM"
+                ]
+            },
+            {
+                "label": "MADE WITH POTATOES",
+                "tier": "Blue",
+                "members": [
+                    "HOME FRIES",
+                    "POTATO BATTERY",
+                    "VISCHYSSOISE",
+                    "VODKA"
+                ]
+            },
+            {
+                "label": "HOUSEHOLD STAIN REMOVERS",
+                "tier": "Purple",
+                "members": [
+                    "BAKING SODA",
+                    "CLUB SODA",
+                    "HYDROGEN PEROXIDE",
+                    "VINEGAR"
+                ]
+            }
+        ]
     }
 ]
