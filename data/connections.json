@@ -76680,5 +76680,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1169,
+        "date": "2026-08-24",
+        "has_images": false,
+        "words": [
+            "MULLET",
+            "PIKE",
+            "SOLE",
+            "TANG",
+            "ARCH",
+            "CHIEF",
+            "MAIN",
+            "PRIME",
+            "FACE",
+            "HEEL",
+            "JOBBER",
+            "KAYFABE",
+            "BESET",
+            "DESERVE",
+            "EX-LOVE",
+            "EYELET"
+        ],
+        "groups": [
+            {
+                "label": "FISH",
+                "tier": "Yellow",
+                "members": [
+                    "MULLET",
+                    "PIKE",
+                    "SOLE",
+                    "TANG"
+                ]
+            },
+            {
+                "label": "PRINCIPAL",
+                "tier": "Green",
+                "members": [
+                    "ARCH",
+                    "CHIEF",
+                    "MAIN",
+                    "PRIME"
+                ]
+            },
+            {
+                "label": "PRO-WRESTLING LINGO",
+                "tier": "Blue",
+                "members": [
+                    "FACE",
+                    "HEEL",
+                    "JOBBER",
+                    "KAYFABE"
+                ]
+            },
+            {
+                "label": "LETTER HOMOPHONE PLUS TENNIS TERM",
+                "tier": "Purple",
+                "members": [
+                    "BESET",
+                    "DESERVE",
+                    "EX-LOVE",
+                    "EYELET"
+                ]
+            }
+        ]
     }
 ]
