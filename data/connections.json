@@ -76746,5 +76746,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1170,
+        "date": "2026-08-25",
+        "has_images": false,
+        "words": [
+            "COSMETIC",
+            "ONE-DIMENSIONAL",
+            "SKIN-DEEP",
+            "SUPERFICIAL",
+            "HYPERSPACE",
+            "PARALLEL UNIVERSE",
+            "TELEPORTATION",
+            "TIME WARP",
+            "GREEN MILE",
+            "LONG WALK",
+            "RUNNING MAN",
+            "SHAWSHANK REDEMPTION",
+            "HARLEM SHAKE",
+            "INSIDE SCOOP",
+            "LICKETY-SPLIT",
+            "TRAFFIC CONE"
+        ],
+        "groups": [
+            {
+                "label": "SURFACE-LEVEL",
+                "tier": "Yellow",
+                "members": [
+                    "COSMETIC",
+                    "ONE-DIMENSIONAL",
+                    "SKIN-DEEP",
+                    "SUPERFICIAL"
+                ]
+            },
+            {
+                "label": "SCI-FI PHENOMENA",
+                "tier": "Green",
+                "members": [
+                    "HYPERSPACE",
+                    "PARALLEL UNIVERSE",
+                    "TELEPORTATION",
+                    "TIME WARP"
+                ]
+            },
+            {
+                "label": "STEPHEN KING FILM ADAPTATIONS, WITH \"THE\"",
+                "tier": "Blue",
+                "members": [
+                    "GREEN MILE",
+                    "LONG WALK",
+                    "RUNNING MAN",
+                    "SHAWSHANK REDEMPTION"
+                ]
+            },
+            {
+                "label": "ENDING IN ICE CREAM ORDERS",
+                "tier": "Purple",
+                "members": [
+                    "HARLEM SHAKE",
+                    "INSIDE SCOOP",
+                    "LICKETY-SPLIT",
+                    "TRAFFIC CONE"
+                ]
+            }
+        ]
     }
 ]
