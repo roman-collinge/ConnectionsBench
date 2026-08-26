@@ -76812,5 +76812,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1171,
+        "date": "2026-08-26",
+        "has_images": false,
+        "words": [
+            "BEHOLD",
+            "PRESTO",
+            "SHAZAM",
+            "VOIL\u00c0",
+            "FORTE",
+            "GIFT",
+            "STRENGTH",
+            "TALENT",
+            "PAGE",
+            "PARK",
+            "PHOSPHORUS",
+            "PIANO",
+            "CHAIN",
+            "LARGO",
+            "LIME",
+            "SIGNATURE"
+        ],
+        "groups": [
+            {
+                "label": "\"THERE YOU HAVE IT!\"",
+                "tier": "Yellow",
+                "members": [
+                    "BEHOLD",
+                    "PRESTO",
+                    "SHAZAM",
+                    "VOIL\u00c0"
+                ]
+            },
+            {
+                "label": "KNACK",
+                "tier": "Green",
+                "members": [
+                    "FORTE",
+                    "GIFT",
+                    "STRENGTH",
+                    "TALENT"
+                ]
+            },
+            {
+                "label": "WHAT \"P\" MIGHT STAND FOR",
+                "tier": "Blue",
+                "members": [
+                    "PAGE",
+                    "PARK",
+                    "PHOSPHORUS",
+                    "PIANO"
+                ]
+            },
+            {
+                "label": "KEY ___",
+                "tier": "Purple",
+                "members": [
+                    "CHAIN",
+                    "LARGO",
+                    "LIME",
+                    "SIGNATURE"
+                ]
+            }
+        ]
     }
 ]
