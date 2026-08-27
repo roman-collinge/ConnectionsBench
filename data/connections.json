@@ -76878,5 +76878,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1172,
+        "date": "2026-08-27",
+        "has_images": false,
+        "words": [
+            "ELECTRIC EEL",
+            "LIGHTNING",
+            "LIVE WIRE",
+            "PIKACHU",
+            "CHOKED UP",
+            "EMOTIONAL",
+            "MISTY",
+            "OVERCOME",
+            "ASH",
+            "DOVE",
+            "PEWTER",
+            "SLATE",
+            "BROCK",
+            "NEMO",
+            "SPUNK",
+            "WRAP"
+        ],
+        "groups": [
+            {
+                "label": "ELECTRIC THINGS",
+                "tier": "Yellow",
+                "members": [
+                    "ELECTRIC EEL",
+                    "LIGHTNING",
+                    "LIVE WIRE",
+                    "PIKACHU"
+                ]
+            },
+            {
+                "label": "MOVED TO TEARS",
+                "tier": "Green",
+                "members": [
+                    "CHOKED UP",
+                    "EMOTIONAL",
+                    "MISTY",
+                    "OVERCOME"
+                ]
+            },
+            {
+                "label": "SHADES OF GRAY",
+                "tier": "Blue",
+                "members": [
+                    "ASH",
+                    "DOVE",
+                    "PEWTER",
+                    "SLATE"
+                ]
+            },
+            {
+                "label": "MUSIC GENRE PLUS STARTING LETTER",
+                "tier": "Purple",
+                "members": [
+                    "BROCK",
+                    "NEMO",
+                    "SPUNK",
+                    "WRAP"
+                ]
+            }
+        ]
     }
 ]
