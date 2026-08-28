@@ -76944,5 +76944,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1173,
+        "date": "2026-08-28",
+        "has_images": false,
+        "words": [
+            "NIGHT",
+            "REST EASY",
+            "SLEEP TIGHT",
+            "SWEET DREAMS",
+            "MOM",
+            "NOON",
+            "SIS",
+            "TOP SPOT",
+            "BRO",
+            "CODED",
+            "ERA",
+            "MAXXING",
+            "HOUR",
+            "LINE",
+            "MORNING",
+            "POPS"
+        ],
+        "groups": [
+            {
+                "label": "BEDTIME PARTING WORDS",
+                "tier": "Yellow",
+                "members": [
+                    "NIGHT",
+                    "REST EASY",
+                    "SLEEP TIGHT",
+                    "SWEET DREAMS"
+                ]
+            },
+            {
+                "label": "PALINDROMES",
+                "tier": "Green",
+                "members": [
+                    "MOM",
+                    "NOON",
+                    "SIS",
+                    "TOP SPOT"
+                ]
+            },
+            {
+                "label": "MODERN ADD-ONS/COMBINING FORMS",
+                "tier": "Blue",
+                "members": [
+                    "BRO",
+                    "CODED",
+                    "ERA",
+                    "MAXXING"
+                ]
+            },
+            {
+                "label": "TOP OF THE ___",
+                "tier": "Purple",
+                "members": [
+                    "HOUR",
+                    "LINE",
+                    "MORNING",
+                    "POPS"
+                ]
+            }
+        ]
     }
 ]
