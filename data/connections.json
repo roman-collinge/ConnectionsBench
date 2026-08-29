@@ -77010,5 +77010,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1174,
+        "date": "2026-08-29",
+        "has_images": false,
+        "words": [
+            "ALTERNATOR",
+            "BATTERY",
+            "ENGINE",
+            "RADIATOR",
+            "CHOPPED",
+            "GREEK",
+            "HOUSE",
+            "WEDGE",
+            "CONTROL",
+            "ESCAPE",
+            "SHIFT",
+            "SPACE",
+            "AT LAST",
+            "HERALD",
+            "HYDRANT",
+            "TRITONE"
+        ],
+        "groups": [
+            {
+                "label": "UNDER THE HOOD OF A CAR",
+                "tier": "Yellow",
+                "members": [
+                    "ALTERNATOR",
+                    "BATTERY",
+                    "ENGINE",
+                    "RADIATOR"
+                ]
+            },
+            {
+                "label": "KINDS OF SALAD",
+                "tier": "Green",
+                "members": [
+                    "CHOPPED",
+                    "GREEK",
+                    "HOUSE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "label": "KEYBOARD KEYS",
+                "tier": "Blue",
+                "members": [
+                    "CONTROL",
+                    "ESCAPE",
+                    "SHIFT",
+                    "SPACE"
+                ]
+            },
+            {
+                "label": "STARTING WITH FIGURES FROM GREEK MYTH",
+                "tier": "Purple",
+                "members": [
+                    "AT LAST",
+                    "HERALD",
+                    "HYDRANT",
+                    "TRITONE"
+                ]
+            }
+        ]
     }
 ]
