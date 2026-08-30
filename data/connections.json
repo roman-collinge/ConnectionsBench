@@ -77076,5 +77076,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1175,
+        "date": "2026-08-30",
+        "has_images": false,
+        "words": [
+            "GYMNASIUM",
+            "HEALTH CLUB",
+            "REC CENTER",
+            "YMCA",
+            "AERATOR",
+            "CORKSCREW",
+            "DECANTER",
+            "STOPPER",
+            "CADBURY",
+            "ENERGIZER",
+            "PLAYBOY",
+            "TRIX",
+            "ALIAS",
+            "OUTLAW",
+            "REWARD",
+            "WANTED"
+        ],
+        "groups": [
+            {
+                "label": "EXERCISE FACILITIES",
+                "tier": "Yellow",
+                "members": [
+                    "GYMNASIUM",
+                    "HEALTH CLUB",
+                    "REC CENTER",
+                    "YMCA"
+                ]
+            },
+            {
+                "label": "WINE ACCESSORIES",
+                "tier": "Green",
+                "members": [
+                    "AERATOR",
+                    "CORKSCREW",
+                    "DECANTER",
+                    "STOPPER"
+                ]
+            },
+            {
+                "label": "BRANDS WITH BUNNY RABBIT MASCOTS",
+                "tier": "Blue",
+                "members": [
+                    "CADBURY",
+                    "ENERGIZER",
+                    "PLAYBOY",
+                    "TRIX"
+                ]
+            },
+            {
+                "label": "WORDS ON AN OLD WEST WANTED POSTER",
+                "tier": "Purple",
+                "members": [
+                    "ALIAS",
+                    "OUTLAW",
+                    "REWARD",
+                    "WANTED"
+                ]
+            }
+        ]
     }
 ]
