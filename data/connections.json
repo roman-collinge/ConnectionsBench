@@ -77142,5 +77142,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1176,
+        "date": "2026-08-31",
+        "has_images": false,
+        "words": [
+            "LIPSTICK",
+            "POSTER",
+            "TENNIS BALLS",
+            "TOOTHPASTE",
+            "FRAGILE",
+            "HEAVY",
+            "PERISHABLE",
+            "THIS SIDE UP",
+            "CALIPH",
+            "KHAN",
+            "PHARAOH",
+            "SHOGUN",
+            "DUST",
+            "POKE",
+            "SALAD",
+            "SUPER"
+        ],
+        "groups": [
+            {
+                "label": "THINGS THAT COME IN TUBES",
+                "tier": "Yellow",
+                "members": [
+                    "LIPSTICK",
+                    "POSTER",
+                    "TENNIS BALLS",
+                    "TOOTHPASTE"
+                ]
+            },
+            {
+                "label": "WARNINGS ON A SHIPPING BOX",
+                "tier": "Green",
+                "members": [
+                    "FRAGILE",
+                    "HEAVY",
+                    "PERISHABLE",
+                    "THIS SIDE UP"
+                ]
+            },
+            {
+                "label": "HISTORICAL SOVEREIGN TITLES",
+                "tier": "Blue",
+                "members": [
+                    "CALIPH",
+                    "KHAN",
+                    "PHARAOH",
+                    "SHOGUN"
+                ]
+            },
+            {
+                "label": "___ BOWL",
+                "tier": "Purple",
+                "members": [
+                    "DUST",
+                    "POKE",
+                    "SALAD",
+                    "SUPER"
+                ]
+            }
+        ]
     }
 ]
