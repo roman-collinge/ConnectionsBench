@@ -77208,5 +77208,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1177,
+        "date": "2026-09-01",
+        "has_images": false,
+        "words": [
+            "CROSS MY HEART",
+            "FOR REAL",
+            "ON GOD",
+            "PINKY SWEAR",
+            "ARROW",
+            "GOLF CLUB",
+            "PICK-UP STICK",
+            "SPAGHETTO",
+            "HERCULE POIROT",
+            "MIKE HAMMER",
+            "SAM SPADE",
+            "SHERLOCK HOLMES",
+            "AIMEE MANN",
+            "HOPE DIAMOND",
+            "PLANETARIUM",
+            "WISHY-WASHY"
+        ],
+        "groups": [
+            {
+                "label": "\"I PROMISE!\"",
+                "tier": "Yellow",
+                "members": [
+                    "CROSS MY HEART",
+                    "FOR REAL",
+                    "ON GOD",
+                    "PINKY SWEAR"
+                ]
+            },
+            {
+                "label": "LONG, SKINNY THINGS OFTEN SEEN TOGETHER",
+                "tier": "Green",
+                "members": [
+                    "ARROW",
+                    "GOLF CLUB",
+                    "PICK-UP STICK",
+                    "SPAGHETTO"
+                ]
+            },
+            {
+                "label": "PRIVATE INVESTIGATORS OF FICTION",
+                "tier": "Blue",
+                "members": [
+                    "HERCULE POIROT",
+                    "MIKE HAMMER",
+                    "SAM SPADE",
+                    "SHERLOCK HOLMES"
+                ]
+            },
+            {
+                "label": "STARTING WITH WORDS OF INTENTION",
+                "tier": "Purple",
+                "members": [
+                    "AIMEE MANN",
+                    "HOPE DIAMOND",
+                    "PLANETARIUM",
+                    "WISHY-WASHY"
+                ]
+            }
+        ]
     }
 ]
