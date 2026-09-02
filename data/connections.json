@@ -77274,5 +77274,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1178,
+        "date": "2026-09-02",
+        "has_images": false,
+        "words": [
+            "DAZZLE",
+            "FLOOR",
+            "STUN",
+            "WOW",
+            "BOW",
+            "MUTE",
+            "ROSIN",
+            "SHOULDER REST",
+            "HUNTING",
+            "RESCUE",
+            "SAUSAGE",
+            "SHEEP",
+            "CORN",
+            "PRAIRIE",
+            "SALTY",
+            "TOP"
+        ],
+        "groups": [
+            {
+                "label": "FLABBERGAST",
+                "tier": "Yellow",
+                "members": [
+                    "DAZZLE",
+                    "FLOOR",
+                    "STUN",
+                    "WOW"
+                ]
+            },
+            {
+                "label": "THINGS IN A VIOLIN CASE",
+                "tier": "Green",
+                "members": [
+                    "BOW",
+                    "MUTE",
+                    "ROSIN",
+                    "SHOULDER REST"
+                ]
+            },
+            {
+                "label": "___ DOGS (THAT ARE DOGS)",
+                "tier": "Blue",
+                "members": [
+                    "HUNTING",
+                    "RESCUE",
+                    "SAUSAGE",
+                    "SHEEP"
+                ]
+            },
+            {
+                "label": "___ DOGS (THAT AREN'T DOGS)",
+                "tier": "Purple",
+                "members": [
+                    "CORN",
+                    "PRAIRIE",
+                    "SALTY",
+                    "TOP"
+                ]
+            }
+        ]
     }
 ]
