@@ -77340,5 +77340,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1179,
+        "date": "2026-09-03",
+        "has_images": false,
+        "words": [
+            "BLINK",
+            "FLASH",
+            "HEARTBEAT",
+            "TRICE",
+            "CARMINE",
+            "CINNABAR",
+            "MAROON",
+            "VERMILLION",
+            "HOT WHEELS",
+            "MATCHBOX",
+            "MICRO MACHINES",
+            "TONKA",
+            "AVERAGE",
+            "COUNT",
+            "MAX",
+            "SUM"
+        ],
+        "groups": [
+            {
+                "label": "TWO SHAKES OF A LAMB'S TAIL",
+                "tier": "Yellow",
+                "members": [
+                    "BLINK",
+                    "FLASH",
+                    "HEARTBEAT",
+                    "TRICE"
+                ]
+            },
+            {
+                "label": "SHADES OF RED",
+                "tier": "Green",
+                "members": [
+                    "CARMINE",
+                    "CINNABAR",
+                    "MAROON",
+                    "VERMILLION"
+                ]
+            },
+            {
+                "label": "TOY CAR BRANDS",
+                "tier": "Blue",
+                "members": [
+                    "HOT WHEELS",
+                    "MATCHBOX",
+                    "MICRO MACHINES",
+                    "TONKA"
+                ]
+            },
+            {
+                "label": "SPREADSHEET FUNCTIONS",
+                "tier": "Purple",
+                "members": [
+                    "AVERAGE",
+                    "COUNT",
+                    "MAX",
+                    "SUM"
+                ]
+            }
+        ]
     }
 ]
