@@ -77472,5 +77472,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1181,
+        "date": "2026-09-05",
+        "has_images": false,
+        "words": [
+            "SWAY",
+            "TODDLE",
+            "TOTTER",
+            "WOBBLE",
+            "COO",
+            "GOBBLE",
+            "HONK",
+            "WARBLE",
+            "BOBBLE",
+            "HAMMER",
+            "JUG",
+            "SLEEPY",
+            "COBBLE",
+            "PI",
+            "TAR",
+            "TORT"
+        ],
+        "groups": [
+            {
+                "label": "MOVE UNSTEADILY",
+                "tier": "Yellow",
+                "members": [
+                    "SWAY",
+                    "TODDLE",
+                    "TOTTER",
+                    "WOBBLE"
+                ]
+            },
+            {
+                "label": "BIRD ONOMATOPOEIA",
+                "tier": "Green",
+                "members": [
+                    "COO",
+                    "GOBBLE",
+                    "HONK",
+                    "WARBLE"
+                ]
+            },
+            {
+                "label": "___HEAD",
+                "tier": "Blue",
+                "members": [
+                    "BOBBLE",
+                    "HAMMER",
+                    "JUG",
+                    "SLEEPY"
+                ]
+            },
+            {
+                "label": "DESSERTS MINUS LAST LETTER",
+                "tier": "Purple",
+                "members": [
+                    "COBBLE",
+                    "PI",
+                    "TAR",
+                    "TORT"
+                ]
+            }
+        ]
     }
 ]
