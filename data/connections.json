@@ -77538,5 +77538,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1182,
+        "date": "2026-09-06",
+        "has_images": false,
+        "words": [
+            "BLANK CHECK",
+            "CARTE BLANCHE",
+            "FREE REIGN",
+            "FULL AUTHORITY",
+            "CARD SLOT",
+            "HEADPHONE JACK",
+            "OPTICAL DRIVE",
+            "USB PORT",
+            "ATM MACHINE",
+            "LCD DISPLAY",
+            "PIN NUMBER",
+            "UPC CODE",
+            "COURT SCRIBE",
+            "DIRECTOR'S CUT",
+            "PIZZA SLICE",
+            "SAT SCORE"
+        ],
+        "groups": [
+            {
+                "label": "UNRESTRICTED PERMISSION",
+                "tier": "Yellow",
+                "members": [
+                    "BLANK CHECK",
+                    "CARTE BLANCHE",
+                    "FREE REIGN",
+                    "FULL AUTHORITY"
+                ]
+            },
+            {
+                "label": "PLACES TO INSERT SOMETHING INTO ON A COMPUTER",
+                "tier": "Green",
+                "members": [
+                    "CARD SLOT",
+                    "HEADPHONE JACK",
+                    "OPTICAL DRIVE",
+                    "USB PORT"
+                ]
+            },
+            {
+                "label": "ABBREVIATIONS FOLLOWED BY REDUNDANT WORD",
+                "tier": "Blue",
+                "members": [
+                    "ATM MACHINE",
+                    "LCD DISPLAY",
+                    "PIN NUMBER",
+                    "UPC CODE"
+                ]
+            },
+            {
+                "label": "ENDING WITH WAYS TO CARVE A SURFACE",
+                "tier": "Purple",
+                "members": [
+                    "COURT SCRIBE",
+                    "DIRECTOR'S CUT",
+                    "PIZZA SLICE",
+                    "SAT SCORE"
+                ]
+            }
+        ]
     }
 ]
