@@ -77604,5 +77604,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1183,
+        "date": "2026-09-07",
+        "has_images": false,
+        "words": [
+            "FABRICATION",
+            "FISH STORY",
+            "TALL TALE",
+            "YARN",
+            "CUP",
+            "HOOK",
+            "STRAP",
+            "UNDERWIRE",
+            "CAR AIR FRESHENER",
+            "CHRISTMAS",
+            "NEEDLES",
+            "TURPENTINE",
+            "PLUTONIUM",
+            "SCAR TISSUE",
+            "STITCH MARKER",
+            "TRAMPOLINE"
+        ],
+        "groups": [
+            {
+                "label": "QUITE THE SAGA",
+                "tier": "Yellow",
+                "members": [
+                    "FABRICATION",
+                    "FISH STORY",
+                    "TALL TALE",
+                    "YARN"
+                ]
+            },
+            {
+                "label": "PARTS OF A BRA",
+                "tier": "Green",
+                "members": [
+                    "CUP",
+                    "HOOK",
+                    "STRAP",
+                    "UNDERWIRE"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH PINE TREES",
+                "tier": "Blue",
+                "members": [
+                    "CAR AIR FRESHENER",
+                    "CHRISTMAS",
+                    "NEEDLES",
+                    "TURPENTINE"
+                ]
+            },
+            {
+                "label": "STARTING WITH DISNEY CHARACTERS",
+                "tier": "Purple",
+                "members": [
+                    "PLUTONIUM",
+                    "SCAR TISSUE",
+                    "STITCH MARKER",
+                    "TRAMPOLINE"
+                ]
+            }
+        ]
     }
 ]
