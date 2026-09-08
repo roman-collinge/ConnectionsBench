@@ -77670,5 +77670,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1184,
+        "date": "2026-09-08",
+        "has_images": false,
+        "words": [
+            "CORVETTE",
+            "FIREBIRD",
+            "MUSTANG",
+            "VIPER",
+            "BERET",
+            "GLOVES",
+            "STRIPES",
+            "SUSPENDERS",
+            "ARTICHOKE",
+            "PURPLE",
+            "SACRED",
+            "TAKE TO",
+            "DOVES",
+            "MARSH",
+            "SKORT",
+            "TWIXT"
+        ],
+        "groups": [
+            {
+                "label": "CLASSIC AMERICAN PERFORMANCE CARS",
+                "tier": "Yellow",
+                "members": [
+                    "CORVETTE",
+                    "FIREBIRD",
+                    "MUSTANG",
+                    "VIPER"
+                ]
+            },
+            {
+                "label": "FEATURES OF A MIME COSTUME",
+                "tier": "Green",
+                "members": [
+                    "BERET",
+                    "GLOVES",
+                    "STRIPES",
+                    "SUSPENDERS"
+                ]
+            },
+            {
+                "label": "___ HEART",
+                "tier": "Blue",
+                "members": [
+                    "ARTICHOKE",
+                    "PURPLE",
+                    "SACRED",
+                    "TAKE TO"
+                ]
+            },
+            {
+                "label": "CANDY BARS PLUS A LETTER",
+                "tier": "Purple",
+                "members": [
+                    "DOVES",
+                    "MARSH",
+                    "SKORT",
+                    "TWIXT"
+                ]
+            }
+        ]
     }
 ]
