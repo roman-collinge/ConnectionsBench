@@ -77736,5 +77736,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1185,
+        "date": "2026-09-09",
+        "has_images": false,
+        "words": [
+            "BEWILDERING",
+            "ESOTERIC",
+            "INCOMPREHENSIBLE",
+            "OPAQUE",
+            "MICROBREWERY",
+            "MINIVAN",
+            "NANOTECHNOLOGY",
+            "PICOSECOND",
+            "ARACHNOPHOBIA",
+            "HALLOWEEN",
+            "IT",
+            "SAW",
+            "BRUTE",
+            "ELECTROMAGNETIC",
+            "G",
+            "TASK"
+        ],
+        "groups": [
+            {
+                "label": "HARD TO UNDERSTAND",
+                "tier": "Yellow",
+                "members": [
+                    "BEWILDERING",
+                    "ESOTERIC",
+                    "INCOMPREHENSIBLE",
+                    "OPAQUE"
+                ]
+            },
+            {
+                "label": "WORDS WITH \"SMALL\" PREFIXES",
+                "tier": "Green",
+                "members": [
+                    "MICROBREWERY",
+                    "MINIVAN",
+                    "NANOTECHNOLOGY",
+                    "PICOSECOND"
+                ]
+            },
+            {
+                "label": "HORROR MOVIES",
+                "tier": "Blue",
+                "members": [
+                    "ARACHNOPHOBIA",
+                    "HALLOWEEN",
+                    "IT",
+                    "SAW"
+                ]
+            },
+            {
+                "label": "WORDS BEFORE \"FORCE\"",
+                "tier": "Purple",
+                "members": [
+                    "BRUTE",
+                    "ELECTROMAGNETIC",
+                    "G",
+                    "TASK"
+                ]
+            }
+        ]
     }
 ]
