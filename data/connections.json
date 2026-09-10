@@ -77802,5 +77802,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1186,
+        "date": "2026-09-10",
+        "has_images": false,
+        "words": [
+            "ACTINIUM",
+            "KRYPTON",
+            "LEAD",
+            "SULFUR",
+            "AIR CONDITIONER",
+            "CATIO",
+            "CLOTHESLINE",
+            "FLOWER BOX",
+            "ATLANTIC CITY",
+            "BADLANDS",
+            "BORN TO RUN",
+            "THUNDER ROAD",
+            "ADULT CONTEMPORARY",
+            "ALTERNATING CURRENT",
+            "REPRESENT",
+            "SEXTANT"
+        ],
+        "groups": [
+            {
+                "label": "CHEMICAL ELEMENTS",
+                "tier": "Yellow",
+                "members": [
+                    "ACTINIUM",
+                    "KRYPTON",
+                    "LEAD",
+                    "SULFUR"
+                ]
+            },
+            {
+                "label": "WHAT YOU MIGHT SEE STICKING OUT OF A WINDOW",
+                "tier": "Green",
+                "members": [
+                    "AIR CONDITIONER",
+                    "CATIO",
+                    "CLOTHESLINE",
+                    "FLOWER BOX"
+                ]
+            },
+            {
+                "label": "BRUCE SPRINGSTEEN CLASSICS",
+                "tier": "Blue",
+                "members": [
+                    "ATLANTIC CITY",
+                    "BADLANDS",
+                    "BORN TO RUN",
+                    "THUNDER ROAD"
+                ]
+            },
+            {
+                "label": "ENDING IN SYNONYMS FOR \"HAPPENING NOW\"",
+                "tier": "Purple",
+                "members": [
+                    "ADULT CONTEMPORARY",
+                    "ALTERNATING CURRENT",
+                    "REPRESENT",
+                    "SEXTANT"
+                ]
+            }
+        ]
     }
 ]
