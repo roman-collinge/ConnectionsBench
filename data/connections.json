@@ -77868,5 +77868,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1187,
+        "date": "2026-09-11",
+        "has_images": false,
+        "words": [
+            "BAND",
+            "FLORIST",
+            "PHOTOGRAPHER",
+            "PLANNER",
+            "ABSORB",
+            "DIGEST",
+            "PROCESS",
+            "TAKE IN",
+            "EXERCISE",
+            "JOURNAL",
+            "MEDITATE",
+            "UNPLUG",
+            "AGENDA",
+            "ENVELOPE",
+            "LIMITS",
+            "LUCK"
+        ],
+        "groups": [
+            {
+                "label": "PEOPLE HIRED FOR AN EVENT",
+                "tier": "Yellow",
+                "members": [
+                    "BAND",
+                    "FLORIST",
+                    "PHOTOGRAPHER",
+                    "PLANNER"
+                ]
+            },
+            {
+                "label": "INTERNALIZE",
+                "tier": "Green",
+                "members": [
+                    "ABSORB",
+                    "DIGEST",
+                    "PROCESS",
+                    "TAKE IN"
+                ]
+            },
+            {
+                "label": "WAYS TO PRACTICE SELF-CARE",
+                "tier": "Blue",
+                "members": [
+                    "EXERCISE",
+                    "JOURNAL",
+                    "MEDITATE",
+                    "UNPLUG"
+                ]
+            },
+            {
+                "label": "THINGS THAT ARE PUSHED METAPHORICALLY",
+                "tier": "Purple",
+                "members": [
+                    "AGENDA",
+                    "ENVELOPE",
+                    "LIMITS",
+                    "LUCK"
+                ]
+            }
+        ]
     }
 ]
