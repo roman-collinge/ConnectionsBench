@@ -77934,5 +77934,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1188,
+        "date": "2026-09-12",
+        "has_images": false,
+        "words": [
+            "BUMPER STICKER",
+            "FUZZY DICE",
+            "HOOD ORNAMENT",
+            "VANITY PLATE",
+            "LURKER",
+            "POSTER",
+            "SPAMMER",
+            "TROLL",
+            "CURSOR",
+            "EYELIDS",
+            "SMOKE DETECTOR",
+            "TURN SIGNAL",
+            "NERD",
+            "RED",
+            "SPOILER",
+            "WEATHER"
+        ],
+        "groups": [
+            {
+                "label": "WAYS TO PERSONALIZE A CAR",
+                "tier": "Yellow",
+                "members": [
+                    "BUMPER STICKER",
+                    "FUZZY DICE",
+                    "HOOD ORNAMENT",
+                    "VANITY PLATE"
+                ]
+            },
+            {
+                "label": "PEOPLE IN AN ONLINE FORUM",
+                "tier": "Green",
+                "members": [
+                    "LURKER",
+                    "POSTER",
+                    "SPAMMER",
+                    "TROLL"
+                ]
+            },
+            {
+                "label": "THINGS THAT BLINK",
+                "tier": "Blue",
+                "members": [
+                    "CURSOR",
+                    "EYELIDS",
+                    "SMOKE DETECTOR",
+                    "TURN SIGNAL"
+                ]
+            },
+            {
+                "label": "___ ALERT",
+                "tier": "Purple",
+                "members": [
+                    "NERD",
+                    "RED",
+                    "SPOILER",
+                    "WEATHER"
+                ]
+            }
+        ]
     }
 ]
