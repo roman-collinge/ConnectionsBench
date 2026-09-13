@@ -78000,5 +78000,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1189,
+        "date": "2026-09-13",
+        "has_images": false,
+        "words": [
+            "DROOPY",
+            "FLACCID",
+            "SAGGING",
+            "SLACK",
+            "CLEVELAND",
+            "GARFIELD",
+            "GRANT",
+            "MADISON",
+            "EMPTY",
+            "EXCESS",
+            "KEWPIE",
+            "ODIE",
+            "DOUBLESPEAK",
+            "HEATHCLIFF",
+            "PARAMOUNT",
+            "PORRIDGE"
+        ],
+        "groups": [
+            {
+                "label": "LACKING IN FIRMNESS",
+                "tier": "Yellow",
+                "members": [
+                    "DROOPY",
+                    "FLACCID",
+                    "SAGGING",
+                    "SLACK"
+                ]
+            },
+            {
+                "label": "U.S. PRESIDENTS",
+                "tier": "Green",
+                "members": [
+                    "CLEVELAND",
+                    "GARFIELD",
+                    "GRANT",
+                    "MADISON"
+                ]
+            },
+            {
+                "label": "WORDS THAT SOUND LIKE TWO LETTERS",
+                "tier": "Blue",
+                "members": [
+                    "EMPTY",
+                    "EXCESS",
+                    "KEWPIE",
+                    "ODIE"
+                ]
+            },
+            {
+                "label": "ENDING IN ELEVATED LANDFORMS",
+                "tier": "Purple",
+                "members": [
+                    "DOUBLESPEAK",
+                    "HEATHCLIFF",
+                    "PARAMOUNT",
+                    "PORRIDGE"
+                ]
+            }
+        ]
     }
 ]
