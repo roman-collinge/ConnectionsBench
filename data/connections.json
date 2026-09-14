@@ -78066,5 +78066,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1190,
+        "date": "2026-09-14",
+        "has_images": false,
+        "words": [
+            "COOT",
+            "GOOSE",
+            "LOON",
+            "TEAL",
+            "CANARY",
+            "RAT",
+            "SNITCH",
+            "STOOLIE",
+            "BAG",
+            "CUTLERY",
+            "STIRRER",
+            "STRAW",
+            "BLUE",
+            "CRAB",
+            "LEMON",
+            "WHEAT"
+        ],
+        "groups": [
+            {
+                "label": "WATERBIRDS",
+                "tier": "Yellow",
+                "members": [
+                    "COOT",
+                    "GOOSE",
+                    "LOON",
+                    "TEAL"
+                ]
+            },
+            {
+                "label": "INFORMANT",
+                "tier": "Green",
+                "members": [
+                    "CANARY",
+                    "RAT",
+                    "SNITCH",
+                    "STOOLIE"
+                ]
+            },
+            {
+                "label": "COMMON SINGLE-USE PLASTIC ITEMS",
+                "tier": "Blue",
+                "members": [
+                    "BAG",
+                    "CUTLERY",
+                    "STIRRER",
+                    "STRAW"
+                ]
+            },
+            {
+                "label": "___GRASS",
+                "tier": "Purple",
+                "members": [
+                    "BLUE",
+                    "CRAB",
+                    "LEMON",
+                    "WHEAT"
+                ]
+            }
+        ]
     }
 ]
