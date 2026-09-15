@@ -78132,5 +78132,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1191,
+        "date": "2026-09-15",
+        "has_images": false,
+        "words": [
+            "COACH",
+            "DIRECT",
+            "GUIDE",
+            "TRAIN",
+            "HANDLE",
+            "LID",
+            "SPOUT",
+            "WHISTLE",
+            "ASSET",
+            "MOLE",
+            "PLANT",
+            "SLEEPER",
+            "CABOOSE",
+            "DECEMBER",
+            "DESSERT",
+            "EPILOGUE"
+        ],
+        "groups": [
+            {
+                "label": "INSTRUCT",
+                "tier": "Yellow",
+                "members": [
+                    "COACH",
+                    "DIRECT",
+                    "GUIDE",
+                    "TRAIN"
+                ]
+            },
+            {
+                "label": "PARTS OF A WHISTLING KETTLE",
+                "tier": "Green",
+                "members": [
+                    "HANDLE",
+                    "LID",
+                    "SPOUT",
+                    "WHISTLE"
+                ]
+            },
+            {
+                "label": "UNDERCOVER OPERATIVE",
+                "tier": "Blue",
+                "members": [
+                    "ASSET",
+                    "MOLE",
+                    "PLANT",
+                    "SLEEPER"
+                ]
+            },
+            {
+                "label": "THINGS THAT APPEAR AT THE END",
+                "tier": "Purple",
+                "members": [
+                    "CABOOSE",
+                    "DECEMBER",
+                    "DESSERT",
+                    "EPILOGUE"
+                ]
+            }
+        ]
     }
 ]
