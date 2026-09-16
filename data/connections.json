@@ -78198,5 +78198,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1192,
+        "date": "2026-09-16",
+        "has_images": false,
+        "words": [
+            "LATIN",
+            "LONG JOHN SILVER",
+            "MARIGOLD",
+            "STEAM IRON",
+            "DIMENSION",
+            "NICKELODEON",
+            "PENNYWISE",
+            "QUARTERBACK",
+            "BARRETT",
+            "CARLOS",
+            "ST. VINCENT",
+            "WADSWORTH",
+            "BORAT",
+            "CLINK",
+            "FRANK-N-FURTER",
+            "WIDENER"
+        ],
+        "groups": [
+            {
+                "label": "ENDING IN METAL ELEMENTS",
+                "tier": "Yellow",
+                "members": [
+                    "LATIN",
+                    "LONG JOHN SILVER",
+                    "MARIGOLD",
+                    "STEAM IRON"
+                ]
+            },
+            {
+                "label": "STARTING WITH U.S. COINS",
+                "tier": "Green",
+                "members": [
+                    "DIMENSION",
+                    "NICKELODEON",
+                    "PENNYWISE",
+                    "QUARTERBACK"
+                ]
+            },
+            {
+                "label": "POETS' MIDDLE NAMES",
+                "tier": "Blue",
+                "members": [
+                    "BARRETT",
+                    "CARLOS",
+                    "ST. VINCENT",
+                    "WADSWORTH"
+                ]
+            },
+            {
+                "label": "SAUSAGES PLUS A LETTER",
+                "tier": "Purple",
+                "members": [
+                    "BORAT",
+                    "CLINK",
+                    "FRANK-N-FURTER",
+                    "WIDENER"
+                ]
+            }
+        ]
     }
 ]
