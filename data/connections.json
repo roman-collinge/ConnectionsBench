@@ -78264,5 +78264,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1193,
+        "date": "2026-09-17",
+        "has_images": false,
+        "words": [
+            "BOUNCE",
+            "FLEXIBILITY",
+            "GIVE",
+            "SPRING",
+            "MINE SHAFT",
+            "SEWER LINE",
+            "SUBWAY STATION",
+            "WELL",
+            "FOUNTAIN",
+            "PRESTIGE",
+            "SHEEP DETECTIVES",
+            "WOLVERINE",
+            "HANDLES",
+            "LANGUAGE",
+            "TAP",
+            "TRIANGLE"
+        ],
+        "groups": [
+            {
+                "label": "ELASTICITY",
+                "tier": "Yellow",
+                "members": [
+                    "BOUNCE",
+                    "FLEXIBILITY",
+                    "GIVE",
+                    "SPRING"
+                ]
+            },
+            {
+                "label": "THINGS THAT ARE UNDERGROUND",
+                "tier": "Green",
+                "members": [
+                    "MINE SHAFT",
+                    "SEWER LINE",
+                    "SUBWAY STATION",
+                    "WELL"
+                ]
+            },
+            {
+                "label": "HUGH JACKMAN MOVIES, WITH \"THE\"",
+                "tier": "Blue",
+                "members": [
+                    "FOUNTAIN",
+                    "PRESTIGE",
+                    "SHEEP DETECTIVES",
+                    "WOLVERINE"
+                ]
+            },
+            {
+                "label": "LOVE ___",
+                "tier": "Purple",
+                "members": [
+                    "HANDLES",
+                    "LANGUAGE",
+                    "TAP",
+                    "TRIANGLE"
+                ]
+            }
+        ]
     }
 ]
