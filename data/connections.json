@@ -78330,5 +78330,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1194,
+        "date": "2026-09-18",
+        "has_images": false,
+        "words": [
+            "PHASE",
+            "ROUND",
+            "STAGE",
+            "STEP",
+            "FLIGHT",
+            "MEDLEY",
+            "PLATTER",
+            "SAMPLER",
+            "BOARDING",
+            "CRUISE",
+            "LANDING",
+            "TAKEOFF",
+            "BRIEF",
+            "PILLOW",
+            "STAIR",
+            "UPPER"
+        ],
+        "groups": [
+            {
+                "label": "SEGMENT OF A PROCESS",
+                "tier": "Yellow",
+                "members": [
+                    "PHASE",
+                    "ROUND",
+                    "STAGE",
+                    "STEP"
+                ]
+            },
+            {
+                "label": "ASSORTMENTS OF FOOD/DRINK",
+                "tier": "Green",
+                "members": [
+                    "FLIGHT",
+                    "MEDLEY",
+                    "PLATTER",
+                    "SAMPLER"
+                ]
+            },
+            {
+                "label": "PARTS OF A FLIGHT",
+                "tier": "Blue",
+                "members": [
+                    "BOARDING",
+                    "CRUISE",
+                    "LANDING",
+                    "TAKEOFF"
+                ]
+            },
+            {
+                "label": "___CASE",
+                "tier": "Purple",
+                "members": [
+                    "BRIEF",
+                    "PILLOW",
+                    "STAIR",
+                    "UPPER"
+                ]
+            }
+        ]
     }
 ]
