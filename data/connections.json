@@ -78396,5 +78396,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1195,
+        "date": "2026-09-19",
+        "has_images": false,
+        "words": [
+            "BRANCH OUT",
+            "DIVERSIFY",
+            "EXPAND",
+            "GROW",
+            "HOUSE",
+            "STICK FIGURE",
+            "SUN",
+            "TREE",
+            "CARNABY STREET",
+            "MINISKIRT",
+            "MOD",
+            "TWIGGY",
+            "COS LETTUCE",
+            "LOG CABIN",
+            "SIN CITY",
+            "TAN LINE"
+        ],
+        "groups": [
+            {
+                "label": "WIDEN ONE'S SCOPE",
+                "tier": "Yellow",
+                "members": [
+                    "BRANCH OUT",
+                    "DIVERSIFY",
+                    "EXPAND",
+                    "GROW"
+                ]
+            },
+            {
+                "label": "FEATURES OF A KID'S DRAWING",
+                "tier": "Green",
+                "members": [
+                    "HOUSE",
+                    "STICK FIGURE",
+                    "SUN",
+                    "TREE"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH SWINGING LONDON IN THE 1960S",
+                "tier": "Blue",
+                "members": [
+                    "CARNABY STREET",
+                    "MINISKIRT",
+                    "MOD",
+                    "TWIGGY"
+                ]
+            },
+            {
+                "label": "STARTING WITH ABBREVIATED MATH FUNCTIONS",
+                "tier": "Purple",
+                "members": [
+                    "COS LETTUCE",
+                    "LOG CABIN",
+                    "SIN CITY",
+                    "TAN LINE"
+                ]
+            }
+        ]
     }
 ]
