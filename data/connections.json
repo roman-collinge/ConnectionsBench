@@ -78462,5 +78462,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1196,
+        "date": "2026-09-20",
+        "has_images": false,
+        "words": [
+            "BLU-RAY",
+            "COASTER",
+            "SAND DOLLAR",
+            "TORTILLA",
+            "BLUEGRASS",
+            "BOURBON",
+            "DERBY",
+            "FRIED CHICKEN",
+            "BLADE",
+            "NEAR DARK",
+            "SINNERS",
+            "TWILIGHT",
+            "HOVER",
+            "SKATE",
+            "SNOW",
+            "SURF"
+        ],
+        "groups": [
+            {
+                "label": "ROUND FLAT THINGS",
+                "tier": "Yellow",
+                "members": [
+                    "BLU-RAY",
+                    "COASTER",
+                    "SAND DOLLAR",
+                    "TORTILLA"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH KENTUCKY",
+                "tier": "Green",
+                "members": [
+                    "BLUEGRASS",
+                    "BOURBON",
+                    "DERBY",
+                    "FRIED CHICKEN"
+                ]
+            },
+            {
+                "label": "VAMPIRE MOVIES",
+                "tier": "Blue",
+                "members": [
+                    "BLADE",
+                    "NEAR DARK",
+                    "SINNERS",
+                    "TWILIGHT"
+                ]
+            },
+            {
+                "label": "___BOARDS YOU RIDE ON",
+                "tier": "Purple",
+                "members": [
+                    "HOVER",
+                    "SKATE",
+                    "SNOW",
+                    "SURF"
+                ]
+            }
+        ]
     }
 ]
