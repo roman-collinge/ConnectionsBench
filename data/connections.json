@@ -78528,5 +78528,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1197,
+        "date": "2026-09-21",
+        "has_images": false,
+        "words": [
+            "COMPOSE",
+            "DRAFTS",
+            "SENT",
+            "SPAM",
+            "CHUM",
+            "FLY",
+            "SPINNER",
+            "WORM",
+            "CAPTURE",
+            "CASTLE",
+            "CHECK",
+            "MATE",
+            "BEET",
+            "BRAH",
+            "CHOP",
+            "VIVA"
+        ],
+        "groups": [
+            {
+                "label": "EMAIL BUTTONS",
+                "tier": "Yellow",
+                "members": [
+                    "COMPOSE",
+                    "DRAFTS",
+                    "SENT",
+                    "SPAM"
+                ]
+            },
+            {
+                "label": "WAYS TO ATTRACT FISH",
+                "tier": "Green",
+                "members": [
+                    "CHUM",
+                    "FLY",
+                    "SPINNER",
+                    "WORM"
+                ]
+            },
+            {
+                "label": "CHESS VERBS",
+                "tier": "Blue",
+                "members": [
+                    "CAPTURE",
+                    "CASTLE",
+                    "CHECK",
+                    "MATE"
+                ]
+            },
+            {
+                "label": "STARTS OF COMPOSERS' NAMES",
+                "tier": "Purple",
+                "members": [
+                    "BEET",
+                    "BRAH",
+                    "CHOP",
+                    "VIVA"
+                ]
+            }
+        ]
     }
 ]
