@@ -78594,5 +78594,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1198,
+        "date": "2026-09-22",
+        "has_images": false,
+        "words": [
+            "THAT",
+            "THESE",
+            "THIS",
+            "THOSE",
+            "ACCENT",
+            "DETAIL",
+            "FLOURISH",
+            "TOUCH",
+            "AGREE",
+            "DISAGREE",
+            "NEUTRAL",
+            "OTHER",
+            "CAFE",
+            "PATRON",
+            "ROSE",
+            "THE"
+        ],
+        "groups": [
+            {
+                "label": "DEMONSTRATIVES",
+                "tier": "Yellow",
+                "members": [
+                    "THAT",
+                    "THESE",
+                    "THIS",
+                    "THOSE"
+                ]
+            },
+            {
+                "label": "EMBELLISHMENT",
+                "tier": "Green",
+                "members": [
+                    "ACCENT",
+                    "DETAIL",
+                    "FLOURISH",
+                    "TOUCH"
+                ]
+            },
+            {
+                "label": "OPTIONS ON A MULTIPLE CHOICE SURVEY",
+                "tier": "Blue",
+                "members": [
+                    "AGREE",
+                    "DISAGREE",
+                    "NEUTRAL",
+                    "OTHER"
+                ]
+            },
+            {
+                "label": "BEVERAGES WITH ACUTE ACCENTS REMOVED",
+                "tier": "Purple",
+                "members": [
+                    "CAFE",
+                    "PATRON",
+                    "ROSE",
+                    "THE"
+                ]
+            }
+        ]
     }
 ]
