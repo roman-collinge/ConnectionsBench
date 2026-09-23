@@ -78660,5 +78660,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1199,
+        "date": "2026-09-23",
+        "has_images": false,
+        "words": [
+            "KEYS",
+            "PHONE",
+            "SUNGLASSES",
+            "WALLET",
+            "AGE VERIFICATION",
+            "CAPTCHA",
+            "COOKIE CONSENT",
+            "PAYWALL",
+            "CONDENSED MILK",
+            "PAINT",
+            "SHAVING CREAM",
+            "SPAM",
+            "BITCOIN",
+            "RECORD LABEL",
+            "RUB-A-DUB",
+            "SURINAME"
+        ],
+        "groups": [
+            {
+                "label": "THINGS YOU GRAB BEFORE LEAVING THE HOUSE",
+                "tier": "Yellow",
+                "members": [
+                    "KEYS",
+                    "PHONE",
+                    "SUNGLASSES",
+                    "WALLET"
+                ]
+            },
+            {
+                "label": "WEBSITE HURDLES",
+                "tier": "Green",
+                "members": [
+                    "AGE VERIFICATION",
+                    "CAPTCHA",
+                    "COOKIE CONSENT",
+                    "PAYWALL"
+                ]
+            },
+            {
+                "label": "THINGS THAT COME IN CANS",
+                "tier": "Blue",
+                "members": [
+                    "CONDENSED MILK",
+                    "PAINT",
+                    "SHAVING CREAM",
+                    "SPAM"
+                ]
+            },
+            {
+                "label": "ENDING IN SYNONYMS FOR \"TERM\"",
+                "tier": "Purple",
+                "members": [
+                    "BITCOIN",
+                    "RECORD LABEL",
+                    "RUB-A-DUB",
+                    "SURINAME"
+                ]
+            }
+        ]
     }
 ]
