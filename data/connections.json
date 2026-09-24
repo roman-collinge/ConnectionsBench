@@ -78726,5 +78726,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1200,
+        "date": "2026-09-24",
+        "has_images": false,
+        "words": [
+            "CAPE",
+            "FACE PAINT",
+            "FAKE BLOOD",
+            "FANGS",
+            "BOBBLEHEAD",
+            "POGO STICK",
+            "SNAKES IN A CAN",
+            "TRAMPOLINE",
+            "CREATION OF ADAM",
+            "FOAM FINGER",
+            "I'M WITH STUPID SHIRT",
+            "UNCLE SAM",
+            "BEER HAT",
+            "BREATHE",
+            "HERB TEA",
+            "THE BEAR"
+        ],
+        "groups": [
+            {
+                "label": "PARTS OF A VAMPIRE COSTUME",
+                "tier": "Yellow",
+                "members": [
+                    "CAPE",
+                    "FACE PAINT",
+                    "FAKE BLOOD",
+                    "FANGS"
+                ]
+            },
+            {
+                "label": "THINGS WITH SPRING/S",
+                "tier": "Green",
+                "members": [
+                    "BOBBLEHEAD",
+                    "POGO STICK",
+                    "SNAKES IN A CAN",
+                    "TRAMPOLINE"
+                ]
+            },
+            {
+                "label": "FEATURING POINTING",
+                "tier": "Blue",
+                "members": [
+                    "CREATION OF ADAM",
+                    "FOAM FINGER",
+                    "I'M WITH STUPID SHIRT",
+                    "UNCLE SAM"
+                ]
+            },
+            {
+                "label": "ANAGRAMS",
+                "tier": "Purple",
+                "members": [
+                    "BEER HAT",
+                    "BREATHE",
+                    "HERB TEA",
+                    "THE BEAR"
+                ]
+            }
+        ]
     }
 ]
