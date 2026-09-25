@@ -78792,5 +78792,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1201,
+        "date": "2026-09-25",
+        "has_images": false,
+        "words": [
+            "BOUGIE",
+            "FANCY",
+            "POSH",
+            "SWANK",
+            "ESCAPEMENT",
+            "PENDULUM",
+            "RATCHET",
+            "SPRING",
+            "AYKROYD",
+            "LEVY",
+            "RATHER",
+            "SAVAGE",
+            "BORDER",
+            "CLASSY",
+            "FOAMILY",
+            "GENIUS"
+        ],
+        "groups": [
+            {
+                "label": "LUXE",
+                "tier": "Yellow",
+                "members": [
+                    "BOUGIE",
+                    "FANCY",
+                    "POSH",
+                    "SWANK"
+                ]
+            },
+            {
+                "label": "PARTS OF A MECHANICAL CLOCK",
+                "tier": "Green",
+                "members": [
+                    "ESCAPEMENT",
+                    "PENDULUM",
+                    "RATCHET",
+                    "SPRING"
+                ]
+            },
+            {
+                "label": "FAMOUS DANS",
+                "tier": "Blue",
+                "members": [
+                    "AYKROYD",
+                    "LEVY",
+                    "RATHER",
+                    "SAVAGE"
+                ]
+            },
+            {
+                "label": "TAXONOMIC RANKS PLUS A LETTER",
+                "tier": "Purple",
+                "members": [
+                    "BORDER",
+                    "CLASSY",
+                    "FOAMILY",
+                    "GENIUS"
+                ]
+            }
+        ]
     }
 ]
