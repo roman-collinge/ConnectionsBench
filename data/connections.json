@@ -78858,5 +78858,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1202,
+        "date": "2026-09-26",
+        "has_images": false,
+        "words": [
+            "GUM",
+            "MINT",
+            "MOUTHWASH",
+            "SPRAY",
+            "FOLD",
+            "PRESS",
+            "STARCH",
+            "WASH",
+            "BURL",
+            "GRAIN",
+            "KNOTS",
+            "RINGS",
+            "BEANS",
+            "CAT",
+            "CUCUMBER",
+            "CUSTOMER"
+        ],
+        "groups": [
+            {
+                "label": "BREATH FRESHENERS",
+                "tier": "Yellow",
+                "members": [
+                    "GUM",
+                    "MINT",
+                    "MOUTHWASH",
+                    "SPRAY"
+                ]
+            },
+            {
+                "label": "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY",
+                "tier": "Green",
+                "members": [
+                    "FOLD",
+                    "PRESS",
+                    "STARCH",
+                    "WASH"
+                ]
+            },
+            {
+                "label": "FEATURES OF WOOD",
+                "tier": "Blue",
+                "members": [
+                    "BURL",
+                    "GRAIN",
+                    "KNOTS",
+                    "RINGS"
+                ]
+            },
+            {
+                "label": "\"COOL\" THINGS, IN EXPRESSIONS",
+                "tier": "Purple",
+                "members": [
+                    "BEANS",
+                    "CAT",
+                    "CUCUMBER",
+                    "CUSTOMER"
+                ]
+            }
+        ]
     }
 ]
