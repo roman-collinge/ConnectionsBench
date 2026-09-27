@@ -78924,5 +78924,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1203,
+        "date": "2026-09-27",
+        "has_images": false,
+        "words": [
+            "BRONZE",
+            "CLAY",
+            "MARBLE",
+            "PLASTER",
+            "BANQUETTE",
+            "BOOTH",
+            "CHAIR",
+            "STOOL",
+            "CARRIER",
+            "NETWORK",
+            "OPERATOR",
+            "PROVIDER",
+            "BBQING",
+            "HOMING",
+            "LOHAN",
+            "WU-TANG"
+        ],
+        "groups": [
+            {
+                "label": "SCULPTURE MEDIA",
+                "tier": "Yellow",
+                "members": [
+                    "BRONZE",
+                    "CLAY",
+                    "MARBLE",
+                    "PLASTER"
+                ]
+            },
+            {
+                "label": "RESTAURANT SEATING OPTIONS",
+                "tier": "Green",
+                "members": [
+                    "BANQUETTE",
+                    "BOOTH",
+                    "CHAIR",
+                    "STOOL"
+                ]
+            },
+            {
+                "label": "TELECOM",
+                "tier": "Blue",
+                "members": [
+                    "CARRIER",
+                    "NETWORK",
+                    "OPERATOR",
+                    "PROVIDER"
+                ]
+            },
+            {
+                "label": "ENDING IN CHINESE DYNASTIES",
+                "tier": "Purple",
+                "members": [
+                    "BBQING",
+                    "HOMING",
+                    "LOHAN",
+                    "WU-TANG"
+                ]
+            }
+        ]
     }
 ]
