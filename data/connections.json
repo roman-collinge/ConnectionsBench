@@ -78990,5 +78990,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1204,
+        "date": "2026-09-28",
+        "has_images": false,
+        "words": [
+            "BAMBOO",
+            "CELERY",
+            "CORN",
+            "WHEAT",
+            "HORSERADISH",
+            "LEMON",
+            "MIGNONETTE",
+            "TABASCO",
+            "CHALLENGER",
+            "CHARGER",
+            "DURANGO",
+            "VIPER",
+            "ARKANSANS",
+            "CHIHUAHUA",
+            "POSSESSES",
+            "SPRINGING"
+        ],
+        "groups": [
+            {
+                "label": "THINGS WITH STALKS",
+                "tier": "Yellow",
+                "members": [
+                    "BAMBOO",
+                    "CELERY",
+                    "CORN",
+                    "WHEAT"
+                ]
+            },
+            {
+                "label": "OYSTER CONDIMENTS",
+                "tier": "Green",
+                "members": [
+                    "HORSERADISH",
+                    "LEMON",
+                    "MIGNONETTE",
+                    "TABASCO"
+                ]
+            },
+            {
+                "label": "DODGE MODELS",
+                "tier": "Blue",
+                "members": [
+                    "CHALLENGER",
+                    "CHARGER",
+                    "DURANGO",
+                    "VIPER"
+                ]
+            },
+            {
+                "label": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+                "tier": "Purple",
+                "members": [
+                    "ARKANSANS",
+                    "CHIHUAHUA",
+                    "POSSESSES",
+                    "SPRINGING"
+                ]
+            }
+        ]
     }
 ]
