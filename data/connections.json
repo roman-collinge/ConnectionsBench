@@ -79056,5 +79056,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1205,
+        "date": "2026-09-29",
+        "has_images": false,
+        "words": [
+            "HIDDEN",
+            "REMOTE",
+            "SECRET",
+            "TUCKED AWAY",
+            "DELTA",
+            "DRAINAGE BASIN",
+            "MOUTH",
+            "STREAM BED",
+            "FINDING",
+            "INSIDE",
+            "MONSTERS",
+            "TOY",
+            "FREEZE TAG",
+            "HOME GAME",
+            "MODEL TANK",
+            "ORAL PHASE"
+        ],
+        "groups": [
+            {
+                "label": "SECLUDED",
+                "tier": "Yellow",
+                "members": [
+                    "HIDDEN",
+                    "REMOTE",
+                    "SECRET",
+                    "TUCKED AWAY"
+                ]
+            },
+            {
+                "label": "RIVER FEATURES",
+                "tier": "Green",
+                "members": [
+                    "DELTA",
+                    "DRAINAGE BASIN",
+                    "MOUTH",
+                    "STREAM BED"
+                ]
+            },
+            {
+                "label": "FIRST WORDS OF PIXAR FILMS",
+                "tier": "Blue",
+                "members": [
+                    "FINDING",
+                    "INSIDE",
+                    "MONSTERS",
+                    "TOY"
+                ]
+            },
+            {
+                "label": "PHRASES HIDING GREEK LETTERS",
+                "tier": "Purple",
+                "members": [
+                    "FREEZE TAG",
+                    "HOME GAME",
+                    "MODEL TANK",
+                    "ORAL PHASE"
+                ]
+            }
+        ]
     }
 ]
