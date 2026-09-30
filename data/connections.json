@@ -79122,5 +79122,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1206,
+        "date": "2026-09-30",
+        "has_images": false,
+        "words": [
+            "BOND",
+            "FUTURE",
+            "OPTION",
+            "STOCK",
+            "ETCH A SKETCH",
+            "MARTINI",
+            "SPRAY PAINT",
+            "TAMBOURINE",
+            "BUGSY",
+            "CASINO",
+            "DONNIE BRASCO",
+            "SCARFACE",
+            "DECENT",
+            "NOVELTY",
+            "OCTOPUSSY",
+            "SEPTUM"
+        ],
+        "groups": [
+            {
+                "label": "SECURITIES",
+                "tier": "Yellow",
+                "members": [
+                    "BOND",
+                    "FUTURE",
+                    "OPTION",
+                    "STOCK"
+                ]
+            },
+            {
+                "label": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
+                "tier": "Green",
+                "members": [
+                    "ETCH A SKETCH",
+                    "MARTINI",
+                    "SPRAY PAINT",
+                    "TAMBOURINE"
+                ]
+            },
+            {
+                "label": "GANGSTER MOVIES",
+                "tier": "Blue",
+                "members": [
+                    "BUGSY",
+                    "CASINO",
+                    "DONNIE BRASCO",
+                    "SCARFACE"
+                ]
+            },
+            {
+                "label": "STARTING WITH MONTH ABBREVIATIONS",
+                "tier": "Purple",
+                "members": [
+                    "DECENT",
+                    "NOVELTY",
+                    "OCTOPUSSY",
+                    "SEPTUM"
+                ]
+            }
+        ]
     }
 ]
