@@ -79188,5 +79188,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1207,
+        "date": "2026-10-01",
+        "has_images": false,
+        "words": [
+            "PLACE",
+            "POSITION",
+            "SITUATE",
+            "STICK",
+            "CHEST",
+            "NECK",
+            "SLEEVE",
+            "WAIST",
+            "DECEMBERISTS",
+            "NATIONAL",
+            "SHINS",
+            "WALKMEN",
+            "ACRO",
+            "CROSS",
+            "KEN",
+            "SUD"
+        ],
+        "groups": [
+            {
+                "label": "PUT",
+                "tier": "Yellow",
+                "members": [
+                    "PLACE",
+                    "POSITION",
+                    "SITUATE",
+                    "STICK"
+                ]
+            },
+            {
+                "label": "DRESS SHIRT MEASUREMENTS",
+                "tier": "Green",
+                "members": [
+                    "CHEST",
+                    "NECK",
+                    "SLEEVE",
+                    "WAIST"
+                ]
+            },
+            {
+                "label": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+                "tier": "Blue",
+                "members": [
+                    "DECEMBERISTS",
+                    "NATIONAL",
+                    "SHINS",
+                    "WALKMEN"
+                ]
+            },
+            {
+                "label": "STARTS OF NYT PRINT PUZZLES",
+                "tier": "Purple",
+                "members": [
+                    "ACRO",
+                    "CROSS",
+                    "KEN",
+                    "SUD"
+                ]
+            }
+        ]
     }
 ]
