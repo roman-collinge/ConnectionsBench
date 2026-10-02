@@ -79254,5 +79254,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1208,
+        "date": "2026-10-02",
+        "has_images": false,
+        "words": [
+            "BACK",
+            "BANKROLL",
+            "FUND",
+            "SUPPORT",
+            "INDEX",
+            "LITTLE",
+            "MIDDLE",
+            "RING",
+            "COMMON",
+            "ROUTINE",
+            "STANDARD",
+            "STOCK",
+            "NUMBER",
+            "REAL ESTATE",
+            "RIB",
+            "TIME"
+        ],
+        "groups": [
+            {
+                "label": "FINANCE",
+                "tier": "Yellow",
+                "members": [
+                    "BACK",
+                    "BANKROLL",
+                    "FUND",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "label": "FINGERS",
+                "tier": "Green",
+                "members": [
+                    "INDEX",
+                    "LITTLE",
+                    "MIDDLE",
+                    "RING"
+                ]
+            },
+            {
+                "label": "CUSTOMARY",
+                "tier": "Blue",
+                "members": [
+                    "COMMON",
+                    "ROUTINE",
+                    "STANDARD",
+                    "STOCK"
+                ]
+            },
+            {
+                "label": "PRIME ___",
+                "tier": "Purple",
+                "members": [
+                    "NUMBER",
+                    "REAL ESTATE",
+                    "RIB",
+                    "TIME"
+                ]
+            }
+        ]
     }
 ]
