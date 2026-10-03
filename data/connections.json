@@ -79320,5 +79320,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1209,
+        "date": "2026-10-03",
+        "has_images": false,
+        "words": [
+            "CAN OPENER",
+            "HEAD WAITER",
+            "JOHN DENVER",
+            "W.C. FIELDS",
+            "ELBOW GREASE",
+            "FAT CATS",
+            "LINDA HAMILTON",
+            "SOMETHING WICKED",
+            "BROAD BEAN",
+            "GETTY IMAGES",
+            "MET HALFWAY",
+            "WHITNEY HOUSTON",
+            "DIET SPRITE",
+            "MERV GRIFFIN",
+            "NY GIANT",
+            "RIVER PHOENIX"
+        ],
+        "groups": [
+            {
+                "label": "STARTING WITH TERMS FOR \"TOILET\"",
+                "tier": "Yellow",
+                "members": [
+                    "CAN OPENER",
+                    "HEAD WAITER",
+                    "JOHN DENVER",
+                    "W.C. FIELDS"
+                ]
+            },
+            {
+                "label": "ENDING IN MUSICALS",
+                "tier": "Green",
+                "members": [
+                    "ELBOW GREASE",
+                    "FAT CATS",
+                    "LINDA HAMILTON",
+                    "SOMETHING WICKED"
+                ]
+            },
+            {
+                "label": "STARTING WITH U.S. MUSEUMS",
+                "tier": "Blue",
+                "members": [
+                    "BROAD BEAN",
+                    "GETTY IMAGES",
+                    "MET HALFWAY",
+                    "WHITNEY HOUSTON"
+                ]
+            },
+            {
+                "label": "ENDING IN FANTASY CREATURES",
+                "tier": "Purple",
+                "members": [
+                    "DIET SPRITE",
+                    "MERV GRIFFIN",
+                    "NY GIANT",
+                    "RIVER PHOENIX"
+                ]
+            }
+        ]
     }
 ]
