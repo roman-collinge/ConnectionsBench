@@ -79386,5 +79386,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1210,
+        "date": "2026-10-04",
+        "has_images": false,
+        "words": [
+            "BUNCH",
+            "HEAP",
+            "LOT",
+            "STACK",
+            "BALL",
+            "NET",
+            "PADDLE",
+            "TABLE",
+            "COLLAR",
+            "GAVEL",
+            "ROBE",
+            "WIG",
+            "AUCTION",
+            "FILM",
+            "PARTNER",
+            "TREATMENT"
+        ],
+        "groups": [
+            {
+                "label": "CONSIDERABLE AMOUNT",
+                "tier": "Yellow",
+                "members": [
+                    "BUNCH",
+                    "HEAP",
+                    "LOT",
+                    "STACK"
+                ]
+            },
+            {
+                "label": "TABLE TENNIS NEEDS",
+                "tier": "Green",
+                "members": [
+                    "BALL",
+                    "NET",
+                    "PADDLE",
+                    "TABLE"
+                ]
+            },
+            {
+                "label": "PARTS OF A JUDGE COSTUME",
+                "tier": "Blue",
+                "members": [
+                    "COLLAR",
+                    "GAVEL",
+                    "ROBE",
+                    "WIG"
+                ]
+            },
+            {
+                "label": "SILENT ___",
+                "tier": "Purple",
+                "members": [
+                    "AUCTION",
+                    "FILM",
+                    "PARTNER",
+                    "TREATMENT"
+                ]
+            }
+        ]
     }
 ]
