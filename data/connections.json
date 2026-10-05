@@ -79452,5 +79452,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1211,
+        "date": "2026-10-05",
+        "has_images": false,
+        "words": [
+            "CONTENT",
+            "PEACEFUL",
+            "PLACID",
+            "SERENE",
+            "EXPLICIT",
+            "GRAPHIC",
+            "STRONG",
+            "SUGGESTIVE",
+            "ADVISORY",
+            "CHESS",
+            "IRONING",
+            "MESSAGE",
+            "PARENT",
+            "PLEASE",
+            "SAPPHIRE",
+            "SLOAN"
+        ],
+        "groups": [
+            {
+                "label": "CALM",
+                "tier": "Yellow",
+                "members": [
+                    "CONTENT",
+                    "PEACEFUL",
+                    "PLACID",
+                    "SERENE"
+                ]
+            },
+            {
+                "label": "ADJECTIVES FOR MATURE CONTENT",
+                "tier": "Green",
+                "members": [
+                    "EXPLICIT",
+                    "GRAPHIC",
+                    "STRONG",
+                    "SUGGESTIVE"
+                ]
+            },
+            {
+                "label": "KINDS OF BOARDS",
+                "tier": "Blue",
+                "members": [
+                    "ADVISORY",
+                    "CHESS",
+                    "IRONING",
+                    "MESSAGE"
+                ]
+            },
+            {
+                "label": "ENDING IN WAYS TO TEMPORARILY ACQUIRE",
+                "tier": "Purple",
+                "members": [
+                    "PARENT",
+                    "PLEASE",
+                    "SAPPHIRE",
+                    "SLOAN"
+                ]
+            }
+        ]
     }
 ]
