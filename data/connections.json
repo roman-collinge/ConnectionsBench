@@ -79584,5 +79584,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1213,
+        "date": "2026-10-07",
+        "has_images": false,
+        "words": [
+            "BANK",
+            "SQUIRREL",
+            "STASH",
+            "STORE",
+            "CINNAMON",
+            "HAMBURGER",
+            "HOT DOG",
+            "STICKY",
+            "DICHOTOMY",
+            "MONOLOGUE",
+            "TETRACYCLINE",
+            "TRIDENT",
+            "CHOREOGRAPHY",
+            "MUSICAL",
+            "ORCHESTRATIONS",
+            "PLAY"
+        ],
+        "groups": [
+            {
+                "label": "SAVE FOR LATER",
+                "tier": "Yellow",
+                "members": [
+                    "BANK",
+                    "SQUIRREL",
+                    "STASH",
+                    "STORE"
+                ]
+            },
+            {
+                "label": "KINDS OF BUNS",
+                "tier": "Green",
+                "members": [
+                    "CINNAMON",
+                    "HAMBURGER",
+                    "HOT DOG",
+                    "STICKY"
+                ]
+            },
+            {
+                "label": "GREEK NUMERICAL PREFIXES",
+                "tier": "Blue",
+                "members": [
+                    "DICHOTOMY",
+                    "MONOLOGUE",
+                    "TETRACYCLINE",
+                    "TRIDENT"
+                ]
+            },
+            {
+                "label": "BEST ___ TONY AWARDS",
+                "tier": "Purple",
+                "members": [
+                    "CHOREOGRAPHY",
+                    "MUSICAL",
+                    "ORCHESTRATIONS",
+                    "PLAY"
+                ]
+            }
+        ]
     }
 ]
