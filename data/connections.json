@@ -79650,5 +79650,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1214,
+        "date": "2026-10-08",
+        "has_images": false,
+        "words": [
+            "HEEDS",
+            "MINDS",
+            "REGARDS",
+            "RESPECTS",
+            "BEST",
+            "ECLIPSE",
+            "SURPASS",
+            "TOP",
+            "CHEERS",
+            "STOOGES",
+            "STRIKES",
+            "WISHES",
+            "AUTOCRUISE",
+            "FOOLHARDY",
+            "MULHOLLAND",
+            "THANKS"
+        ],
+        "groups": [
+            {
+                "label": "FOLLOWS, AS RULES",
+                "tier": "Yellow",
+                "members": [
+                    "HEEDS",
+                    "MINDS",
+                    "REGARDS",
+                    "RESPECTS"
+                ]
+            },
+            {
+                "label": "OUTDO",
+                "tier": "Green",
+                "members": [
+                    "BEST",
+                    "ECLIPSE",
+                    "SURPASS",
+                    "TOP"
+                ]
+            },
+            {
+                "label": "THINGS THAT COME IN THREES",
+                "tier": "Blue",
+                "members": [
+                    "CHEERS",
+                    "STOOGES",
+                    "STRIKES",
+                    "WISHES"
+                ]
+            },
+            {
+                "label": "ENDING IN ACTORS NAMED TOM",
+                "tier": "Purple",
+                "members": [
+                    "AUTOCRUISE",
+                    "FOOLHARDY",
+                    "MULHOLLAND",
+                    "THANKS"
+                ]
+            }
+        ]
     }
 ]
