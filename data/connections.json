@@ -79716,5 +79716,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1215,
+        "date": "2026-10-09",
+        "has_images": false,
+        "words": [
+            "BLOWOUT",
+            "ROMP",
+            "ROUT",
+            "SWEEP",
+            "CHANNEL",
+            "INPUT",
+            "POWER",
+            "VOLUME",
+            "HIGHLIGHTS",
+            "RECAP",
+            "SCORES",
+            "STATS",
+            "CONDITIONER",
+            "GUITAR",
+            "KISS",
+            "QUOTES"
+        ],
+        "groups": [
+            {
+                "label": "DECISIVE VICTORY",
+                "tier": "Yellow",
+                "members": [
+                    "BLOWOUT",
+                    "ROMP",
+                    "ROUT",
+                    "SWEEP"
+                ]
+            },
+            {
+                "label": "CONTROLLED BY A TV REMOTE",
+                "tier": "Green",
+                "members": [
+                    "CHANNEL",
+                    "INPUT",
+                    "POWER",
+                    "VOLUME"
+                ]
+            },
+            {
+                "label": "FEATURES OF A SPORTS SHOW",
+                "tier": "Blue",
+                "members": [
+                    "HIGHLIGHTS",
+                    "RECAP",
+                    "SCORES",
+                    "STATS"
+                ]
+            },
+            {
+                "label": "AIR ___",
+                "tier": "Purple",
+                "members": [
+                    "CONDITIONER",
+                    "GUITAR",
+                    "KISS",
+                    "QUOTES"
+                ]
+            }
+        ]
     }
 ]
