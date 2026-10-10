@@ -79518,5 +79518,335 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1212,
+        "date": "2026-10-06",
+        "has_images": false,
+        "words": [
+            "BERKSHIRE",
+            "CITI",
+            "GOLDMAN",
+            "MERRILL",
+            "ADIRONDACK",
+            "EAMES",
+            "WINDSOR",
+            "WINGBACK",
+            "COMFORT",
+            "DAYS",
+            "HAMPTON",
+            "HOLIDAY",
+            "CATSKILL",
+            "KNICKKNACK",
+            "PIANOFORTE",
+            "STABILITY"
+        ],
+        "groups": [
+            {
+                "label": "FINANCIAL FIRMS, FOR SHORT",
+                "tier": "Yellow",
+                "members": [
+                    "BERKSHIRE",
+                    "CITI",
+                    "GOLDMAN",
+                    "MERRILL"
+                ]
+            },
+            {
+                "label": "KINDS OF CHAIRS",
+                "tier": "Green",
+                "members": [
+                    "ADIRONDACK",
+                    "EAMES",
+                    "WINDSOR",
+                    "WINGBACK"
+                ]
+            },
+            {
+                "label": "___ INN HOTELS",
+                "tier": "Blue",
+                "members": [
+                    "COMFORT",
+                    "DAYS",
+                    "HAMPTON",
+                    "HOLIDAY"
+                ]
+            },
+            {
+                "label": "ENDING IN TALENTS",
+                "tier": "Purple",
+                "members": [
+                    "CATSKILL",
+                    "KNICKKNACK",
+                    "PIANOFORTE",
+                    "STABILITY"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1213,
+        "date": "2026-10-07",
+        "has_images": false,
+        "words": [
+            "BANK",
+            "SQUIRREL",
+            "STASH",
+            "STORE",
+            "CINNAMON",
+            "HAMBURGER",
+            "HOT DOG",
+            "STICKY",
+            "DICHOTOMY",
+            "MONOLOGUE",
+            "TETRACYCLINE",
+            "TRIDENT",
+            "CHOREOGRAPHY",
+            "MUSICAL",
+            "ORCHESTRATIONS",
+            "PLAY"
+        ],
+        "groups": [
+            {
+                "label": "SAVE FOR LATER",
+                "tier": "Yellow",
+                "members": [
+                    "BANK",
+                    "SQUIRREL",
+                    "STASH",
+                    "STORE"
+                ]
+            },
+            {
+                "label": "KINDS OF BUNS",
+                "tier": "Green",
+                "members": [
+                    "CINNAMON",
+                    "HAMBURGER",
+                    "HOT DOG",
+                    "STICKY"
+                ]
+            },
+            {
+                "label": "GREEK NUMERICAL PREFIXES",
+                "tier": "Blue",
+                "members": [
+                    "DICHOTOMY",
+                    "MONOLOGUE",
+                    "TETRACYCLINE",
+                    "TRIDENT"
+                ]
+            },
+            {
+                "label": "BEST ___ TONY AWARDS",
+                "tier": "Purple",
+                "members": [
+                    "CHOREOGRAPHY",
+                    "MUSICAL",
+                    "ORCHESTRATIONS",
+                    "PLAY"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1214,
+        "date": "2026-10-08",
+        "has_images": false,
+        "words": [
+            "HEEDS",
+            "MINDS",
+            "REGARDS",
+            "RESPECTS",
+            "BEST",
+            "ECLIPSE",
+            "SURPASS",
+            "TOP",
+            "CHEERS",
+            "STOOGES",
+            "STRIKES",
+            "WISHES",
+            "AUTOCRUISE",
+            "FOOLHARDY",
+            "MULHOLLAND",
+            "THANKS"
+        ],
+        "groups": [
+            {
+                "label": "FOLLOWS, AS RULES",
+                "tier": "Yellow",
+                "members": [
+                    "HEEDS",
+                    "MINDS",
+                    "REGARDS",
+                    "RESPECTS"
+                ]
+            },
+            {
+                "label": "OUTDO",
+                "tier": "Green",
+                "members": [
+                    "BEST",
+                    "ECLIPSE",
+                    "SURPASS",
+                    "TOP"
+                ]
+            },
+            {
+                "label": "THINGS THAT COME IN THREES",
+                "tier": "Blue",
+                "members": [
+                    "CHEERS",
+                    "STOOGES",
+                    "STRIKES",
+                    "WISHES"
+                ]
+            },
+            {
+                "label": "ENDING IN ACTORS NAMED TOM",
+                "tier": "Purple",
+                "members": [
+                    "AUTOCRUISE",
+                    "FOOLHARDY",
+                    "MULHOLLAND",
+                    "THANKS"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1215,
+        "date": "2026-10-09",
+        "has_images": false,
+        "words": [
+            "BLOWOUT",
+            "ROMP",
+            "ROUT",
+            "SWEEP",
+            "CHANNEL",
+            "INPUT",
+            "POWER",
+            "VOLUME",
+            "HIGHLIGHTS",
+            "RECAP",
+            "SCORES",
+            "STATS",
+            "CONDITIONER",
+            "GUITAR",
+            "KISS",
+            "QUOTES"
+        ],
+        "groups": [
+            {
+                "label": "DECISIVE VICTORY",
+                "tier": "Yellow",
+                "members": [
+                    "BLOWOUT",
+                    "ROMP",
+                    "ROUT",
+                    "SWEEP"
+                ]
+            },
+            {
+                "label": "CONTROLLED BY A TV REMOTE",
+                "tier": "Green",
+                "members": [
+                    "CHANNEL",
+                    "INPUT",
+                    "POWER",
+                    "VOLUME"
+                ]
+            },
+            {
+                "label": "FEATURES OF A SPORTS SHOW",
+                "tier": "Blue",
+                "members": [
+                    "HIGHLIGHTS",
+                    "RECAP",
+                    "SCORES",
+                    "STATS"
+                ]
+            },
+            {
+                "label": "AIR ___",
+                "tier": "Purple",
+                "members": [
+                    "CONDITIONER",
+                    "GUITAR",
+                    "KISS",
+                    "QUOTES"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1216,
+        "date": "2026-10-10",
+        "has_images": false,
+        "words": [
+            "DRAFT",
+            "NOTES",
+            "OUTLINE",
+            "THESIS",
+            "FIGURE",
+            "GATHER",
+            "IMAGINE",
+            "SUPPOSE",
+            "FEED",
+            "MESSAGES",
+            "NOTIFICATIONS",
+            "PROFILE",
+            "BEAT",
+            "KICK",
+            "SHADOW",
+            "UN"
+        ],
+        "groups": [
+            {
+                "label": "USEFUL WHEN WRITING A PAPER",
+                "tier": "Yellow",
+                "members": [
+                    "DRAFT",
+                    "NOTES",
+                    "OUTLINE",
+                    "THESIS"
+                ]
+            },
+            {
+                "label": "PRESUME",
+                "tier": "Green",
+                "members": [
+                    "FIGURE",
+                    "GATHER",
+                    "IMAGINE",
+                    "SUPPOSE"
+                ]
+            },
+            {
+                "label": "SOCIAL MEDIA SECTIONS",
+                "tier": "Blue",
+                "members": [
+                    "FEED",
+                    "MESSAGES",
+                    "NOTIFICATIONS",
+                    "PROFILE"
+                ]
+            },
+            {
+                "label": "___BOXING",
+                "tier": "Purple",
+                "members": [
+                    "BEAT",
+                    "KICK",
+                    "SHADOW",
+                    "UN"
+                ]
+            }
+        ]
     }
 ]
