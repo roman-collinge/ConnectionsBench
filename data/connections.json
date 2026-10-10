@@ -79782,5 +79782,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1216,
+        "date": "2026-10-10",
+        "has_images": false,
+        "words": [
+            "DRAFT",
+            "NOTES",
+            "OUTLINE",
+            "THESIS",
+            "FIGURE",
+            "GATHER",
+            "IMAGINE",
+            "SUPPOSE",
+            "FEED",
+            "MESSAGES",
+            "NOTIFICATIONS",
+            "PROFILE",
+            "BEAT",
+            "KICK",
+            "SHADOW",
+            "UN"
+        ],
+        "groups": [
+            {
+                "label": "USEFUL WHEN WRITING A PAPER",
+                "tier": "Yellow",
+                "members": [
+                    "DRAFT",
+                    "NOTES",
+                    "OUTLINE",
+                    "THESIS"
+                ]
+            },
+            {
+                "label": "PRESUME",
+                "tier": "Green",
+                "members": [
+                    "FIGURE",
+                    "GATHER",
+                    "IMAGINE",
+                    "SUPPOSE"
+                ]
+            },
+            {
+                "label": "SOCIAL MEDIA SECTIONS",
+                "tier": "Blue",
+                "members": [
+                    "FEED",
+                    "MESSAGES",
+                    "NOTIFICATIONS",
+                    "PROFILE"
+                ]
+            },
+            {
+                "label": "___BOXING",
+                "tier": "Purple",
+                "members": [
+                    "BEAT",
+                    "KICK",
+                    "SHADOW",
+                    "UN"
+                ]
+            }
+        ]
     }
 ]
