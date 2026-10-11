@@ -79848,5 +79848,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1217,
+        "date": "2026-10-11",
+        "has_images": false,
+        "words": [
+            "APPLY",
+            "HARNESS",
+            "UTILIZE",
+            "WIELD",
+            "CABLE",
+            "ELECTRICITY",
+            "INTERNET",
+            "PHONE",
+            "GLOVES",
+            "ICE SCRAPER",
+            "MAP",
+            "REGISTRATION",
+            "EMPLOY",
+            "PATRICK",
+            "PERUSE",
+            "SYNTACTIC"
+        ],
+        "groups": [
+            {
+                "label": "PUT TO USE",
+                "tier": "Yellow",
+                "members": [
+                    "APPLY",
+                    "HARNESS",
+                    "UTILIZE",
+                    "WIELD"
+                ]
+            },
+            {
+                "label": "MONTHLY BILLS",
+                "tier": "Green",
+                "members": [
+                    "CABLE",
+                    "ELECTRICITY",
+                    "INTERNET",
+                    "PHONE"
+                ]
+            },
+            {
+                "label": "THINGS YOU MIGHT FIND IN A GLOVE COMPARTMENT",
+                "tier": "Blue",
+                "members": [
+                    "GLOVES",
+                    "ICE SCRAPER",
+                    "MAP",
+                    "REGISTRATION"
+                ]
+            },
+            {
+                "label": "ENDING IN GAMBITS",
+                "tier": "Purple",
+                "members": [
+                    "EMPLOY",
+                    "PATRICK",
+                    "PERUSE",
+                    "SYNTACTIC"
+                ]
+            }
+        ]
     }
 ]
