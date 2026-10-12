@@ -79914,5 +79914,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1218,
+        "date": "2026-10-12",
+        "has_images": false,
+        "words": [
+            "CONDITION",
+            "SHAPE",
+            "SITUATION",
+            "STATE",
+            "BEAR",
+            "HANDLE",
+            "STAND",
+            "WEATHER",
+            "ABBREVIATION",
+            "CONTRACTION",
+            "ELISION",
+            "NICKNAME",
+            "ALKYLAMIDE",
+            "CALAMARI",
+            "MANDARIN",
+            "MELAMINE"
+        ],
+        "groups": [
+            {
+                "label": "STATUS",
+                "tier": "Yellow",
+                "members": [
+                    "CONDITION",
+                    "SHAPE",
+                    "SITUATION",
+                    "STATE"
+                ]
+            },
+            {
+                "label": "TOLERATE",
+                "tier": "Green",
+                "members": [
+                    "BEAR",
+                    "HANDLE",
+                    "STAND",
+                    "WEATHER"
+                ]
+            },
+            {
+                "label": "WORD SHORTENINGS, OFTEN",
+                "tier": "Blue",
+                "members": [
+                    "ABBREVIATION",
+                    "CONTRACTION",
+                    "ELISION",
+                    "NICKNAME"
+                ]
+            },
+            {
+                "label": "WORDS MADE USING U.S. POSTAL ABBREVIATIONS",
+                "tier": "Purple",
+                "members": [
+                    "ALKYLAMIDE",
+                    "CALAMARI",
+                    "MANDARIN",
+                    "MELAMINE"
+                ]
+            }
+        ]
     }
 ]
