@@ -79980,5 +79980,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1219,
+        "date": "2026-10-13",
+        "has_images": false,
+        "words": [
+            "EYE",
+            "FLAIR",
+            "SENSE",
+            "TASTE",
+            "HITCH",
+            "LASH",
+            "TETHER",
+            "TIE",
+            "BELT",
+            "CUP",
+            "JACKET",
+            "RING",
+            "CANNON",
+            "CHANGE",
+            "ENDS",
+            "LIPS"
+        ],
+        "groups": [
+            {
+                "label": "DISCERNMENT",
+                "tier": "Yellow",
+                "members": [
+                    "EYE",
+                    "FLAIR",
+                    "SENSE",
+                    "TASTE"
+                ]
+            },
+            {
+                "label": "FASTEN",
+                "tier": "Green",
+                "members": [
+                    "HITCH",
+                    "LASH",
+                    "TETHER",
+                    "TIE"
+                ]
+            },
+            {
+                "label": "SPORTS CHAMPIONSHIP PRIZES",
+                "tier": "Blue",
+                "members": [
+                    "BELT",
+                    "CUP",
+                    "JACKET",
+                    "RING"
+                ]
+            },
+            {
+                "label": "LOOSE ___",
+                "tier": "Purple",
+                "members": [
+                    "CANNON",
+                    "CHANGE",
+                    "ENDS",
+                    "LIPS"
+                ]
+            }
+        ]
     }
 ]
