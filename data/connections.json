@@ -80046,5 +80046,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1220,
+        "date": "2026-10-14",
+        "has_images": false,
+        "words": [
+            "FLICKER",
+            "SUGGESTION",
+            "TRACE",
+            "WHIFF",
+            "SERVE",
+            "SLICE",
+            "SMASH",
+            "VOLLEY",
+            "FLASH",
+            "HULK",
+            "PUNISHER",
+            "THING",
+            "FEED",
+            "FIERY",
+            "FOMENT",
+            "FUMBLE"
+        ],
+        "groups": [
+            {
+                "label": "HINT",
+                "tier": "Yellow",
+                "members": [
+                    "FLICKER",
+                    "SUGGESTION",
+                    "TRACE",
+                    "WHIFF"
+                ]
+            },
+            {
+                "label": "TENNIS SHOTS",
+                "tier": "Green",
+                "members": [
+                    "SERVE",
+                    "SLICE",
+                    "SMASH",
+                    "VOLLEY"
+                ]
+            },
+            {
+                "label": "SUPERHEROES, WITH \"THE\"",
+                "tier": "Blue",
+                "members": [
+                    "FLASH",
+                    "HULK",
+                    "PUNISHER",
+                    "THING"
+                ]
+            },
+            {
+                "label": "STARTING WITH \"FEE, FI, FO, FUM\"",
+                "tier": "Purple",
+                "members": [
+                    "FEED",
+                    "FIERY",
+                    "FOMENT",
+                    "FUMBLE"
+                ]
+            }
+        ]
     }
 ]
