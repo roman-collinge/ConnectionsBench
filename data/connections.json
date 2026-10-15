@@ -80112,5 +80112,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1221,
+        "date": "2026-10-15",
+        "has_images": false,
+        "words": [
+            "CURE",
+            "DRY",
+            "PICKLE",
+            "SMOKE",
+            "BASKET",
+            "GOAL",
+            "RUN",
+            "TOUCHDOWN",
+            "BASE",
+            "BOTTOM",
+            "FOOT",
+            "FOUNDATION",
+            "CANNON",
+            "FORGE",
+            "RACINE",
+            "VOLLEY"
+        ],
+        "groups": [
+            {
+                "label": "WAYS TO PRESERVE FOOD",
+                "tier": "Yellow",
+                "members": [
+                    "CURE",
+                    "DRY",
+                    "PICKLE",
+                    "SMOKE"
+                ]
+            },
+            {
+                "label": "THINGS YOU CAN SCORE IN SPORTS",
+                "tier": "Green",
+                "members": [
+                    "BASKET",
+                    "GOAL",
+                    "RUN",
+                    "TOUCHDOWN"
+                ]
+            },
+            {
+                "label": "LOWEST PART",
+                "tier": "Blue",
+                "members": [
+                    "BASE",
+                    "BOTTOM",
+                    "FOOT",
+                    "FOUNDATION"
+                ]
+            },
+            {
+                "label": "LOW LANDFORMS WITH A LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "CANNON",
+                    "FORGE",
+                    "RACINE",
+                    "VOLLEY"
+                ]
+            }
+        ]
     }
 ]
