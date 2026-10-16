@@ -80178,5 +80178,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1222,
+        "date": "2026-10-16",
+        "has_images": false,
+        "words": [
+            "CHIP",
+            "MARK",
+            "NICK",
+            "SCRATCH",
+            "CHAD",
+            "HUNGARY",
+            "LAOS",
+            "PARAGUAY",
+            "BULGARI",
+            "CYRUS",
+            "HUNGRY",
+            "SPAN",
+            "CHICKEN",
+            "COOLIDGE",
+            "HIPPO",
+            "SMARTIES"
+        ],
+        "groups": [
+            {
+                "label": "SURFACE IMPERFECTIONS",
+                "tier": "Yellow",
+                "members": [
+                    "CHIP",
+                    "MARK",
+                    "NICK",
+                    "SCRATCH"
+                ]
+            },
+            {
+                "label": "LANDLOCKED COUNTRIES",
+                "tier": "Green",
+                "members": [
+                    "CHAD",
+                    "HUNGARY",
+                    "LAOS",
+                    "PARAGUAY"
+                ]
+            },
+            {
+                "label": "EUROPEAN COUNTRIES MINUS A LETTER",
+                "tier": "Blue",
+                "members": [
+                    "BULGARI",
+                    "CYRUS",
+                    "HUNGRY",
+                    "SPAN"
+                ]
+            },
+            {
+                "label": "STARTING WITH WORDS FOR \"STYLISH\"",
+                "tier": "Purple",
+                "members": [
+                    "CHICKEN",
+                    "COOLIDGE",
+                    "HIPPO",
+                    "SMARTIES"
+                ]
+            }
+        ]
     }
 ]
