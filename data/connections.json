@@ -80244,5 +80244,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1223,
+        "date": "2026-10-17",
+        "has_images": false,
+        "words": [
+            "ALERT",
+            "CHIME",
+            "DING",
+            "PING",
+            "PRINT",
+            "SHOT",
+            "SNAP",
+            "STILL",
+            "FIDDLER",
+            "HERMIT",
+            "KING",
+            "SNOW",
+            "BOH\u00c8ME",
+            "BREA",
+            "PAZ",
+            "SCALA"
+        ],
+        "groups": [
+            {
+                "label": "DIGITAL NOTIFICATIONS",
+                "tier": "Yellow",
+                "members": [
+                    "ALERT",
+                    "CHIME",
+                    "DING",
+                    "PING"
+                ]
+            },
+            {
+                "label": "PHOTO",
+                "tier": "Green",
+                "members": [
+                    "PRINT",
+                    "SHOT",
+                    "SNAP",
+                    "STILL"
+                ]
+            },
+            {
+                "label": "KINDS OF CRABS",
+                "tier": "Blue",
+                "members": [
+                    "FIDDLER",
+                    "HERMIT",
+                    "KING",
+                    "SNOW"
+                ]
+            },
+            {
+                "label": "LA ___",
+                "tier": "Purple",
+                "members": [
+                    "BOH\u00c8ME",
+                    "BREA",
+                    "PAZ",
+                    "SCALA"
+                ]
+            }
+        ]
     }
 ]
