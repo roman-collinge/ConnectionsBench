@@ -80310,5 +80310,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1224,
+        "date": "2026-10-18",
+        "has_images": false,
+        "words": [
+            "BUREAU",
+            "CHEST",
+            "TRUNK",
+            "WARDROBE",
+            "BUTTER",
+            "DEODORANT",
+            "DYNAMITE",
+            "INCENSE",
+            "ANGEL",
+            "COCO",
+            "OBSESSION",
+            "OPIUM",
+            "FOGERTY",
+            "HAZEL",
+            "MISTER",
+            "VAPORETTO"
+        ],
+        "groups": [
+            {
+                "label": "PLACES TO STORE CLOTHES",
+                "tier": "Yellow",
+                "members": [
+                    "BUREAU",
+                    "CHEST",
+                    "TRUNK",
+                    "WARDROBE"
+                ]
+            },
+            {
+                "label": "THINGS THAT COME IN STICKS",
+                "tier": "Green",
+                "members": [
+                    "BUTTER",
+                    "DEODORANT",
+                    "DYNAMITE",
+                    "INCENSE"
+                ]
+            },
+            {
+                "label": "FAMOUS PERFUMES",
+                "tier": "Blue",
+                "members": [
+                    "ANGEL",
+                    "COCO",
+                    "OBSESSION",
+                    "OPIUM"
+                ]
+            },
+            {
+                "label": "STARTING WITH THINGS THAT CLOUD THE AIR",
+                "tier": "Purple",
+                "members": [
+                    "FOGERTY",
+                    "HAZEL",
+                    "MISTER",
+                    "VAPORETTO"
+                ]
+            }
+        ]
     }
 ]
