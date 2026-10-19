@@ -80376,5 +80376,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1225,
+        "date": "2026-10-19",
+        "has_images": false,
+        "words": [
+            "BOIL",
+            "FUME",
+            "RAVE",
+            "STEAM",
+            "BLATHER",
+            "GAS",
+            "HOT AIR",
+            "WIND",
+            "FLURRY",
+            "MUFFIN",
+            "NUGGETS",
+            "RIB",
+            "ALIBIS",
+            "BALLOON",
+            "ESCROW",
+            "MOHAWK"
+        ],
+        "groups": [
+            {
+                "label": "SEETHE",
+                "tier": "Yellow",
+                "members": [
+                    "BOIL",
+                    "FUME",
+                    "RAVE",
+                    "STEAM"
+                ]
+            },
+            {
+                "label": "ALL TALK",
+                "tier": "Green",
+                "members": [
+                    "BLATHER",
+                    "GAS",
+                    "HOT AIR",
+                    "WIND"
+                ]
+            },
+            {
+                "label": "\"MC\" THINGS AT MCDONALD'S",
+                "tier": "Blue",
+                "members": [
+                    "FLURRY",
+                    "MUFFIN",
+                    "NUGGETS",
+                    "RIB"
+                ]
+            },
+            {
+                "label": "ENDING IN BIRDS",
+                "tier": "Purple",
+                "members": [
+                    "ALIBIS",
+                    "BALLOON",
+                    "ESCROW",
+                    "MOHAWK"
+                ]
+            }
+        ]
     }
 ]
