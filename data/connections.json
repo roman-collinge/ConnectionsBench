@@ -80442,5 +80442,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1226,
+        "date": "2026-10-20",
+        "has_images": false,
+        "words": [
+            "CLOSE",
+            "END",
+            "STOP",
+            "WRAP",
+            "MINION",
+            "POODLE",
+            "PUPPET",
+            "STOOGE",
+            "CHEVRON",
+            "HORSESHOE",
+            "PENCIL",
+            "WALRUS",
+            "ARIAL",
+            "BELL",
+            "DOCK",
+            "MINI"
+        ],
+        "groups": [
+            {
+                "label": "FINISH",
+                "tier": "Yellow",
+                "members": [
+                    "CLOSE",
+                    "END",
+                    "STOP",
+                    "WRAP"
+                ]
+            },
+            {
+                "label": "LACKEY",
+                "tier": "Green",
+                "members": [
+                    "MINION",
+                    "POODLE",
+                    "PUPPET",
+                    "STOOGE"
+                ]
+            },
+            {
+                "label": "MUSTACHES",
+                "tier": "Blue",
+                "members": [
+                    "CHEVRON",
+                    "HORSESHOE",
+                    "PENCIL",
+                    "WALRUS"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF DISNEY CHARACTERS",
+                "tier": "Purple",
+                "members": [
+                    "ARIAL",
+                    "BELL",
+                    "DOCK",
+                    "MINI"
+                ]
+            }
+        ]
     }
 ]
