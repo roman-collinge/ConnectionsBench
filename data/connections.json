@@ -80508,5 +80508,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1227,
+        "date": "2026-10-21",
+        "has_images": false,
+        "words": [
+            "DUCK DUCK GOOSE",
+            "HOT POTATO",
+            "LEAPFROG",
+            "MUSICAL CHAIRS",
+            "ALPHA DOG",
+            "BIG CHEESE",
+            "HEAVYWEIGHT",
+            "TOP BANANA",
+            "AMERICAN GOTHIC",
+            "CAMPBELL'S SOUP CAN",
+            "SUNFLOWERS",
+            "THE SCREAM",
+            "ENGLISH HORN",
+            "GRAPE-NUTS",
+            "MANTIS SHRIMP",
+            "SWEETBREAD"
+        ],
+        "groups": [
+            {
+                "label": "CLASSIC CHILDREN'S GAMES",
+                "tier": "Yellow",
+                "members": [
+                    "DUCK DUCK GOOSE",
+                    "HOT POTATO",
+                    "LEAPFROG",
+                    "MUSICAL CHAIRS"
+                ]
+            },
+            {
+                "label": "IMPORTANT PERSON",
+                "tier": "Green",
+                "members": [
+                    "ALPHA DOG",
+                    "BIG CHEESE",
+                    "HEAVYWEIGHT",
+                    "TOP BANANA"
+                ]
+            },
+            {
+                "label": "FAMOUS PAINTINGS",
+                "tier": "Blue",
+                "members": [
+                    "AMERICAN GOTHIC",
+                    "CAMPBELL'S SOUP CAN",
+                    "SUNFLOWERS",
+                    "THE SCREAM"
+                ]
+            },
+            {
+                "label": "DOUBLE MISNOMERS (NEITHER WORD IS AN ACCURATE DESCRIPTION)",
+                "tier": "Purple",
+                "members": [
+                    "ENGLISH HORN",
+                    "GRAPE-NUTS",
+                    "MANTIS SHRIMP",
+                    "SWEETBREAD"
+                ]
+            }
+        ]
     }
 ]
