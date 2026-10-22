@@ -80574,5 +80574,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1228,
+        "date": "2026-10-22",
+        "has_images": false,
+        "words": [
+            "GRIP",
+            "HANDLE",
+            "HILT",
+            "KNOB",
+            "BUST",
+            "MOBILE",
+            "RELIEF",
+            "STATUE",
+            "END",
+            "GUARD",
+            "SAFETY",
+            "TACKLE",
+            "BLANK",
+            "COMFORT",
+            "PILL",
+            "SHE"
+        ],
+        "groups": [
+            {
+                "label": "PARTS TO BE GRASPED",
+                "tier": "Yellow",
+                "members": [
+                    "GRIP",
+                    "HANDLE",
+                    "HILT",
+                    "KNOB"
+                ]
+            },
+            {
+                "label": "KINDS OF SCULPTURES",
+                "tier": "Green",
+                "members": [
+                    "BUST",
+                    "MOBILE",
+                    "RELIEF",
+                    "STATUE"
+                ]
+            },
+            {
+                "label": "AMERICAN FOOTBALL POSITIONS",
+                "tier": "Blue",
+                "members": [
+                    "END",
+                    "GUARD",
+                    "SAFETY",
+                    "TACKLE"
+                ]
+            },
+            {
+                "label": "STARTS OF BEDDING",
+                "tier": "Purple",
+                "members": [
+                    "BLANK",
+                    "COMFORT",
+                    "PILL",
+                    "SHE"
+                ]
+            }
+        ]
     }
 ]
