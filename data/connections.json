@@ -80640,5 +80640,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1229,
+        "date": "2026-10-23",
+        "has_images": false,
+        "words": [
+            "DIRECT",
+            "FRANK",
+            "OPEN",
+            "VOCAL",
+            "DRIVER",
+            "EXTENSION",
+            "PLUGIN",
+            "UPDATE",
+            "DISTANCE",
+            "FORCE",
+            "POWER",
+            "TIME",
+            "DOUBLE",
+            "LOVE",
+            "PHONE",
+            "SPINAL"
+        ],
+        "groups": [
+            {
+                "label": "FORTHRIGHT",
+                "tier": "Yellow",
+                "members": [
+                    "DIRECT",
+                    "FRANK",
+                    "OPEN",
+                    "VOCAL"
+                ]
+            },
+            {
+                "label": "THINGS YOU INSTALL ON A COMPUTER",
+                "tier": "Green",
+                "members": [
+                    "DRIVER",
+                    "EXTENSION",
+                    "PLUGIN",
+                    "UPDATE"
+                ]
+            },
+            {
+                "label": "QUANTITIES IN A FORMULA FOR POWER",
+                "tier": "Blue",
+                "members": [
+                    "DISTANCE",
+                    "FORCE",
+                    "POWER",
+                    "TIME"
+                ]
+            },
+            {
+                "label": "___ TAP",
+                "tier": "Purple",
+                "members": [
+                    "DOUBLE",
+                    "LOVE",
+                    "PHONE",
+                    "SPINAL"
+                ]
+            }
+        ]
     }
 ]
