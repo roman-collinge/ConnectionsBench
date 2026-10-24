@@ -80706,5 +80706,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1230,
+        "date": "2026-10-24",
+        "has_images": false,
+        "words": [
+            "BACON",
+            "COMIC",
+            "FILM",
+            "M\u00d6BIUS",
+            "HOBBY HORSE",
+            "PINWHEEL",
+            "POPSICLE",
+            "SPARKLER",
+            "BANNER",
+            "INTERSTITIAL",
+            "OVERLAY",
+            "POP-UP",
+            "CANDY",
+            "SALAD",
+            "SPACE",
+            "SPORTS"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF STRIPS",
+                "tier": "Yellow",
+                "members": [
+                    "BACON",
+                    "COMIC",
+                    "FILM",
+                    "M\u00d6BIUS"
+                ]
+            },
+            {
+                "label": "THINGS ON STICKS",
+                "tier": "Green",
+                "members": [
+                    "HOBBY HORSE",
+                    "PINWHEEL",
+                    "POPSICLE",
+                    "SPARKLER"
+                ]
+            },
+            {
+                "label": "ONLINE AD FORMATS",
+                "tier": "Blue",
+                "members": [
+                    "BANNER",
+                    "INTERSTITIAL",
+                    "OVERLAY",
+                    "POP-UP"
+                ]
+            },
+            {
+                "label": "___ BAR",
+                "tier": "Purple",
+                "members": [
+                    "CANDY",
+                    "SALAD",
+                    "SPACE",
+                    "SPORTS"
+                ]
+            }
+        ]
     }
 ]
