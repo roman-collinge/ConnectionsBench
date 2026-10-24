@@ -79518,5 +79518,1259 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1212,
+        "date": "2026-10-06",
+        "has_images": false,
+        "words": [
+            "BERKSHIRE",
+            "CITI",
+            "GOLDMAN",
+            "MERRILL",
+            "ADIRONDACK",
+            "EAMES",
+            "WINDSOR",
+            "WINGBACK",
+            "COMFORT",
+            "DAYS",
+            "HAMPTON",
+            "HOLIDAY",
+            "CATSKILL",
+            "KNICKKNACK",
+            "PIANOFORTE",
+            "STABILITY"
+        ],
+        "groups": [
+            {
+                "label": "FINANCIAL FIRMS, FOR SHORT",
+                "tier": "Yellow",
+                "members": [
+                    "BERKSHIRE",
+                    "CITI",
+                    "GOLDMAN",
+                    "MERRILL"
+                ]
+            },
+            {
+                "label": "KINDS OF CHAIRS",
+                "tier": "Green",
+                "members": [
+                    "ADIRONDACK",
+                    "EAMES",
+                    "WINDSOR",
+                    "WINGBACK"
+                ]
+            },
+            {
+                "label": "___ INN HOTELS",
+                "tier": "Blue",
+                "members": [
+                    "COMFORT",
+                    "DAYS",
+                    "HAMPTON",
+                    "HOLIDAY"
+                ]
+            },
+            {
+                "label": "ENDING IN TALENTS",
+                "tier": "Purple",
+                "members": [
+                    "CATSKILL",
+                    "KNICKKNACK",
+                    "PIANOFORTE",
+                    "STABILITY"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1213,
+        "date": "2026-10-07",
+        "has_images": false,
+        "words": [
+            "BANK",
+            "SQUIRREL",
+            "STASH",
+            "STORE",
+            "CINNAMON",
+            "HAMBURGER",
+            "HOT DOG",
+            "STICKY",
+            "DICHOTOMY",
+            "MONOLOGUE",
+            "TETRACYCLINE",
+            "TRIDENT",
+            "CHOREOGRAPHY",
+            "MUSICAL",
+            "ORCHESTRATIONS",
+            "PLAY"
+        ],
+        "groups": [
+            {
+                "label": "SAVE FOR LATER",
+                "tier": "Yellow",
+                "members": [
+                    "BANK",
+                    "SQUIRREL",
+                    "STASH",
+                    "STORE"
+                ]
+            },
+            {
+                "label": "KINDS OF BUNS",
+                "tier": "Green",
+                "members": [
+                    "CINNAMON",
+                    "HAMBURGER",
+                    "HOT DOG",
+                    "STICKY"
+                ]
+            },
+            {
+                "label": "GREEK NUMERICAL PREFIXES",
+                "tier": "Blue",
+                "members": [
+                    "DICHOTOMY",
+                    "MONOLOGUE",
+                    "TETRACYCLINE",
+                    "TRIDENT"
+                ]
+            },
+            {
+                "label": "BEST ___ TONY AWARDS",
+                "tier": "Purple",
+                "members": [
+                    "CHOREOGRAPHY",
+                    "MUSICAL",
+                    "ORCHESTRATIONS",
+                    "PLAY"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1214,
+        "date": "2026-10-08",
+        "has_images": false,
+        "words": [
+            "HEEDS",
+            "MINDS",
+            "REGARDS",
+            "RESPECTS",
+            "BEST",
+            "ECLIPSE",
+            "SURPASS",
+            "TOP",
+            "CHEERS",
+            "STOOGES",
+            "STRIKES",
+            "WISHES",
+            "AUTOCRUISE",
+            "FOOLHARDY",
+            "MULHOLLAND",
+            "THANKS"
+        ],
+        "groups": [
+            {
+                "label": "FOLLOWS, AS RULES",
+                "tier": "Yellow",
+                "members": [
+                    "HEEDS",
+                    "MINDS",
+                    "REGARDS",
+                    "RESPECTS"
+                ]
+            },
+            {
+                "label": "OUTDO",
+                "tier": "Green",
+                "members": [
+                    "BEST",
+                    "ECLIPSE",
+                    "SURPASS",
+                    "TOP"
+                ]
+            },
+            {
+                "label": "THINGS THAT COME IN THREES",
+                "tier": "Blue",
+                "members": [
+                    "CHEERS",
+                    "STOOGES",
+                    "STRIKES",
+                    "WISHES"
+                ]
+            },
+            {
+                "label": "ENDING IN ACTORS NAMED TOM",
+                "tier": "Purple",
+                "members": [
+                    "AUTOCRUISE",
+                    "FOOLHARDY",
+                    "MULHOLLAND",
+                    "THANKS"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1215,
+        "date": "2026-10-09",
+        "has_images": false,
+        "words": [
+            "BLOWOUT",
+            "ROMP",
+            "ROUT",
+            "SWEEP",
+            "CHANNEL",
+            "INPUT",
+            "POWER",
+            "VOLUME",
+            "HIGHLIGHTS",
+            "RECAP",
+            "SCORES",
+            "STATS",
+            "CONDITIONER",
+            "GUITAR",
+            "KISS",
+            "QUOTES"
+        ],
+        "groups": [
+            {
+                "label": "DECISIVE VICTORY",
+                "tier": "Yellow",
+                "members": [
+                    "BLOWOUT",
+                    "ROMP",
+                    "ROUT",
+                    "SWEEP"
+                ]
+            },
+            {
+                "label": "CONTROLLED BY A TV REMOTE",
+                "tier": "Green",
+                "members": [
+                    "CHANNEL",
+                    "INPUT",
+                    "POWER",
+                    "VOLUME"
+                ]
+            },
+            {
+                "label": "FEATURES OF A SPORTS SHOW",
+                "tier": "Blue",
+                "members": [
+                    "HIGHLIGHTS",
+                    "RECAP",
+                    "SCORES",
+                    "STATS"
+                ]
+            },
+            {
+                "label": "AIR ___",
+                "tier": "Purple",
+                "members": [
+                    "CONDITIONER",
+                    "GUITAR",
+                    "KISS",
+                    "QUOTES"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1216,
+        "date": "2026-10-10",
+        "has_images": false,
+        "words": [
+            "DRAFT",
+            "NOTES",
+            "OUTLINE",
+            "THESIS",
+            "FIGURE",
+            "GATHER",
+            "IMAGINE",
+            "SUPPOSE",
+            "FEED",
+            "MESSAGES",
+            "NOTIFICATIONS",
+            "PROFILE",
+            "BEAT",
+            "KICK",
+            "SHADOW",
+            "UN"
+        ],
+        "groups": [
+            {
+                "label": "USEFUL WHEN WRITING A PAPER",
+                "tier": "Yellow",
+                "members": [
+                    "DRAFT",
+                    "NOTES",
+                    "OUTLINE",
+                    "THESIS"
+                ]
+            },
+            {
+                "label": "PRESUME",
+                "tier": "Green",
+                "members": [
+                    "FIGURE",
+                    "GATHER",
+                    "IMAGINE",
+                    "SUPPOSE"
+                ]
+            },
+            {
+                "label": "SOCIAL MEDIA SECTIONS",
+                "tier": "Blue",
+                "members": [
+                    "FEED",
+                    "MESSAGES",
+                    "NOTIFICATIONS",
+                    "PROFILE"
+                ]
+            },
+            {
+                "label": "___BOXING",
+                "tier": "Purple",
+                "members": [
+                    "BEAT",
+                    "KICK",
+                    "SHADOW",
+                    "UN"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1217,
+        "date": "2026-10-11",
+        "has_images": false,
+        "words": [
+            "APPLY",
+            "HARNESS",
+            "UTILIZE",
+            "WIELD",
+            "CABLE",
+            "ELECTRICITY",
+            "INTERNET",
+            "PHONE",
+            "GLOVES",
+            "ICE SCRAPER",
+            "MAP",
+            "REGISTRATION",
+            "EMPLOY",
+            "PATRICK",
+            "PERUSE",
+            "SYNTACTIC"
+        ],
+        "groups": [
+            {
+                "label": "PUT TO USE",
+                "tier": "Yellow",
+                "members": [
+                    "APPLY",
+                    "HARNESS",
+                    "UTILIZE",
+                    "WIELD"
+                ]
+            },
+            {
+                "label": "MONTHLY BILLS",
+                "tier": "Green",
+                "members": [
+                    "CABLE",
+                    "ELECTRICITY",
+                    "INTERNET",
+                    "PHONE"
+                ]
+            },
+            {
+                "label": "THINGS YOU MIGHT FIND IN A GLOVE COMPARTMENT",
+                "tier": "Blue",
+                "members": [
+                    "GLOVES",
+                    "ICE SCRAPER",
+                    "MAP",
+                    "REGISTRATION"
+                ]
+            },
+            {
+                "label": "ENDING IN GAMBITS",
+                "tier": "Purple",
+                "members": [
+                    "EMPLOY",
+                    "PATRICK",
+                    "PERUSE",
+                    "SYNTACTIC"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1218,
+        "date": "2026-10-12",
+        "has_images": false,
+        "words": [
+            "CONDITION",
+            "SHAPE",
+            "SITUATION",
+            "STATE",
+            "BEAR",
+            "HANDLE",
+            "STAND",
+            "WEATHER",
+            "ABBREVIATION",
+            "CONTRACTION",
+            "ELISION",
+            "NICKNAME",
+            "ALKYLAMIDE",
+            "CALAMARI",
+            "MANDARIN",
+            "MELAMINE"
+        ],
+        "groups": [
+            {
+                "label": "STATUS",
+                "tier": "Yellow",
+                "members": [
+                    "CONDITION",
+                    "SHAPE",
+                    "SITUATION",
+                    "STATE"
+                ]
+            },
+            {
+                "label": "TOLERATE",
+                "tier": "Green",
+                "members": [
+                    "BEAR",
+                    "HANDLE",
+                    "STAND",
+                    "WEATHER"
+                ]
+            },
+            {
+                "label": "WORD SHORTENINGS, OFTEN",
+                "tier": "Blue",
+                "members": [
+                    "ABBREVIATION",
+                    "CONTRACTION",
+                    "ELISION",
+                    "NICKNAME"
+                ]
+            },
+            {
+                "label": "WORDS MADE USING U.S. POSTAL ABBREVIATIONS",
+                "tier": "Purple",
+                "members": [
+                    "ALKYLAMIDE",
+                    "CALAMARI",
+                    "MANDARIN",
+                    "MELAMINE"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1219,
+        "date": "2026-10-13",
+        "has_images": false,
+        "words": [
+            "EYE",
+            "FLAIR",
+            "SENSE",
+            "TASTE",
+            "HITCH",
+            "LASH",
+            "TETHER",
+            "TIE",
+            "BELT",
+            "CUP",
+            "JACKET",
+            "RING",
+            "CANNON",
+            "CHANGE",
+            "ENDS",
+            "LIPS"
+        ],
+        "groups": [
+            {
+                "label": "DISCERNMENT",
+                "tier": "Yellow",
+                "members": [
+                    "EYE",
+                    "FLAIR",
+                    "SENSE",
+                    "TASTE"
+                ]
+            },
+            {
+                "label": "FASTEN",
+                "tier": "Green",
+                "members": [
+                    "HITCH",
+                    "LASH",
+                    "TETHER",
+                    "TIE"
+                ]
+            },
+            {
+                "label": "SPORTS CHAMPIONSHIP PRIZES",
+                "tier": "Blue",
+                "members": [
+                    "BELT",
+                    "CUP",
+                    "JACKET",
+                    "RING"
+                ]
+            },
+            {
+                "label": "LOOSE ___",
+                "tier": "Purple",
+                "members": [
+                    "CANNON",
+                    "CHANGE",
+                    "ENDS",
+                    "LIPS"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1220,
+        "date": "2026-10-14",
+        "has_images": false,
+        "words": [
+            "FLICKER",
+            "SUGGESTION",
+            "TRACE",
+            "WHIFF",
+            "SERVE",
+            "SLICE",
+            "SMASH",
+            "VOLLEY",
+            "FLASH",
+            "HULK",
+            "PUNISHER",
+            "THING",
+            "FEED",
+            "FIERY",
+            "FOMENT",
+            "FUMBLE"
+        ],
+        "groups": [
+            {
+                "label": "HINT",
+                "tier": "Yellow",
+                "members": [
+                    "FLICKER",
+                    "SUGGESTION",
+                    "TRACE",
+                    "WHIFF"
+                ]
+            },
+            {
+                "label": "TENNIS SHOTS",
+                "tier": "Green",
+                "members": [
+                    "SERVE",
+                    "SLICE",
+                    "SMASH",
+                    "VOLLEY"
+                ]
+            },
+            {
+                "label": "SUPERHEROES, WITH \"THE\"",
+                "tier": "Blue",
+                "members": [
+                    "FLASH",
+                    "HULK",
+                    "PUNISHER",
+                    "THING"
+                ]
+            },
+            {
+                "label": "STARTING WITH \"FEE, FI, FO, FUM\"",
+                "tier": "Purple",
+                "members": [
+                    "FEED",
+                    "FIERY",
+                    "FOMENT",
+                    "FUMBLE"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1221,
+        "date": "2026-10-15",
+        "has_images": false,
+        "words": [
+            "CURE",
+            "DRY",
+            "PICKLE",
+            "SMOKE",
+            "BASKET",
+            "GOAL",
+            "RUN",
+            "TOUCHDOWN",
+            "BASE",
+            "BOTTOM",
+            "FOOT",
+            "FOUNDATION",
+            "CANNON",
+            "FORGE",
+            "RACINE",
+            "VOLLEY"
+        ],
+        "groups": [
+            {
+                "label": "WAYS TO PRESERVE FOOD",
+                "tier": "Yellow",
+                "members": [
+                    "CURE",
+                    "DRY",
+                    "PICKLE",
+                    "SMOKE"
+                ]
+            },
+            {
+                "label": "THINGS YOU CAN SCORE IN SPORTS",
+                "tier": "Green",
+                "members": [
+                    "BASKET",
+                    "GOAL",
+                    "RUN",
+                    "TOUCHDOWN"
+                ]
+            },
+            {
+                "label": "LOWEST PART",
+                "tier": "Blue",
+                "members": [
+                    "BASE",
+                    "BOTTOM",
+                    "FOOT",
+                    "FOUNDATION"
+                ]
+            },
+            {
+                "label": "LOW LANDFORMS WITH A LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "CANNON",
+                    "FORGE",
+                    "RACINE",
+                    "VOLLEY"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1222,
+        "date": "2026-10-16",
+        "has_images": false,
+        "words": [
+            "CHIP",
+            "MARK",
+            "NICK",
+            "SCRATCH",
+            "CHAD",
+            "HUNGARY",
+            "LAOS",
+            "PARAGUAY",
+            "BULGARI",
+            "CYRUS",
+            "HUNGRY",
+            "SPAN",
+            "CHICKEN",
+            "COOLIDGE",
+            "HIPPO",
+            "SMARTIES"
+        ],
+        "groups": [
+            {
+                "label": "SURFACE IMPERFECTIONS",
+                "tier": "Yellow",
+                "members": [
+                    "CHIP",
+                    "MARK",
+                    "NICK",
+                    "SCRATCH"
+                ]
+            },
+            {
+                "label": "LANDLOCKED COUNTRIES",
+                "tier": "Green",
+                "members": [
+                    "CHAD",
+                    "HUNGARY",
+                    "LAOS",
+                    "PARAGUAY"
+                ]
+            },
+            {
+                "label": "EUROPEAN COUNTRIES MINUS A LETTER",
+                "tier": "Blue",
+                "members": [
+                    "BULGARI",
+                    "CYRUS",
+                    "HUNGRY",
+                    "SPAN"
+                ]
+            },
+            {
+                "label": "STARTING WITH WORDS FOR \"STYLISH\"",
+                "tier": "Purple",
+                "members": [
+                    "CHICKEN",
+                    "COOLIDGE",
+                    "HIPPO",
+                    "SMARTIES"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1223,
+        "date": "2026-10-17",
+        "has_images": false,
+        "words": [
+            "ALERT",
+            "CHIME",
+            "DING",
+            "PING",
+            "PRINT",
+            "SHOT",
+            "SNAP",
+            "STILL",
+            "FIDDLER",
+            "HERMIT",
+            "KING",
+            "SNOW",
+            "BOH\u00c8ME",
+            "BREA",
+            "PAZ",
+            "SCALA"
+        ],
+        "groups": [
+            {
+                "label": "DIGITAL NOTIFICATIONS",
+                "tier": "Yellow",
+                "members": [
+                    "ALERT",
+                    "CHIME",
+                    "DING",
+                    "PING"
+                ]
+            },
+            {
+                "label": "PHOTO",
+                "tier": "Green",
+                "members": [
+                    "PRINT",
+                    "SHOT",
+                    "SNAP",
+                    "STILL"
+                ]
+            },
+            {
+                "label": "KINDS OF CRABS",
+                "tier": "Blue",
+                "members": [
+                    "FIDDLER",
+                    "HERMIT",
+                    "KING",
+                    "SNOW"
+                ]
+            },
+            {
+                "label": "LA ___",
+                "tier": "Purple",
+                "members": [
+                    "BOH\u00c8ME",
+                    "BREA",
+                    "PAZ",
+                    "SCALA"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1224,
+        "date": "2026-10-18",
+        "has_images": false,
+        "words": [
+            "BUREAU",
+            "CHEST",
+            "TRUNK",
+            "WARDROBE",
+            "BUTTER",
+            "DEODORANT",
+            "DYNAMITE",
+            "INCENSE",
+            "ANGEL",
+            "COCO",
+            "OBSESSION",
+            "OPIUM",
+            "FOGERTY",
+            "HAZEL",
+            "MISTER",
+            "VAPORETTO"
+        ],
+        "groups": [
+            {
+                "label": "PLACES TO STORE CLOTHES",
+                "tier": "Yellow",
+                "members": [
+                    "BUREAU",
+                    "CHEST",
+                    "TRUNK",
+                    "WARDROBE"
+                ]
+            },
+            {
+                "label": "THINGS THAT COME IN STICKS",
+                "tier": "Green",
+                "members": [
+                    "BUTTER",
+                    "DEODORANT",
+                    "DYNAMITE",
+                    "INCENSE"
+                ]
+            },
+            {
+                "label": "FAMOUS PERFUMES",
+                "tier": "Blue",
+                "members": [
+                    "ANGEL",
+                    "COCO",
+                    "OBSESSION",
+                    "OPIUM"
+                ]
+            },
+            {
+                "label": "STARTING WITH THINGS THAT CLOUD THE AIR",
+                "tier": "Purple",
+                "members": [
+                    "FOGERTY",
+                    "HAZEL",
+                    "MISTER",
+                    "VAPORETTO"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1225,
+        "date": "2026-10-19",
+        "has_images": false,
+        "words": [
+            "BOIL",
+            "FUME",
+            "RAVE",
+            "STEAM",
+            "BLATHER",
+            "GAS",
+            "HOT AIR",
+            "WIND",
+            "FLURRY",
+            "MUFFIN",
+            "NUGGETS",
+            "RIB",
+            "ALIBIS",
+            "BALLOON",
+            "ESCROW",
+            "MOHAWK"
+        ],
+        "groups": [
+            {
+                "label": "SEETHE",
+                "tier": "Yellow",
+                "members": [
+                    "BOIL",
+                    "FUME",
+                    "RAVE",
+                    "STEAM"
+                ]
+            },
+            {
+                "label": "ALL TALK",
+                "tier": "Green",
+                "members": [
+                    "BLATHER",
+                    "GAS",
+                    "HOT AIR",
+                    "WIND"
+                ]
+            },
+            {
+                "label": "\"MC\" THINGS AT MCDONALD'S",
+                "tier": "Blue",
+                "members": [
+                    "FLURRY",
+                    "MUFFIN",
+                    "NUGGETS",
+                    "RIB"
+                ]
+            },
+            {
+                "label": "ENDING IN BIRDS",
+                "tier": "Purple",
+                "members": [
+                    "ALIBIS",
+                    "BALLOON",
+                    "ESCROW",
+                    "MOHAWK"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1226,
+        "date": "2026-10-20",
+        "has_images": false,
+        "words": [
+            "CLOSE",
+            "END",
+            "STOP",
+            "WRAP",
+            "MINION",
+            "POODLE",
+            "PUPPET",
+            "STOOGE",
+            "CHEVRON",
+            "HORSESHOE",
+            "PENCIL",
+            "WALRUS",
+            "ARIAL",
+            "BELL",
+            "DOCK",
+            "MINI"
+        ],
+        "groups": [
+            {
+                "label": "FINISH",
+                "tier": "Yellow",
+                "members": [
+                    "CLOSE",
+                    "END",
+                    "STOP",
+                    "WRAP"
+                ]
+            },
+            {
+                "label": "LACKEY",
+                "tier": "Green",
+                "members": [
+                    "MINION",
+                    "POODLE",
+                    "PUPPET",
+                    "STOOGE"
+                ]
+            },
+            {
+                "label": "MUSTACHES",
+                "tier": "Blue",
+                "members": [
+                    "CHEVRON",
+                    "HORSESHOE",
+                    "PENCIL",
+                    "WALRUS"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF DISNEY CHARACTERS",
+                "tier": "Purple",
+                "members": [
+                    "ARIAL",
+                    "BELL",
+                    "DOCK",
+                    "MINI"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1227,
+        "date": "2026-10-21",
+        "has_images": false,
+        "words": [
+            "DUCK DUCK GOOSE",
+            "HOT POTATO",
+            "LEAPFROG",
+            "MUSICAL CHAIRS",
+            "ALPHA DOG",
+            "BIG CHEESE",
+            "HEAVYWEIGHT",
+            "TOP BANANA",
+            "AMERICAN GOTHIC",
+            "CAMPBELL'S SOUP CAN",
+            "SUNFLOWERS",
+            "THE SCREAM",
+            "ENGLISH HORN",
+            "GRAPE-NUTS",
+            "MANTIS SHRIMP",
+            "SWEETBREAD"
+        ],
+        "groups": [
+            {
+                "label": "CLASSIC CHILDREN'S GAMES",
+                "tier": "Yellow",
+                "members": [
+                    "DUCK DUCK GOOSE",
+                    "HOT POTATO",
+                    "LEAPFROG",
+                    "MUSICAL CHAIRS"
+                ]
+            },
+            {
+                "label": "IMPORTANT PERSON",
+                "tier": "Green",
+                "members": [
+                    "ALPHA DOG",
+                    "BIG CHEESE",
+                    "HEAVYWEIGHT",
+                    "TOP BANANA"
+                ]
+            },
+            {
+                "label": "FAMOUS PAINTINGS",
+                "tier": "Blue",
+                "members": [
+                    "AMERICAN GOTHIC",
+                    "CAMPBELL'S SOUP CAN",
+                    "SUNFLOWERS",
+                    "THE SCREAM"
+                ]
+            },
+            {
+                "label": "DOUBLE MISNOMERS (NEITHER WORD IS AN ACCURATE DESCRIPTION)",
+                "tier": "Purple",
+                "members": [
+                    "ENGLISH HORN",
+                    "GRAPE-NUTS",
+                    "MANTIS SHRIMP",
+                    "SWEETBREAD"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1228,
+        "date": "2026-10-22",
+        "has_images": false,
+        "words": [
+            "GRIP",
+            "HANDLE",
+            "HILT",
+            "KNOB",
+            "BUST",
+            "MOBILE",
+            "RELIEF",
+            "STATUE",
+            "END",
+            "GUARD",
+            "SAFETY",
+            "TACKLE",
+            "BLANK",
+            "COMFORT",
+            "PILL",
+            "SHE"
+        ],
+        "groups": [
+            {
+                "label": "PARTS TO BE GRASPED",
+                "tier": "Yellow",
+                "members": [
+                    "GRIP",
+                    "HANDLE",
+                    "HILT",
+                    "KNOB"
+                ]
+            },
+            {
+                "label": "KINDS OF SCULPTURES",
+                "tier": "Green",
+                "members": [
+                    "BUST",
+                    "MOBILE",
+                    "RELIEF",
+                    "STATUE"
+                ]
+            },
+            {
+                "label": "AMERICAN FOOTBALL POSITIONS",
+                "tier": "Blue",
+                "members": [
+                    "END",
+                    "GUARD",
+                    "SAFETY",
+                    "TACKLE"
+                ]
+            },
+            {
+                "label": "STARTS OF BEDDING",
+                "tier": "Purple",
+                "members": [
+                    "BLANK",
+                    "COMFORT",
+                    "PILL",
+                    "SHE"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1229,
+        "date": "2026-10-23",
+        "has_images": false,
+        "words": [
+            "DIRECT",
+            "FRANK",
+            "OPEN",
+            "VOCAL",
+            "DRIVER",
+            "EXTENSION",
+            "PLUGIN",
+            "UPDATE",
+            "DISTANCE",
+            "FORCE",
+            "POWER",
+            "TIME",
+            "DOUBLE",
+            "LOVE",
+            "PHONE",
+            "SPINAL"
+        ],
+        "groups": [
+            {
+                "label": "FORTHRIGHT",
+                "tier": "Yellow",
+                "members": [
+                    "DIRECT",
+                    "FRANK",
+                    "OPEN",
+                    "VOCAL"
+                ]
+            },
+            {
+                "label": "THINGS YOU INSTALL ON A COMPUTER",
+                "tier": "Green",
+                "members": [
+                    "DRIVER",
+                    "EXTENSION",
+                    "PLUGIN",
+                    "UPDATE"
+                ]
+            },
+            {
+                "label": "QUANTITIES IN A FORMULA FOR POWER",
+                "tier": "Blue",
+                "members": [
+                    "DISTANCE",
+                    "FORCE",
+                    "POWER",
+                    "TIME"
+                ]
+            },
+            {
+                "label": "___ TAP",
+                "tier": "Purple",
+                "members": [
+                    "DOUBLE",
+                    "LOVE",
+                    "PHONE",
+                    "SPINAL"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1230,
+        "date": "2026-10-24",
+        "has_images": false,
+        "words": [
+            "BACON",
+            "COMIC",
+            "FILM",
+            "M\u00d6BIUS",
+            "HOBBY HORSE",
+            "PINWHEEL",
+            "POPSICLE",
+            "SPARKLER",
+            "BANNER",
+            "INTERSTITIAL",
+            "OVERLAY",
+            "POP-UP",
+            "CANDY",
+            "SALAD",
+            "SPACE",
+            "SPORTS"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF STRIPS",
+                "tier": "Yellow",
+                "members": [
+                    "BACON",
+                    "COMIC",
+                    "FILM",
+                    "M\u00d6BIUS"
+                ]
+            },
+            {
+                "label": "THINGS ON STICKS",
+                "tier": "Green",
+                "members": [
+                    "HOBBY HORSE",
+                    "PINWHEEL",
+                    "POPSICLE",
+                    "SPARKLER"
+                ]
+            },
+            {
+                "label": "ONLINE AD FORMATS",
+                "tier": "Blue",
+                "members": [
+                    "BANNER",
+                    "INTERSTITIAL",
+                    "OVERLAY",
+                    "POP-UP"
+                ]
+            },
+            {
+                "label": "___ BAR",
+                "tier": "Purple",
+                "members": [
+                    "CANDY",
+                    "SALAD",
+                    "SPACE",
+                    "SPORTS"
+                ]
+            }
+        ]
     }
 ]
