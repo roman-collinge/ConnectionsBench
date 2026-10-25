@@ -80772,5 +80772,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1231,
+        "date": "2026-10-25",
+        "has_images": false,
+        "words": [
+            "BOOST",
+            "PALM",
+            "POCKET",
+            "SWIPE",
+            "BOW TIE",
+            "ELBOW",
+            "SHELL",
+            "WAGON WHEEL",
+            "RIPLEY",
+            "SAWYER",
+            "SWIFT",
+            "THUMB",
+            "FINGERS",
+            "FOOTBALL",
+            "GLOW STICK",
+            "RUBBER BAND"
+        ],
+        "groups": [
+            {
+                "label": "STEAL",
+                "tier": "Yellow",
+                "members": [
+                    "BOOST",
+                    "PALM",
+                    "POCKET",
+                    "SWIPE"
+                ]
+            },
+            {
+                "label": "PASTA SHAPES",
+                "tier": "Green",
+                "members": [
+                    "BOW TIE",
+                    "ELBOW",
+                    "SHELL",
+                    "WAGON WHEEL"
+                ]
+            },
+            {
+                "label": "FICTIONAL TOMS",
+                "tier": "Blue",
+                "members": [
+                    "RIPLEY",
+                    "SAWYER",
+                    "SWIFT",
+                    "THUMB"
+                ]
+            },
+            {
+                "label": "THINGS THAT CAN BE SNAPPED",
+                "tier": "Purple",
+                "members": [
+                    "FINGERS",
+                    "FOOTBALL",
+                    "GLOW STICK",
+                    "RUBBER BAND"
+                ]
+            }
+        ]
     }
 ]
