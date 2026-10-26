@@ -80838,5 +80838,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1232,
+        "date": "2026-10-26",
+        "has_images": false,
+        "words": [
+            "CHILLING",
+            "MANAGING",
+            "NOT BAD",
+            "SAME OLD",
+            "PRAYER",
+            "WELCOME",
+            "WRESTLING",
+            "YOGA",
+            "HERDING",
+            "HOUND",
+            "SPORTING",
+            "TOY",
+            "HALLOWEEK",
+            "HOSTED",
+            "JAWN",
+            "PSYCHS"
+        ],
+        "groups": [
+            {
+                "label": "RESPONSES TO \"HOW ARE YOU?\"",
+                "tier": "Yellow",
+                "members": [
+                    "CHILLING",
+                    "MANAGING",
+                    "NOT BAD",
+                    "SAME OLD"
+                ]
+            },
+            {
+                "label": "KINDS OF MATS",
+                "tier": "Green",
+                "members": [
+                    "PRAYER",
+                    "WELCOME",
+                    "WRESTLING",
+                    "YOGA"
+                ]
+            },
+            {
+                "label": "AKC DOG BREED GROUPS",
+                "tier": "Blue",
+                "members": [
+                    "HERDING",
+                    "HOUND",
+                    "SPORTING",
+                    "TOY"
+                ]
+            },
+            {
+                "label": "HORROR MOVIES WITH LAST LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "HALLOWEEK",
+                    "HOSTED",
+                    "JAWN",
+                    "PSYCHS"
+                ]
+            }
+        ]
     }
 ]
