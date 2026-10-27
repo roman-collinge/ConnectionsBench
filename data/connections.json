@@ -80904,5 +80904,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1233,
+        "date": "2026-10-27",
+        "has_images": false,
+        "words": [
+            "FIDDLE",
+            "MEDDLE",
+            "TINKER",
+            "TRIFLE",
+            "ANVIL",
+            "CANAL",
+            "DRUM",
+            "STIRRUP",
+            "DIVING",
+            "JINGLE",
+            "LIBERTY",
+            "TACO",
+            "BOTTOMS",
+            "JAR",
+            "PEPPER",
+            "TOWER"
+        ],
+        "groups": [
+            {
+                "label": "MESS (WITH)",
+                "tier": "Yellow",
+                "members": [
+                    "FIDDLE",
+                    "MEDDLE",
+                    "TINKER",
+                    "TRIFLE"
+                ]
+            },
+            {
+                "label": "PARTS OF THE EAR",
+                "tier": "Green",
+                "members": [
+                    "ANVIL",
+                    "CANAL",
+                    "DRUM",
+                    "STIRRUP"
+                ]
+            },
+            {
+                "label": "___ BELL",
+                "tier": "Blue",
+                "members": [
+                    "DIVING",
+                    "JINGLE",
+                    "LIBERTY",
+                    "TACO"
+                ]
+            },
+            {
+                "label": "BELL ___",
+                "tier": "Purple",
+                "members": [
+                    "BOTTOMS",
+                    "JAR",
+                    "PEPPER",
+                    "TOWER"
+                ]
+            }
+        ]
     }
 ]
