@@ -80970,5 +80970,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1234,
+        "date": "2026-10-28",
+        "has_images": false,
+        "words": [
+            "ATTRACTION",
+            "CRUSH",
+            "FEELINGS",
+            "INTEREST",
+            "ATTACHMENT",
+            "BODY",
+            "SIGNATURE",
+            "SUBJECT",
+            "CURIOSITY",
+            "OPPORTUNITY",
+            "PERSEVERANCE",
+            "SPIRIT",
+            "COARSE",
+            "RODE",
+            "ROUT",
+            "WEIGH"
+        ],
+        "groups": [
+            {
+                "label": "ROMANTIC LIKING",
+                "tier": "Yellow",
+                "members": [
+                    "ATTRACTION",
+                    "CRUSH",
+                    "FEELINGS",
+                    "INTEREST"
+                ]
+            },
+            {
+                "label": "COMPONENTS OF AN EMAIL",
+                "tier": "Green",
+                "members": [
+                    "ATTACHMENT",
+                    "BODY",
+                    "SIGNATURE",
+                    "SUBJECT"
+                ]
+            },
+            {
+                "label": "NASA MARS ROVERS",
+                "tier": "Blue",
+                "members": [
+                    "CURIOSITY",
+                    "OPPORTUNITY",
+                    "PERSEVERANCE",
+                    "SPIRIT"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF PATHS",
+                "tier": "Purple",
+                "members": [
+                    "COARSE",
+                    "RODE",
+                    "ROUT",
+                    "WEIGH"
+                ]
+            }
+        ]
     }
 ]
