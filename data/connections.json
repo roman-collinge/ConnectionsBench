@@ -81036,5 +81036,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1235,
+        "date": "2026-10-29",
+        "has_images": false,
+        "words": [
+            "PARKING METER",
+            "PAYPHONE",
+            "PIGGY BANK",
+            "WISHING WELL",
+            "ANTARCTICA",
+            "EMPEROR",
+            "TUXEDO",
+            "WADDLE",
+            "GOTHIC",
+            "ROMAN",
+            "SANS",
+            "TYPEWRITER",
+            "CALICO",
+            "CANDY CORN",
+            "NEAPOLITAN",
+            "TRAFFIC LIGHT"
+        ],
+        "groups": [
+            {
+                "label": "THINGS YOU PUT COINS INTO",
+                "tier": "Yellow",
+                "members": [
+                    "PARKING METER",
+                    "PAYPHONE",
+                    "PIGGY BANK",
+                    "WISHING WELL"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH PENGUINS",
+                "tier": "Green",
+                "members": [
+                    "ANTARCTICA",
+                    "EMPEROR",
+                    "TUXEDO",
+                    "WADDLE"
+                ]
+            },
+            {
+                "label": "ENDS OF FAMOUS FONTS",
+                "tier": "Blue",
+                "members": [
+                    "GOTHIC",
+                    "ROMAN",
+                    "SANS",
+                    "TYPEWRITER"
+                ]
+            },
+            {
+                "label": "THINGS THAT FEATURE THREE COLORS",
+                "tier": "Purple",
+                "members": [
+                    "CALICO",
+                    "CANDY CORN",
+                    "NEAPOLITAN",
+                    "TRAFFIC LIGHT"
+                ]
+            }
+        ]
     }
 ]
