@@ -81102,5 +81102,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1236,
+        "date": "2026-10-30",
+        "has_images": false,
+        "words": [
+            "FLASH",
+            "LENS",
+            "SHUTTER",
+            "VIEWFINDER",
+            "BACKDROP",
+            "CURTAIN",
+            "PIT",
+            "WINGS",
+            "HANDS",
+            "PILLOW",
+            "RUG",
+            "SHADE",
+            "DEMON",
+            "DRAPE",
+            "GLUM",
+            "GRANGE"
+        ],
+        "groups": [
+            {
+                "label": "PARTS OF A CAMERA",
+                "tier": "Yellow",
+                "members": [
+                    "FLASH",
+                    "LENS",
+                    "SHUTTER",
+                    "VIEWFINDER"
+                ]
+            },
+            {
+                "label": "AROUND A THEATER STAGE",
+                "tier": "Green",
+                "members": [
+                    "BACKDROP",
+                    "CURTAIN",
+                    "PIT",
+                    "WINGS"
+                ]
+            },
+            {
+                "label": "THROW ___",
+                "tier": "Blue",
+                "members": [
+                    "HANDS",
+                    "PILLOW",
+                    "RUG",
+                    "SHADE"
+                ]
+            },
+            {
+                "label": "FRUIT WITH FIRST LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "DEMON",
+                    "DRAPE",
+                    "GLUM",
+                    "GRANGE"
+                ]
+            }
+        ]
     }
 ]
