@@ -81168,5 +81168,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1237,
+        "date": "2026-10-31",
+        "has_images": false,
+        "words": [
+            "GNARLY",
+            "KILLER",
+            "SICK",
+            "WICKED",
+            "DIRTY",
+            "DRY",
+            "SHAKEN",
+            "UP",
+            "GUITAR",
+            "MARIONETTE",
+            "TASSEL",
+            "TENNIS RACKET",
+            "DOWNFALL",
+            "SHAKESPEARE",
+            "SITCOM",
+            "STAYCATION"
+        ],
+        "groups": [
+            {
+                "label": "WORDS MEANING GOOD THAT SOUND BAD",
+                "tier": "Yellow",
+                "members": [
+                    "GNARLY",
+                    "KILLER",
+                    "SICK",
+                    "WICKED"
+                ]
+            },
+            {
+                "label": "MARTINI SPECIFICATIONS",
+                "tier": "Green",
+                "members": [
+                    "DIRTY",
+                    "DRY",
+                    "SHAKEN",
+                    "UP"
+                ]
+            },
+            {
+                "label": "THINGS WITH STRINGS",
+                "tier": "Blue",
+                "members": [
+                    "GUITAR",
+                    "MARIONETTE",
+                    "TASSEL",
+                    "TENNIS RACKET"
+                ]
+            },
+            {
+                "label": "STARTING WITH DOG COMMANDS",
+                "tier": "Purple",
+                "members": [
+                    "DOWNFALL",
+                    "SHAKESPEARE",
+                    "SITCOM",
+                    "STAYCATION"
+                ]
+            }
+        ]
     }
 ]
