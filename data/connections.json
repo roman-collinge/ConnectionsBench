@@ -81234,5 +81234,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1238,
+        "date": "2026-11-01",
+        "has_images": false,
+        "words": [
+            "BICUSPID",
+            "CANINE",
+            "INCISOR",
+            "MOLAR",
+            "BROTHERLY",
+            "PUPPY",
+            "SELF",
+            "UNREQUITED",
+            "FIEND",
+            "HEAD",
+            "HOUND",
+            "LOVER",
+            "DOGGY",
+            "MATURATED",
+            "TRENCHED",
+            "TRIPPING"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF TEETH",
+                "tier": "Yellow",
+                "members": [
+                    "BICUSPID",
+                    "CANINE",
+                    "INCISOR",
+                    "MOLAR"
+                ]
+            },
+            {
+                "label": "KINDS OF LOVE",
+                "tier": "Green",
+                "members": [
+                    "BROTHERLY",
+                    "PUPPY",
+                    "SELF",
+                    "UNREQUITED"
+                ]
+            },
+            {
+                "label": "ENTHUSIAST",
+                "tier": "Blue",
+                "members": [
+                    "FIEND",
+                    "HEAD",
+                    "HOUND",
+                    "LOVER"
+                ]
+            },
+            {
+                "label": "SYNONYMS FOR \"SOAKED\" WITH FIRST LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "DOGGY",
+                    "MATURATED",
+                    "TRENCHED",
+                    "TRIPPING"
+                ]
+            }
+        ]
     }
 ]
