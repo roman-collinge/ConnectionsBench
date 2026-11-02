@@ -81300,5 +81300,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1239,
+        "date": "2026-11-02",
+        "has_images": false,
+        "words": [
+            "BACKPACK",
+            "COMPASS",
+            "HIKING BOOTS",
+            "WATER BOTTLE",
+            "INCENSE",
+            "NETTLE",
+            "PIQUE",
+            "WIND UP",
+            "DRY ICE",
+            "FOG MACHINE",
+            "HUMIDIFIER",
+            "WATERFALL",
+            "DISCO BALL",
+            "DRESSING ROOM",
+            "KALEIDOSCOPE",
+            "MEDICINE CABINET"
+        ],
+        "groups": [
+            {
+                "label": "THINGS TO BRING ON A TREK",
+                "tier": "Yellow",
+                "members": [
+                    "BACKPACK",
+                    "COMPASS",
+                    "HIKING BOOTS",
+                    "WATER BOTTLE"
+                ]
+            },
+            {
+                "label": "ANGER",
+                "tier": "Green",
+                "members": [
+                    "INCENSE",
+                    "NETTLE",
+                    "PIQUE",
+                    "WIND UP"
+                ]
+            },
+            {
+                "label": "MIST MAKERS",
+                "tier": "Blue",
+                "members": [
+                    "DRY ICE",
+                    "FOG MACHINE",
+                    "HUMIDIFIER",
+                    "WATERFALL"
+                ]
+            },
+            {
+                "label": "THINGS WITH MIRRORS",
+                "tier": "Purple",
+                "members": [
+                    "DISCO BALL",
+                    "DRESSING ROOM",
+                    "KALEIDOSCOPE",
+                    "MEDICINE CABINET"
+                ]
+            }
+        ]
     }
 ]
