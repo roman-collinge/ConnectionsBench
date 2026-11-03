@@ -81366,5 +81366,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1240,
+        "date": "2026-11-03",
+        "has_images": false,
+        "words": [
+            "CARRY ON",
+            "CONTINUE",
+            "PROCEED",
+            "RESUME",
+            "OFFICE CHAIR",
+            "ROLLER BAG",
+            "SHOPPING CART",
+            "STROLLER",
+            "CHECK",
+            "FOOD",
+            "MENU",
+            "TAP WATER",
+            "CREDIT",
+            "INTERVIEW",
+            "PROFILE",
+            "WHELP"
+        ],
+        "groups": [
+            {
+                "label": "KEEP GOING",
+                "tier": "Yellow",
+                "members": [
+                    "CARRY ON",
+                    "CONTINUE",
+                    "PROCEED",
+                    "RESUME"
+                ]
+            },
+            {
+                "label": "THINGS WITH WHEELS",
+                "tier": "Green",
+                "members": [
+                    "OFFICE CHAIR",
+                    "ROLLER BAG",
+                    "SHOPPING CART",
+                    "STROLLER"
+                ]
+            },
+            {
+                "label": "THINGS A SERVER BRINGS AT A RESTAURANT",
+                "tier": "Blue",
+                "members": [
+                    "CHECK",
+                    "FOOD",
+                    "MENU",
+                    "TAP WATER"
+                ]
+            },
+            {
+                "label": "ENDING IN MENU BAR HEADINGS",
+                "tier": "Purple",
+                "members": [
+                    "CREDIT",
+                    "INTERVIEW",
+                    "PROFILE",
+                    "WHELP"
+                ]
+            }
+        ]
     }
 ]
