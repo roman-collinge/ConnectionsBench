@@ -81432,5 +81432,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1241,
+        "date": "2026-11-04",
+        "has_images": false,
+        "words": [
+            "DOORSTOP",
+            "FLATIRON BUILDING",
+            "PIE SLICE",
+            "WEDGE",
+            "BLEACH",
+            "IRON",
+            "TUMBLE DRY",
+            "WRING",
+            "LOLL",
+            "POKE",
+            "PUTTER",
+            "SHUFFLE",
+            "CRACKER",
+            "FLY",
+            "WOOD",
+            "WORKS"
+        ],
+        "groups": [
+            {
+                "label": "TRIANGULAR PRISMS WITH A SHARP EDGE",
+                "tier": "Yellow",
+                "members": [
+                    "DOORSTOP",
+                    "FLATIRON BUILDING",
+                    "PIE SLICE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "label": "WORDS AFTER \"DO NOT\" ON A CARE LABEL",
+                "tier": "Green",
+                "members": [
+                    "BLEACH",
+                    "IRON",
+                    "TUMBLE DRY",
+                    "WRING"
+                ]
+            },
+            {
+                "label": "MOVE IDLY, WITH \"AROUND\"",
+                "tier": "Blue",
+                "members": [
+                    "LOLL",
+                    "POKE",
+                    "PUTTER",
+                    "SHUFFLE"
+                ]
+            },
+            {
+                "label": "FIRE___",
+                "tier": "Purple",
+                "members": [
+                    "CRACKER",
+                    "FLY",
+                    "WOOD",
+                    "WORKS"
+                ]
+            }
+        ]
     }
 ]
