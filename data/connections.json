@@ -81498,5 +81498,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1242,
+        "date": "2026-11-05",
+        "has_images": false,
+        "words": [
+            "KITTEN",
+            "PLATFORM",
+            "SPIKE",
+            "WEDGE",
+            "ANEMONE",
+            "LOTUS",
+            "NARCISSUS",
+            "ROSE",
+            "PEAR",
+            "RAINDROP",
+            "SPEEDBAG",
+            "UVULA",
+            "BRANDO",
+            "GIG",
+            "RUN",
+            "WHISKER"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF HEELS",
+                "tier": "Yellow",
+                "members": [
+                    "KITTEN",
+                    "PLATFORM",
+                    "SPIKE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "label": "FLOWERS",
+                "tier": "Green",
+                "members": [
+                    "ANEMONE",
+                    "LOTUS",
+                    "NARCISSUS",
+                    "ROSE"
+                ]
+            },
+            {
+                "label": "TEARDROP-SHAPED THINGS",
+                "tier": "Blue",
+                "members": [
+                    "PEAR",
+                    "RAINDROP",
+                    "SPEEDBAG",
+                    "UVULA"
+                ]
+            },
+            {
+                "label": "LIQUORS WITH LAST LETTERS CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "BRANDO",
+                    "GIG",
+                    "RUN",
+                    "WHISKER"
+                ]
+            }
+        ]
     }
 ]
