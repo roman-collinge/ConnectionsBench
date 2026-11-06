@@ -81564,5 +81564,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1243,
+        "date": "2026-11-06",
+        "has_images": false,
+        "words": [
+            "CONSTITUTION",
+            "FABRIC",
+            "MAKEUP",
+            "STRUCTURE",
+            "BACKUP",
+            "EXTRA",
+            "REPLACEMENT",
+            "SPARE",
+            "FLATBED",
+            "PICKUP",
+            "SEMI",
+            "TANKER",
+            "HOT ROD",
+            "OSIRIS",
+            "TRAFFIC CONE",
+            "WOOLENS"
+        ],
+        "groups": [
+            {
+                "label": "COMPOSITION",
+                "tier": "Yellow",
+                "members": [
+                    "CONSTITUTION",
+                    "FABRIC",
+                    "MAKEUP",
+                    "STRUCTURE"
+                ]
+            },
+            {
+                "label": "COPY",
+                "tier": "Green",
+                "members": [
+                    "BACKUP",
+                    "EXTRA",
+                    "REPLACEMENT",
+                    "SPARE"
+                ]
+            },
+            {
+                "label": "KINDS OF TRUCKS",
+                "tier": "Blue",
+                "members": [
+                    "FLATBED",
+                    "PICKUP",
+                    "SEMI",
+                    "TANKER"
+                ]
+            },
+            {
+                "label": "ENDING IN PARTS OF THE EYE",
+                "tier": "Purple",
+                "members": [
+                    "HOT ROD",
+                    "OSIRIS",
+                    "TRAFFIC CONE",
+                    "WOOLENS"
+                ]
+            }
+        ]
     }
 ]
