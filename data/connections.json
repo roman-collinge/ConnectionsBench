@@ -81630,5 +81630,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1244,
+        "date": "2026-11-07",
+        "has_images": false,
+        "words": [
+            "BOOTY",
+            "BOUNTY",
+            "SPOILS",
+            "TREASURE",
+            "HENLEY",
+            "POLO",
+            "RAGLAN",
+            "RINGER",
+            "NEW",
+            "NORTH",
+            "RHODE",
+            "SOUTH",
+            "CANE",
+            "CLONE",
+            "EASTER",
+            "SOON"
+        ],
+        "groups": [
+            {
+                "label": "PIRATE'S PLUNDER",
+                "tier": "Yellow",
+                "members": [
+                    "BOOTY",
+                    "BOUNTY",
+                    "SPOILS",
+                    "TREASURE"
+                ]
+            },
+            {
+                "label": "KINDS OF SHIRTS",
+                "tier": "Green",
+                "members": [
+                    "HENLEY",
+                    "POLO",
+                    "RAGLAN",
+                    "RINGER"
+                ]
+            },
+            {
+                "label": "FIRST WORDS OF U.S. STATE NAMES",
+                "tier": "Blue",
+                "members": [
+                    "NEW",
+                    "NORTH",
+                    "RHODE",
+                    "SOUTH"
+                ]
+            },
+            {
+                "label": "ENDS OF STORM TYPES",
+                "tier": "Purple",
+                "members": [
+                    "CANE",
+                    "CLONE",
+                    "EASTER",
+                    "SOON"
+                ]
+            }
+        ]
     }
 ]
