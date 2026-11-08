@@ -81696,5 +81696,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1245,
+        "date": "2026-11-08",
+        "has_images": false,
+        "words": [
+            "BUILT",
+            "CUT",
+            "JACKED",
+            "RIPPED",
+            "BLOWOUT",
+            "COLOR",
+            "EXTENSIONS",
+            "TRIM",
+            "CLARITY",
+            "CONTEXT",
+            "INSIGHT",
+            "PERSPECTIVE",
+            "CARAT",
+            "CHARRED",
+            "KORN",
+            "LEAK"
+        ],
+        "groups": [
+            {
+                "label": "MUSCULAR",
+                "tier": "Yellow",
+                "members": [
+                    "BUILT",
+                    "CUT",
+                    "JACKED",
+                    "RIPPED"
+                ]
+            },
+            {
+                "label": "HAIR SALON SERVICES",
+                "tier": "Green",
+                "members": [
+                    "BLOWOUT",
+                    "COLOR",
+                    "EXTENSIONS",
+                    "TRIM"
+                ]
+            },
+            {
+                "label": "THINGS THAT HELP MAKE SENSE OF A SITUATION",
+                "tier": "Blue",
+                "members": [
+                    "CLARITY",
+                    "CONTEXT",
+                    "INSIGHT",
+                    "PERSPECTIVE"
+                ]
+            },
+            {
+                "label": "VEGETABLE HOMOPHONES",
+                "tier": "Purple",
+                "members": [
+                    "CARAT",
+                    "CHARRED",
+                    "KORN",
+                    "LEAK"
+                ]
+            }
+        ]
     }
 ]
