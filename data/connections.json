@@ -81894,5 +81894,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1248,
+        "date": "2026-11-11",
+        "has_images": false,
+        "words": [
+            "FOLK",
+            "HERBAL",
+            "HOLISTIC",
+            "TRADITIONAL",
+            "GREEN",
+            "ROUGH",
+            "SAND TRAP",
+            "TEE BOX",
+            "AIR MATTRESS",
+            "BUBBLE",
+            "TIRE",
+            "WHOOPIE CUSHION",
+            "AFTERNOON",
+            "PATOOT",
+            "RHEOSTATS",
+            "SHREDDER"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF MEDICINE",
+                "tier": "Yellow",
+                "members": [
+                    "FOLK",
+                    "HERBAL",
+                    "HOLISTIC",
+                    "TRADITIONAL"
+                ]
+            },
+            {
+                "label": "PARTS OF A GOLF COURSE",
+                "tier": "Green",
+                "members": [
+                    "GREEN",
+                    "ROUGH",
+                    "SAND TRAP",
+                    "TEE BOX"
+                ]
+            },
+            {
+                "label": "THINGS FILLED WITH AIR",
+                "tier": "Blue",
+                "members": [
+                    "AIR MATTRESS",
+                    "BUBBLE",
+                    "TIRE",
+                    "WHOOPIE CUSHION"
+                ]
+            },
+            {
+                "label": "ENDING IN PALINDROMES",
+                "tier": "Purple",
+                "members": [
+                    "AFTERNOON",
+                    "PATOOT",
+                    "RHEOSTATS",
+                    "SHREDDER"
+                ]
+            }
+        ]
     }
 ]
