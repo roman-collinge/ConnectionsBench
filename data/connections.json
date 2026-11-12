@@ -81960,5 +81960,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1249,
+        "date": "2026-11-12",
+        "has_images": false,
+        "words": [
+            "GOOD HEAVENS",
+            "GREAT SCOTT",
+            "HOLY SMOKES",
+            "JIMINY CRICKET",
+            "CHANGE PURSE",
+            "FLUX CAPACITOR",
+            "SHIFT DRESS",
+            "SWING SET",
+            "ARCTIC CHAR",
+            "COMEDY ROAST",
+            "DOC BROWN",
+            "YOU'RE TOAST",
+            "GLADIATOR SANDALS",
+            "MARTY MCFLY",
+            "MOONLIGHT SONATA",
+            "ROCKY ROAD"
+        ],
+        "groups": [
+            {
+                "label": "\"GADZOOKS!\"",
+                "tier": "Yellow",
+                "members": [
+                    "GOOD HEAVENS",
+                    "GREAT SCOTT",
+                    "HOLY SMOKES",
+                    "JIMINY CRICKET"
+                ]
+            },
+            {
+                "label": "STARTING WITH VARIATIONS",
+                "tier": "Green",
+                "members": [
+                    "CHANGE PURSE",
+                    "FLUX CAPACITOR",
+                    "SHIFT DRESS",
+                    "SWING SET"
+                ]
+            },
+            {
+                "label": "ENDING IN WAYS TO COOK THINGS",
+                "tier": "Blue",
+                "members": [
+                    "ARCTIC CHAR",
+                    "COMEDY ROAST",
+                    "DOC BROWN",
+                    "YOU'RE TOAST"
+                ]
+            },
+            {
+                "label": "STARTING WITH BEST PICTURE OSCAR WINNERS",
+                "tier": "Purple",
+                "members": [
+                    "GLADIATOR SANDALS",
+                    "MARTY MCFLY",
+                    "MOONLIGHT SONATA",
+                    "ROCKY ROAD"
+                ]
+            }
+        ]
     }
 ]
