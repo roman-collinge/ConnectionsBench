@@ -82026,5 +82026,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1250,
+        "date": "2026-11-13",
+        "has_images": false,
+        "words": [
+            "BROWSE",
+            "SCROLL",
+            "SEARCH",
+            "SURF",
+            "COVERAGE",
+            "EXPOSURE",
+            "PRESS",
+            "PUBLICITY",
+            "BARGE",
+            "GLIDER",
+            "TRAILER",
+            "WATER SKIER",
+            "FREEZE",
+            "TEASER",
+            "TRUST",
+            "WAVES"
+        ],
+        "groups": [
+            {
+                "label": "USE THE INTERNET",
+                "tier": "Yellow",
+                "members": [
+                    "BROWSE",
+                    "SCROLL",
+                    "SEARCH",
+                    "SURF"
+                ]
+            },
+            {
+                "label": "MEDIA ATTENTION",
+                "tier": "Green",
+                "members": [
+                    "COVERAGE",
+                    "EXPOSURE",
+                    "PRESS",
+                    "PUBLICITY"
+                ]
+            },
+            {
+                "label": "THINGS THAT ARE TOWED",
+                "tier": "Blue",
+                "members": [
+                    "BARGE",
+                    "GLIDER",
+                    "TRAILER",
+                    "WATER SKIER"
+                ]
+            },
+            {
+                "label": "BRAIN ___",
+                "tier": "Purple",
+                "members": [
+                    "FREEZE",
+                    "TEASER",
+                    "TRUST",
+                    "WAVES"
+                ]
+            }
+        ]
     }
 ]
