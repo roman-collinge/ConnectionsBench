@@ -82092,5 +82092,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1251,
+        "date": "2026-11-14",
+        "has_images": false,
+        "words": [
+            "ADVANCED",
+            "FOREMOST",
+            "MODERN",
+            "PROGRESSIVE",
+            "CAMPUS",
+            "CENTER",
+            "COMPLEX",
+            "FACILITY",
+            "CHESS",
+            "GO",
+            "OTHELLO",
+            "STRATEGO",
+            "BATTLE",
+            "MARRIAGE",
+            "MOTTLE",
+            "TRIB"
+        ],
+        "groups": [
+            {
+                "label": "CUTTING-EDGE",
+                "tier": "Yellow",
+                "members": [
+                    "ADVANCED",
+                    "FOREMOST",
+                    "MODERN",
+                    "PROGRESSIVE"
+                ]
+            },
+            {
+                "label": "LOCATIONS FOR AN INSTITUTION",
+                "tier": "Green",
+                "members": [
+                    "CAMPUS",
+                    "CENTER",
+                    "COMPLEX",
+                    "FACILITY"
+                ]
+            },
+            {
+                "label": "STRATEGY BOARD GAMES",
+                "tier": "Blue",
+                "members": [
+                    "CHESS",
+                    "GO",
+                    "OTHELLO",
+                    "STRATEGO"
+                ]
+            },
+            {
+                "label": "BABY GEAR WITH FIRST LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "BATTLE",
+                    "MARRIAGE",
+                    "MOTTLE",
+                    "TRIB"
+                ]
+            }
+        ]
     }
 ]
