@@ -82158,5 +82158,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1252,
+        "date": "2026-11-15",
+        "has_images": false,
+        "words": [
+            "ALL-TIME",
+            "HISTORIC",
+            "RECORD",
+            "UNPRECEDENTED",
+            "DRESS CODE",
+            "REGISTRY",
+            "RSVP",
+            "TRAVEL",
+            "ASTRAL",
+            "CARTESIAN",
+            "INCLINED",
+            "JET",
+            "ARCHIVE",
+            "OCTONION",
+            "RAPSCALLION",
+            "SLEEK"
+        ],
+        "groups": [
+            {
+                "label": "UNMATCHED",
+                "tier": "Yellow",
+                "members": [
+                    "ALL-TIME",
+                    "HISTORIC",
+                    "RECORD",
+                    "UNPRECEDENTED"
+                ]
+            },
+            {
+                "label": "WEDDING WEBSITE SECTIONS",
+                "tier": "Green",
+                "members": [
+                    "DRESS CODE",
+                    "REGISTRY",
+                    "RSVP",
+                    "TRAVEL"
+                ]
+            },
+            {
+                "label": "___ PLANE",
+                "tier": "Blue",
+                "members": [
+                    "ASTRAL",
+                    "CARTESIAN",
+                    "INCLINED",
+                    "JET"
+                ]
+            },
+            {
+                "label": "ENDING IN VEGETABLES IN THE ALLIUM FAMILY",
+                "tier": "Purple",
+                "members": [
+                    "ARCHIVE",
+                    "OCTONION",
+                    "RAPSCALLION",
+                    "SLEEK"
+                ]
+            }
+        ]
     }
 ]
