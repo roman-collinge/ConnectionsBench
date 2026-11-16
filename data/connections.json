@@ -82224,5 +82224,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1253,
+        "date": "2026-11-16",
+        "has_images": false,
+        "words": [
+            "BLOCKBUSTER",
+            "CAMP",
+            "SAUSAGE",
+            "SCHOOL",
+            "CHICKEN",
+            "CLEANING",
+            "ONION",
+            "WATER",
+            "GARDEN",
+            "GLOVES",
+            "MELON",
+            "WONDERLAND",
+            "ASLEEP",
+            "FOLIAGE",
+            "GUY",
+            "IN LOVE"
+        ],
+        "groups": [
+            {
+                "label": "SUMMER ___",
+                "tier": "Yellow",
+                "members": [
+                    "BLOCKBUSTER",
+                    "CAMP",
+                    "SAUSAGE",
+                    "SCHOOL"
+                ]
+            },
+            {
+                "label": "SPRING ___",
+                "tier": "Green",
+                "members": [
+                    "CHICKEN",
+                    "CLEANING",
+                    "ONION",
+                    "WATER"
+                ]
+            },
+            {
+                "label": "WINTER ___",
+                "tier": "Blue",
+                "members": [
+                    "GARDEN",
+                    "GLOVES",
+                    "MELON",
+                    "WONDERLAND"
+                ]
+            },
+            {
+                "label": "FALL ___",
+                "tier": "Purple",
+                "members": [
+                    "ASLEEP",
+                    "FOLIAGE",
+                    "GUY",
+                    "IN LOVE"
+                ]
+            }
+        ]
     }
 ]
