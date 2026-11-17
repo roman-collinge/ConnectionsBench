@@ -82290,5 +82290,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1254,
+        "date": "2026-11-17",
+        "has_images": false,
+        "words": [
+            "ASSEMBLE",
+            "COME TOGETHER",
+            "FLOCK",
+            "GATHER",
+            "BLACKBIRD",
+            "PIE",
+            "RYE",
+            "SIXPENCE",
+            "AIRPLANE",
+            "HELP",
+            "SHAZAM",
+            "THEM",
+            "KINGPIN",
+            "MASKED BALL",
+            "PENNY LANE",
+            "VALLEY"
+        ],
+        "groups": [
+            {
+                "label": "CONVENE",
+                "tier": "Yellow",
+                "members": [
+                    "ASSEMBLE",
+                    "COME TOGETHER",
+                    "FLOCK",
+                    "GATHER"
+                ]
+            },
+            {
+                "label": "THINGS IN \"SING A SONG OF SIXPENCE\"",
+                "tier": "Green",
+                "members": [
+                    "BLACKBIRD",
+                    "PIE",
+                    "RYE",
+                    "SIXPENCE"
+                ]
+            },
+            {
+                "label": "FILMS WITH \"!\" IN THE TITLE",
+                "tier": "Blue",
+                "members": [
+                    "AIRPLANE",
+                    "HELP",
+                    "SHAZAM",
+                    "THEM"
+                ]
+            },
+            {
+                "label": "ENDING IN BOWLING TERMS",
+                "tier": "Purple",
+                "members": [
+                    "KINGPIN",
+                    "MASKED BALL",
+                    "PENNY LANE",
+                    "VALLEY"
+                ]
+            }
+        ]
     }
 ]
