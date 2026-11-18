@@ -82356,5 +82356,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1255,
+        "date": "2026-11-18",
+        "has_images": false,
+        "words": [
+            "JUICY",
+            "OVOID",
+            "SOUR",
+            "YELLOW",
+            "BUZZ",
+            "COMB",
+            "HONEY",
+            "VENOM",
+            "CANNES",
+            "DIJON",
+            "NICE",
+            "TOURS",
+            "DEEP",
+            "FRENCH",
+            "SMALL",
+            "VOCAL"
+        ],
+        "groups": [
+            {
+                "label": "DESCRIPTORS FOR A LEMON",
+                "tier": "Yellow",
+                "members": [
+                    "JUICY",
+                    "OVOID",
+                    "SOUR",
+                    "YELLOW"
+                ]
+            },
+            {
+                "label": "THINGS BEES PRODUCE",
+                "tier": "Green",
+                "members": [
+                    "BUZZ",
+                    "COMB",
+                    "HONEY",
+                    "VENOM"
+                ]
+            },
+            {
+                "label": "CITIES IN FRANCE",
+                "tier": "Blue",
+                "members": [
+                    "CANNES",
+                    "DIJON",
+                    "NICE",
+                    "TOURS"
+                ]
+            },
+            {
+                "label": "___ FRY",
+                "tier": "Purple",
+                "members": [
+                    "DEEP",
+                    "FRENCH",
+                    "SMALL",
+                    "VOCAL"
+                ]
+            }
+        ]
     }
 ]
