@@ -82422,5 +82422,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1256,
+        "date": "2026-11-19",
+        "has_images": false,
+        "words": [
+            "BORE",
+            "BURROW",
+            "DIG",
+            "TUNNEL",
+            "CORK",
+            "RESIN",
+            "SAP",
+            "WOOD",
+            "CORD",
+            "HOUSING",
+            "PLUG",
+            "SWITCH",
+            "EINSTEIN",
+            "GALANGAL",
+            "HOTSHOT",
+            "UNDERGROUND"
+        ],
+        "groups": [
+            {
+                "label": "MAKE A HOLE IN THE GROUND",
+                "tier": "Yellow",
+                "members": [
+                    "BORE",
+                    "BURROW",
+                    "DIG",
+                    "TUNNEL"
+                ]
+            },
+            {
+                "label": "MATERIALS OBTAINED FROM TREES",
+                "tier": "Green",
+                "members": [
+                    "CORK",
+                    "RESIN",
+                    "SAP",
+                    "WOOD"
+                ]
+            },
+            {
+                "label": "PARTS OF AN ELECTRICAL APPLIANCE",
+                "tier": "Blue",
+                "members": [
+                    "CORD",
+                    "HOUSING",
+                    "PLUG",
+                    "SWITCH"
+                ]
+            },
+            {
+                "label": "START AND END WITH THE SAME THREE LETTERS",
+                "tier": "Purple",
+                "members": [
+                    "EINSTEIN",
+                    "GALANGAL",
+                    "HOTSHOT",
+                    "UNDERGROUND"
+                ]
+            }
+        ]
     }
 ]
