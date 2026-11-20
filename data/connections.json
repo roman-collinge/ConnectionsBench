@@ -82488,5 +82488,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1257,
+        "date": "2026-11-20",
+        "has_images": false,
+        "words": [
+            "ACE",
+            "BEAST",
+            "MAVEN",
+            "WIZARD",
+            "CATCH",
+            "CLOCK",
+            "REGISTER",
+            "SPOT",
+            "MINIATURE",
+            "POCKET",
+            "TEACUP",
+            "TOY",
+            "CANDELABRA",
+            "COWSLIP",
+            "DIPHTHONG",
+            "STUTTGARTER"
+        ],
+        "groups": [
+            {
+                "label": "PERSON WHO EXCELS AT SOMETHING",
+                "tier": "Yellow",
+                "members": [
+                    "ACE",
+                    "BEAST",
+                    "MAVEN",
+                    "WIZARD"
+                ]
+            },
+            {
+                "label": "NOTICE",
+                "tier": "Green",
+                "members": [
+                    "CATCH",
+                    "CLOCK",
+                    "REGISTER",
+                    "SPOT"
+                ]
+            },
+            {
+                "label": "DESCRIPTORS FOR SMALL ANIMALS",
+                "tier": "Blue",
+                "members": [
+                    "MINIATURE",
+                    "POCKET",
+                    "TEACUP",
+                    "TOY"
+                ]
+            },
+            {
+                "label": "ENDING IN LINGERIE",
+                "tier": "Purple",
+                "members": [
+                    "CANDELABRA",
+                    "COWSLIP",
+                    "DIPHTHONG",
+                    "STUTTGARTER"
+                ]
+            }
+        ]
     }
 ]
