@@ -80904,5 +80904,1721 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1233,
+        "date": "2026-10-27",
+        "has_images": false,
+        "words": [
+            "FIDDLE",
+            "MEDDLE",
+            "TINKER",
+            "TRIFLE",
+            "ANVIL",
+            "CANAL",
+            "DRUM",
+            "STIRRUP",
+            "DIVING",
+            "JINGLE",
+            "LIBERTY",
+            "TACO",
+            "BOTTOMS",
+            "JAR",
+            "PEPPER",
+            "TOWER"
+        ],
+        "groups": [
+            {
+                "label": "MESS (WITH)",
+                "tier": "Yellow",
+                "members": [
+                    "FIDDLE",
+                    "MEDDLE",
+                    "TINKER",
+                    "TRIFLE"
+                ]
+            },
+            {
+                "label": "PARTS OF THE EAR",
+                "tier": "Green",
+                "members": [
+                    "ANVIL",
+                    "CANAL",
+                    "DRUM",
+                    "STIRRUP"
+                ]
+            },
+            {
+                "label": "___ BELL",
+                "tier": "Blue",
+                "members": [
+                    "DIVING",
+                    "JINGLE",
+                    "LIBERTY",
+                    "TACO"
+                ]
+            },
+            {
+                "label": "BELL ___",
+                "tier": "Purple",
+                "members": [
+                    "BOTTOMS",
+                    "JAR",
+                    "PEPPER",
+                    "TOWER"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1234,
+        "date": "2026-10-28",
+        "has_images": false,
+        "words": [
+            "ATTRACTION",
+            "CRUSH",
+            "FEELINGS",
+            "INTEREST",
+            "ATTACHMENT",
+            "BODY",
+            "SIGNATURE",
+            "SUBJECT",
+            "CURIOSITY",
+            "OPPORTUNITY",
+            "PERSEVERANCE",
+            "SPIRIT",
+            "COARSE",
+            "RODE",
+            "ROUT",
+            "WEIGH"
+        ],
+        "groups": [
+            {
+                "label": "ROMANTIC LIKING",
+                "tier": "Yellow",
+                "members": [
+                    "ATTRACTION",
+                    "CRUSH",
+                    "FEELINGS",
+                    "INTEREST"
+                ]
+            },
+            {
+                "label": "COMPONENTS OF AN EMAIL",
+                "tier": "Green",
+                "members": [
+                    "ATTACHMENT",
+                    "BODY",
+                    "SIGNATURE",
+                    "SUBJECT"
+                ]
+            },
+            {
+                "label": "NASA MARS ROVERS",
+                "tier": "Blue",
+                "members": [
+                    "CURIOSITY",
+                    "OPPORTUNITY",
+                    "PERSEVERANCE",
+                    "SPIRIT"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF PATHS",
+                "tier": "Purple",
+                "members": [
+                    "COARSE",
+                    "RODE",
+                    "ROUT",
+                    "WEIGH"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1235,
+        "date": "2026-10-29",
+        "has_images": false,
+        "words": [
+            "PARKING METER",
+            "PAYPHONE",
+            "PIGGY BANK",
+            "WISHING WELL",
+            "ANTARCTICA",
+            "EMPEROR",
+            "TUXEDO",
+            "WADDLE",
+            "GOTHIC",
+            "ROMAN",
+            "SANS",
+            "TYPEWRITER",
+            "CALICO",
+            "CANDY CORN",
+            "NEAPOLITAN",
+            "TRAFFIC LIGHT"
+        ],
+        "groups": [
+            {
+                "label": "THINGS YOU PUT COINS INTO",
+                "tier": "Yellow",
+                "members": [
+                    "PARKING METER",
+                    "PAYPHONE",
+                    "PIGGY BANK",
+                    "WISHING WELL"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH PENGUINS",
+                "tier": "Green",
+                "members": [
+                    "ANTARCTICA",
+                    "EMPEROR",
+                    "TUXEDO",
+                    "WADDLE"
+                ]
+            },
+            {
+                "label": "ENDS OF FAMOUS FONTS",
+                "tier": "Blue",
+                "members": [
+                    "GOTHIC",
+                    "ROMAN",
+                    "SANS",
+                    "TYPEWRITER"
+                ]
+            },
+            {
+                "label": "THINGS THAT FEATURE THREE COLORS",
+                "tier": "Purple",
+                "members": [
+                    "CALICO",
+                    "CANDY CORN",
+                    "NEAPOLITAN",
+                    "TRAFFIC LIGHT"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1236,
+        "date": "2026-10-30",
+        "has_images": false,
+        "words": [
+            "FLASH",
+            "LENS",
+            "SHUTTER",
+            "VIEWFINDER",
+            "BACKDROP",
+            "CURTAIN",
+            "PIT",
+            "WINGS",
+            "HANDS",
+            "PILLOW",
+            "RUG",
+            "SHADE",
+            "DEMON",
+            "DRAPE",
+            "GLUM",
+            "GRANGE"
+        ],
+        "groups": [
+            {
+                "label": "PARTS OF A CAMERA",
+                "tier": "Yellow",
+                "members": [
+                    "FLASH",
+                    "LENS",
+                    "SHUTTER",
+                    "VIEWFINDER"
+                ]
+            },
+            {
+                "label": "AROUND A THEATER STAGE",
+                "tier": "Green",
+                "members": [
+                    "BACKDROP",
+                    "CURTAIN",
+                    "PIT",
+                    "WINGS"
+                ]
+            },
+            {
+                "label": "THROW ___",
+                "tier": "Blue",
+                "members": [
+                    "HANDS",
+                    "PILLOW",
+                    "RUG",
+                    "SHADE"
+                ]
+            },
+            {
+                "label": "FRUIT WITH FIRST LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "DEMON",
+                    "DRAPE",
+                    "GLUM",
+                    "GRANGE"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1237,
+        "date": "2026-10-31",
+        "has_images": false,
+        "words": [
+            "GNARLY",
+            "KILLER",
+            "SICK",
+            "WICKED",
+            "DIRTY",
+            "DRY",
+            "SHAKEN",
+            "UP",
+            "GUITAR",
+            "MARIONETTE",
+            "TASSEL",
+            "TENNIS RACKET",
+            "DOWNFALL",
+            "SHAKESPEARE",
+            "SITCOM",
+            "STAYCATION"
+        ],
+        "groups": [
+            {
+                "label": "WORDS MEANING GOOD THAT SOUND BAD",
+                "tier": "Yellow",
+                "members": [
+                    "GNARLY",
+                    "KILLER",
+                    "SICK",
+                    "WICKED"
+                ]
+            },
+            {
+                "label": "MARTINI SPECIFICATIONS",
+                "tier": "Green",
+                "members": [
+                    "DIRTY",
+                    "DRY",
+                    "SHAKEN",
+                    "UP"
+                ]
+            },
+            {
+                "label": "THINGS WITH STRINGS",
+                "tier": "Blue",
+                "members": [
+                    "GUITAR",
+                    "MARIONETTE",
+                    "TASSEL",
+                    "TENNIS RACKET"
+                ]
+            },
+            {
+                "label": "STARTING WITH DOG COMMANDS",
+                "tier": "Purple",
+                "members": [
+                    "DOWNFALL",
+                    "SHAKESPEARE",
+                    "SITCOM",
+                    "STAYCATION"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1238,
+        "date": "2026-11-01",
+        "has_images": false,
+        "words": [
+            "BICUSPID",
+            "CANINE",
+            "INCISOR",
+            "MOLAR",
+            "BROTHERLY",
+            "PUPPY",
+            "SELF",
+            "UNREQUITED",
+            "FIEND",
+            "HEAD",
+            "HOUND",
+            "LOVER",
+            "DOGGY",
+            "MATURATED",
+            "TRENCHED",
+            "TRIPPING"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF TEETH",
+                "tier": "Yellow",
+                "members": [
+                    "BICUSPID",
+                    "CANINE",
+                    "INCISOR",
+                    "MOLAR"
+                ]
+            },
+            {
+                "label": "KINDS OF LOVE",
+                "tier": "Green",
+                "members": [
+                    "BROTHERLY",
+                    "PUPPY",
+                    "SELF",
+                    "UNREQUITED"
+                ]
+            },
+            {
+                "label": "ENTHUSIAST",
+                "tier": "Blue",
+                "members": [
+                    "FIEND",
+                    "HEAD",
+                    "HOUND",
+                    "LOVER"
+                ]
+            },
+            {
+                "label": "SYNONYMS FOR \"SOAKED\" WITH FIRST LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "DOGGY",
+                    "MATURATED",
+                    "TRENCHED",
+                    "TRIPPING"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1239,
+        "date": "2026-11-02",
+        "has_images": false,
+        "words": [
+            "BACKPACK",
+            "COMPASS",
+            "HIKING BOOTS",
+            "WATER BOTTLE",
+            "INCENSE",
+            "NETTLE",
+            "PIQUE",
+            "WIND UP",
+            "DRY ICE",
+            "FOG MACHINE",
+            "HUMIDIFIER",
+            "WATERFALL",
+            "DISCO BALL",
+            "DRESSING ROOM",
+            "KALEIDOSCOPE",
+            "MEDICINE CABINET"
+        ],
+        "groups": [
+            {
+                "label": "THINGS TO BRING ON A TREK",
+                "tier": "Yellow",
+                "members": [
+                    "BACKPACK",
+                    "COMPASS",
+                    "HIKING BOOTS",
+                    "WATER BOTTLE"
+                ]
+            },
+            {
+                "label": "ANGER",
+                "tier": "Green",
+                "members": [
+                    "INCENSE",
+                    "NETTLE",
+                    "PIQUE",
+                    "WIND UP"
+                ]
+            },
+            {
+                "label": "MIST MAKERS",
+                "tier": "Blue",
+                "members": [
+                    "DRY ICE",
+                    "FOG MACHINE",
+                    "HUMIDIFIER",
+                    "WATERFALL"
+                ]
+            },
+            {
+                "label": "THINGS WITH MIRRORS",
+                "tier": "Purple",
+                "members": [
+                    "DISCO BALL",
+                    "DRESSING ROOM",
+                    "KALEIDOSCOPE",
+                    "MEDICINE CABINET"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1240,
+        "date": "2026-11-03",
+        "has_images": false,
+        "words": [
+            "CARRY ON",
+            "CONTINUE",
+            "PROCEED",
+            "RESUME",
+            "OFFICE CHAIR",
+            "ROLLER BAG",
+            "SHOPPING CART",
+            "STROLLER",
+            "CHECK",
+            "FOOD",
+            "MENU",
+            "TAP WATER",
+            "CREDIT",
+            "INTERVIEW",
+            "PROFILE",
+            "WHELP"
+        ],
+        "groups": [
+            {
+                "label": "KEEP GOING",
+                "tier": "Yellow",
+                "members": [
+                    "CARRY ON",
+                    "CONTINUE",
+                    "PROCEED",
+                    "RESUME"
+                ]
+            },
+            {
+                "label": "THINGS WITH WHEELS",
+                "tier": "Green",
+                "members": [
+                    "OFFICE CHAIR",
+                    "ROLLER BAG",
+                    "SHOPPING CART",
+                    "STROLLER"
+                ]
+            },
+            {
+                "label": "THINGS A SERVER BRINGS AT A RESTAURANT",
+                "tier": "Blue",
+                "members": [
+                    "CHECK",
+                    "FOOD",
+                    "MENU",
+                    "TAP WATER"
+                ]
+            },
+            {
+                "label": "ENDING IN MENU BAR HEADINGS",
+                "tier": "Purple",
+                "members": [
+                    "CREDIT",
+                    "INTERVIEW",
+                    "PROFILE",
+                    "WHELP"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1241,
+        "date": "2026-11-04",
+        "has_images": false,
+        "words": [
+            "DOORSTOP",
+            "FLATIRON BUILDING",
+            "PIE SLICE",
+            "WEDGE",
+            "BLEACH",
+            "IRON",
+            "TUMBLE DRY",
+            "WRING",
+            "LOLL",
+            "POKE",
+            "PUTTER",
+            "SHUFFLE",
+            "CRACKER",
+            "FLY",
+            "WOOD",
+            "WORKS"
+        ],
+        "groups": [
+            {
+                "label": "TRIANGULAR PRISMS WITH A SHARP EDGE",
+                "tier": "Yellow",
+                "members": [
+                    "DOORSTOP",
+                    "FLATIRON BUILDING",
+                    "PIE SLICE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "label": "WORDS AFTER \"DO NOT\" ON A CARE LABEL",
+                "tier": "Green",
+                "members": [
+                    "BLEACH",
+                    "IRON",
+                    "TUMBLE DRY",
+                    "WRING"
+                ]
+            },
+            {
+                "label": "MOVE IDLY, WITH \"AROUND\"",
+                "tier": "Blue",
+                "members": [
+                    "LOLL",
+                    "POKE",
+                    "PUTTER",
+                    "SHUFFLE"
+                ]
+            },
+            {
+                "label": "FIRE___",
+                "tier": "Purple",
+                "members": [
+                    "CRACKER",
+                    "FLY",
+                    "WOOD",
+                    "WORKS"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1242,
+        "date": "2026-11-05",
+        "has_images": false,
+        "words": [
+            "KITTEN",
+            "PLATFORM",
+            "SPIKE",
+            "WEDGE",
+            "ANEMONE",
+            "LOTUS",
+            "NARCISSUS",
+            "ROSE",
+            "PEAR",
+            "RAINDROP",
+            "SPEEDBAG",
+            "UVULA",
+            "BRANDO",
+            "GIG",
+            "RUN",
+            "WHISKER"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF HEELS",
+                "tier": "Yellow",
+                "members": [
+                    "KITTEN",
+                    "PLATFORM",
+                    "SPIKE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "label": "FLOWERS",
+                "tier": "Green",
+                "members": [
+                    "ANEMONE",
+                    "LOTUS",
+                    "NARCISSUS",
+                    "ROSE"
+                ]
+            },
+            {
+                "label": "TEARDROP-SHAPED THINGS",
+                "tier": "Blue",
+                "members": [
+                    "PEAR",
+                    "RAINDROP",
+                    "SPEEDBAG",
+                    "UVULA"
+                ]
+            },
+            {
+                "label": "LIQUORS WITH LAST LETTERS CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "BRANDO",
+                    "GIG",
+                    "RUN",
+                    "WHISKER"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1243,
+        "date": "2026-11-06",
+        "has_images": false,
+        "words": [
+            "CONSTITUTION",
+            "FABRIC",
+            "MAKEUP",
+            "STRUCTURE",
+            "BACKUP",
+            "EXTRA",
+            "REPLACEMENT",
+            "SPARE",
+            "FLATBED",
+            "PICKUP",
+            "SEMI",
+            "TANKER",
+            "HOT ROD",
+            "OSIRIS",
+            "TRAFFIC CONE",
+            "WOOLENS"
+        ],
+        "groups": [
+            {
+                "label": "COMPOSITION",
+                "tier": "Yellow",
+                "members": [
+                    "CONSTITUTION",
+                    "FABRIC",
+                    "MAKEUP",
+                    "STRUCTURE"
+                ]
+            },
+            {
+                "label": "COPY",
+                "tier": "Green",
+                "members": [
+                    "BACKUP",
+                    "EXTRA",
+                    "REPLACEMENT",
+                    "SPARE"
+                ]
+            },
+            {
+                "label": "KINDS OF TRUCKS",
+                "tier": "Blue",
+                "members": [
+                    "FLATBED",
+                    "PICKUP",
+                    "SEMI",
+                    "TANKER"
+                ]
+            },
+            {
+                "label": "ENDING IN PARTS OF THE EYE",
+                "tier": "Purple",
+                "members": [
+                    "HOT ROD",
+                    "OSIRIS",
+                    "TRAFFIC CONE",
+                    "WOOLENS"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1244,
+        "date": "2026-11-07",
+        "has_images": false,
+        "words": [
+            "BOOTY",
+            "BOUNTY",
+            "SPOILS",
+            "TREASURE",
+            "HENLEY",
+            "POLO",
+            "RAGLAN",
+            "RINGER",
+            "NEW",
+            "NORTH",
+            "RHODE",
+            "SOUTH",
+            "CANE",
+            "CLONE",
+            "EASTER",
+            "SOON"
+        ],
+        "groups": [
+            {
+                "label": "PIRATE'S PLUNDER",
+                "tier": "Yellow",
+                "members": [
+                    "BOOTY",
+                    "BOUNTY",
+                    "SPOILS",
+                    "TREASURE"
+                ]
+            },
+            {
+                "label": "KINDS OF SHIRTS",
+                "tier": "Green",
+                "members": [
+                    "HENLEY",
+                    "POLO",
+                    "RAGLAN",
+                    "RINGER"
+                ]
+            },
+            {
+                "label": "FIRST WORDS OF U.S. STATE NAMES",
+                "tier": "Blue",
+                "members": [
+                    "NEW",
+                    "NORTH",
+                    "RHODE",
+                    "SOUTH"
+                ]
+            },
+            {
+                "label": "ENDS OF STORM TYPES",
+                "tier": "Purple",
+                "members": [
+                    "CANE",
+                    "CLONE",
+                    "EASTER",
+                    "SOON"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1245,
+        "date": "2026-11-08",
+        "has_images": false,
+        "words": [
+            "BUILT",
+            "CUT",
+            "JACKED",
+            "RIPPED",
+            "BLOWOUT",
+            "COLOR",
+            "EXTENSIONS",
+            "TRIM",
+            "CLARITY",
+            "CONTEXT",
+            "INSIGHT",
+            "PERSPECTIVE",
+            "CARAT",
+            "CHARRED",
+            "KORN",
+            "LEAK"
+        ],
+        "groups": [
+            {
+                "label": "MUSCULAR",
+                "tier": "Yellow",
+                "members": [
+                    "BUILT",
+                    "CUT",
+                    "JACKED",
+                    "RIPPED"
+                ]
+            },
+            {
+                "label": "HAIR SALON SERVICES",
+                "tier": "Green",
+                "members": [
+                    "BLOWOUT",
+                    "COLOR",
+                    "EXTENSIONS",
+                    "TRIM"
+                ]
+            },
+            {
+                "label": "THINGS THAT HELP MAKE SENSE OF A SITUATION",
+                "tier": "Blue",
+                "members": [
+                    "CLARITY",
+                    "CONTEXT",
+                    "INSIGHT",
+                    "PERSPECTIVE"
+                ]
+            },
+            {
+                "label": "VEGETABLE HOMOPHONES",
+                "tier": "Purple",
+                "members": [
+                    "CARAT",
+                    "CHARRED",
+                    "KORN",
+                    "LEAK"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1246,
+        "date": "2026-11-09",
+        "has_images": false,
+        "words": [
+            "CON JOB",
+            "FLIMFLAM",
+            "RIP-OFF",
+            "SHELL GAME",
+            "BOOTCUT",
+            "DISTRESSED",
+            "LOW-RISE",
+            "SKINNY",
+            "GRAPEFRUIT SPOON",
+            "MINT LEAF",
+            "STEAK KNIFE",
+            "TAPE DISPENSER",
+            "CARD SHARK",
+            "FUN SPONGE",
+            "GAMMA RAY",
+            "NAVY SEAL"
+        ],
+        "groups": [
+            {
+                "label": "DECEITFUL SCHEME",
+                "tier": "Yellow",
+                "members": [
+                    "CON JOB",
+                    "FLIMFLAM",
+                    "RIP-OFF",
+                    "SHELL GAME"
+                ]
+            },
+            {
+                "label": "JEANS DESCRIPTORS",
+                "tier": "Green",
+                "members": [
+                    "BOOTCUT",
+                    "DISTRESSED",
+                    "LOW-RISE",
+                    "SKINNY"
+                ]
+            },
+            {
+                "label": "THINGS WITH SERRATED EDGES",
+                "tier": "Blue",
+                "members": [
+                    "GRAPEFRUIT SPOON",
+                    "MINT LEAF",
+                    "STEAK KNIFE",
+                    "TAPE DISPENSER"
+                ]
+            },
+            {
+                "label": "ENDING IN SEA CREATURES",
+                "tier": "Purple",
+                "members": [
+                    "CARD SHARK",
+                    "FUN SPONGE",
+                    "GAMMA RAY",
+                    "NAVY SEAL"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1247,
+        "date": "2026-11-10",
+        "has_images": false,
+        "words": [
+            "BROUHAHA",
+            "FOOFARAW",
+            "HULLABALOO",
+            "KERFUFFLE",
+            "HYPERBOLE",
+            "METONYMY",
+            "ONOMATOPOEIA",
+            "OXYMORON",
+            "APOTHECARY",
+            "HABERDASHER",
+            "SCRIVENER",
+            "WAINWRIGHT",
+            "ABRACADABRA",
+            "BEEKEEPER",
+            "INVISIBILITY",
+            "PROTOZOOLOGY"
+        ],
+        "groups": [
+            {
+                "label": "HUBBUB",
+                "tier": "Yellow",
+                "members": [
+                    "BROUHAHA",
+                    "FOOFARAW",
+                    "HULLABALOO",
+                    "KERFUFFLE"
+                ]
+            },
+            {
+                "label": "LITERARY DEVICES",
+                "tier": "Green",
+                "members": [
+                    "HYPERBOLE",
+                    "METONYMY",
+                    "ONOMATOPOEIA",
+                    "OXYMORON"
+                ]
+            },
+            {
+                "label": "OLD-TIMEY OCCUPATIONS",
+                "tier": "Blue",
+                "members": [
+                    "APOTHECARY",
+                    "HABERDASHER",
+                    "SCRIVENER",
+                    "WAINWRIGHT"
+                ]
+            },
+            {
+                "label": "WORDS WITH FIVE OF ONE VOWEL",
+                "tier": "Purple",
+                "members": [
+                    "ABRACADABRA",
+                    "BEEKEEPER",
+                    "INVISIBILITY",
+                    "PROTOZOOLOGY"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1248,
+        "date": "2026-11-11",
+        "has_images": false,
+        "words": [
+            "FOLK",
+            "HERBAL",
+            "HOLISTIC",
+            "TRADITIONAL",
+            "GREEN",
+            "ROUGH",
+            "SAND TRAP",
+            "TEE BOX",
+            "AIR MATTRESS",
+            "BUBBLE",
+            "TIRE",
+            "WHOOPIE CUSHION",
+            "AFTERNOON",
+            "PATOOT",
+            "RHEOSTATS",
+            "SHREDDER"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF MEDICINE",
+                "tier": "Yellow",
+                "members": [
+                    "FOLK",
+                    "HERBAL",
+                    "HOLISTIC",
+                    "TRADITIONAL"
+                ]
+            },
+            {
+                "label": "PARTS OF A GOLF COURSE",
+                "tier": "Green",
+                "members": [
+                    "GREEN",
+                    "ROUGH",
+                    "SAND TRAP",
+                    "TEE BOX"
+                ]
+            },
+            {
+                "label": "THINGS FILLED WITH AIR",
+                "tier": "Blue",
+                "members": [
+                    "AIR MATTRESS",
+                    "BUBBLE",
+                    "TIRE",
+                    "WHOOPIE CUSHION"
+                ]
+            },
+            {
+                "label": "ENDING IN PALINDROMES",
+                "tier": "Purple",
+                "members": [
+                    "AFTERNOON",
+                    "PATOOT",
+                    "RHEOSTATS",
+                    "SHREDDER"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1249,
+        "date": "2026-11-12",
+        "has_images": false,
+        "words": [
+            "GOOD HEAVENS",
+            "GREAT SCOTT",
+            "HOLY SMOKES",
+            "JIMINY CRICKET",
+            "CHANGE PURSE",
+            "FLUX CAPACITOR",
+            "SHIFT DRESS",
+            "SWING SET",
+            "ARCTIC CHAR",
+            "COMEDY ROAST",
+            "DOC BROWN",
+            "YOU'RE TOAST",
+            "GLADIATOR SANDALS",
+            "MARTY MCFLY",
+            "MOONLIGHT SONATA",
+            "ROCKY ROAD"
+        ],
+        "groups": [
+            {
+                "label": "\"GADZOOKS!\"",
+                "tier": "Yellow",
+                "members": [
+                    "GOOD HEAVENS",
+                    "GREAT SCOTT",
+                    "HOLY SMOKES",
+                    "JIMINY CRICKET"
+                ]
+            },
+            {
+                "label": "STARTING WITH VARIATIONS",
+                "tier": "Green",
+                "members": [
+                    "CHANGE PURSE",
+                    "FLUX CAPACITOR",
+                    "SHIFT DRESS",
+                    "SWING SET"
+                ]
+            },
+            {
+                "label": "ENDING IN WAYS TO COOK THINGS",
+                "tier": "Blue",
+                "members": [
+                    "ARCTIC CHAR",
+                    "COMEDY ROAST",
+                    "DOC BROWN",
+                    "YOU'RE TOAST"
+                ]
+            },
+            {
+                "label": "STARTING WITH BEST PICTURE OSCAR WINNERS",
+                "tier": "Purple",
+                "members": [
+                    "GLADIATOR SANDALS",
+                    "MARTY MCFLY",
+                    "MOONLIGHT SONATA",
+                    "ROCKY ROAD"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1250,
+        "date": "2026-11-13",
+        "has_images": false,
+        "words": [
+            "BROWSE",
+            "SCROLL",
+            "SEARCH",
+            "SURF",
+            "COVERAGE",
+            "EXPOSURE",
+            "PRESS",
+            "PUBLICITY",
+            "BARGE",
+            "GLIDER",
+            "TRAILER",
+            "WATER SKIER",
+            "FREEZE",
+            "TEASER",
+            "TRUST",
+            "WAVES"
+        ],
+        "groups": [
+            {
+                "label": "USE THE INTERNET",
+                "tier": "Yellow",
+                "members": [
+                    "BROWSE",
+                    "SCROLL",
+                    "SEARCH",
+                    "SURF"
+                ]
+            },
+            {
+                "label": "MEDIA ATTENTION",
+                "tier": "Green",
+                "members": [
+                    "COVERAGE",
+                    "EXPOSURE",
+                    "PRESS",
+                    "PUBLICITY"
+                ]
+            },
+            {
+                "label": "THINGS THAT ARE TOWED",
+                "tier": "Blue",
+                "members": [
+                    "BARGE",
+                    "GLIDER",
+                    "TRAILER",
+                    "WATER SKIER"
+                ]
+            },
+            {
+                "label": "BRAIN ___",
+                "tier": "Purple",
+                "members": [
+                    "FREEZE",
+                    "TEASER",
+                    "TRUST",
+                    "WAVES"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1251,
+        "date": "2026-11-14",
+        "has_images": false,
+        "words": [
+            "ADVANCED",
+            "FOREMOST",
+            "MODERN",
+            "PROGRESSIVE",
+            "CAMPUS",
+            "CENTER",
+            "COMPLEX",
+            "FACILITY",
+            "CHESS",
+            "GO",
+            "OTHELLO",
+            "STRATEGO",
+            "BATTLE",
+            "MARRIAGE",
+            "MOTTLE",
+            "TRIB"
+        ],
+        "groups": [
+            {
+                "label": "CUTTING-EDGE",
+                "tier": "Yellow",
+                "members": [
+                    "ADVANCED",
+                    "FOREMOST",
+                    "MODERN",
+                    "PROGRESSIVE"
+                ]
+            },
+            {
+                "label": "LOCATIONS FOR AN INSTITUTION",
+                "tier": "Green",
+                "members": [
+                    "CAMPUS",
+                    "CENTER",
+                    "COMPLEX",
+                    "FACILITY"
+                ]
+            },
+            {
+                "label": "STRATEGY BOARD GAMES",
+                "tier": "Blue",
+                "members": [
+                    "CHESS",
+                    "GO",
+                    "OTHELLO",
+                    "STRATEGO"
+                ]
+            },
+            {
+                "label": "BABY GEAR WITH FIRST LETTER CHANGED",
+                "tier": "Purple",
+                "members": [
+                    "BATTLE",
+                    "MARRIAGE",
+                    "MOTTLE",
+                    "TRIB"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1252,
+        "date": "2026-11-15",
+        "has_images": false,
+        "words": [
+            "ALL-TIME",
+            "HISTORIC",
+            "RECORD",
+            "UNPRECEDENTED",
+            "DRESS CODE",
+            "REGISTRY",
+            "RSVP",
+            "TRAVEL",
+            "ASTRAL",
+            "CARTESIAN",
+            "INCLINED",
+            "JET",
+            "ARCHIVE",
+            "OCTONION",
+            "RAPSCALLION",
+            "SLEEK"
+        ],
+        "groups": [
+            {
+                "label": "UNMATCHED",
+                "tier": "Yellow",
+                "members": [
+                    "ALL-TIME",
+                    "HISTORIC",
+                    "RECORD",
+                    "UNPRECEDENTED"
+                ]
+            },
+            {
+                "label": "WEDDING WEBSITE SECTIONS",
+                "tier": "Green",
+                "members": [
+                    "DRESS CODE",
+                    "REGISTRY",
+                    "RSVP",
+                    "TRAVEL"
+                ]
+            },
+            {
+                "label": "___ PLANE",
+                "tier": "Blue",
+                "members": [
+                    "ASTRAL",
+                    "CARTESIAN",
+                    "INCLINED",
+                    "JET"
+                ]
+            },
+            {
+                "label": "ENDING IN VEGETABLES IN THE ALLIUM FAMILY",
+                "tier": "Purple",
+                "members": [
+                    "ARCHIVE",
+                    "OCTONION",
+                    "RAPSCALLION",
+                    "SLEEK"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1253,
+        "date": "2026-11-16",
+        "has_images": false,
+        "words": [
+            "BLOCKBUSTER",
+            "CAMP",
+            "SAUSAGE",
+            "SCHOOL",
+            "CHICKEN",
+            "CLEANING",
+            "ONION",
+            "WATER",
+            "GARDEN",
+            "GLOVES",
+            "MELON",
+            "WONDERLAND",
+            "ASLEEP",
+            "FOLIAGE",
+            "GUY",
+            "IN LOVE"
+        ],
+        "groups": [
+            {
+                "label": "SUMMER ___",
+                "tier": "Yellow",
+                "members": [
+                    "BLOCKBUSTER",
+                    "CAMP",
+                    "SAUSAGE",
+                    "SCHOOL"
+                ]
+            },
+            {
+                "label": "SPRING ___",
+                "tier": "Green",
+                "members": [
+                    "CHICKEN",
+                    "CLEANING",
+                    "ONION",
+                    "WATER"
+                ]
+            },
+            {
+                "label": "WINTER ___",
+                "tier": "Blue",
+                "members": [
+                    "GARDEN",
+                    "GLOVES",
+                    "MELON",
+                    "WONDERLAND"
+                ]
+            },
+            {
+                "label": "FALL ___",
+                "tier": "Purple",
+                "members": [
+                    "ASLEEP",
+                    "FOLIAGE",
+                    "GUY",
+                    "IN LOVE"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1254,
+        "date": "2026-11-17",
+        "has_images": false,
+        "words": [
+            "ASSEMBLE",
+            "COME TOGETHER",
+            "FLOCK",
+            "GATHER",
+            "BLACKBIRD",
+            "PIE",
+            "RYE",
+            "SIXPENCE",
+            "AIRPLANE",
+            "HELP",
+            "SHAZAM",
+            "THEM",
+            "KINGPIN",
+            "MASKED BALL",
+            "PENNY LANE",
+            "VALLEY"
+        ],
+        "groups": [
+            {
+                "label": "CONVENE",
+                "tier": "Yellow",
+                "members": [
+                    "ASSEMBLE",
+                    "COME TOGETHER",
+                    "FLOCK",
+                    "GATHER"
+                ]
+            },
+            {
+                "label": "THINGS IN \"SING A SONG OF SIXPENCE\"",
+                "tier": "Green",
+                "members": [
+                    "BLACKBIRD",
+                    "PIE",
+                    "RYE",
+                    "SIXPENCE"
+                ]
+            },
+            {
+                "label": "FILMS WITH \"!\" IN THE TITLE",
+                "tier": "Blue",
+                "members": [
+                    "AIRPLANE",
+                    "HELP",
+                    "SHAZAM",
+                    "THEM"
+                ]
+            },
+            {
+                "label": "ENDING IN BOWLING TERMS",
+                "tier": "Purple",
+                "members": [
+                    "KINGPIN",
+                    "MASKED BALL",
+                    "PENNY LANE",
+                    "VALLEY"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1255,
+        "date": "2026-11-18",
+        "has_images": false,
+        "words": [
+            "JUICY",
+            "OVOID",
+            "SOUR",
+            "YELLOW",
+            "BUZZ",
+            "COMB",
+            "HONEY",
+            "VENOM",
+            "CANNES",
+            "DIJON",
+            "NICE",
+            "TOURS",
+            "DEEP",
+            "FRENCH",
+            "SMALL",
+            "VOCAL"
+        ],
+        "groups": [
+            {
+                "label": "DESCRIPTORS FOR A LEMON",
+                "tier": "Yellow",
+                "members": [
+                    "JUICY",
+                    "OVOID",
+                    "SOUR",
+                    "YELLOW"
+                ]
+            },
+            {
+                "label": "THINGS BEES PRODUCE",
+                "tier": "Green",
+                "members": [
+                    "BUZZ",
+                    "COMB",
+                    "HONEY",
+                    "VENOM"
+                ]
+            },
+            {
+                "label": "CITIES IN FRANCE",
+                "tier": "Blue",
+                "members": [
+                    "CANNES",
+                    "DIJON",
+                    "NICE",
+                    "TOURS"
+                ]
+            },
+            {
+                "label": "___ FRY",
+                "tier": "Purple",
+                "members": [
+                    "DEEP",
+                    "FRENCH",
+                    "SMALL",
+                    "VOCAL"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1256,
+        "date": "2026-11-19",
+        "has_images": false,
+        "words": [
+            "BORE",
+            "BURROW",
+            "DIG",
+            "TUNNEL",
+            "CORK",
+            "RESIN",
+            "SAP",
+            "WOOD",
+            "CORD",
+            "HOUSING",
+            "PLUG",
+            "SWITCH",
+            "EINSTEIN",
+            "GALANGAL",
+            "HOTSHOT",
+            "UNDERGROUND"
+        ],
+        "groups": [
+            {
+                "label": "MAKE A HOLE IN THE GROUND",
+                "tier": "Yellow",
+                "members": [
+                    "BORE",
+                    "BURROW",
+                    "DIG",
+                    "TUNNEL"
+                ]
+            },
+            {
+                "label": "MATERIALS OBTAINED FROM TREES",
+                "tier": "Green",
+                "members": [
+                    "CORK",
+                    "RESIN",
+                    "SAP",
+                    "WOOD"
+                ]
+            },
+            {
+                "label": "PARTS OF AN ELECTRICAL APPLIANCE",
+                "tier": "Blue",
+                "members": [
+                    "CORD",
+                    "HOUSING",
+                    "PLUG",
+                    "SWITCH"
+                ]
+            },
+            {
+                "label": "START AND END WITH THE SAME THREE LETTERS",
+                "tier": "Purple",
+                "members": [
+                    "EINSTEIN",
+                    "GALANGAL",
+                    "HOTSHOT",
+                    "UNDERGROUND"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1257,
+        "date": "2026-11-20",
+        "has_images": false,
+        "words": [
+            "ACE",
+            "BEAST",
+            "MAVEN",
+            "WIZARD",
+            "CATCH",
+            "CLOCK",
+            "REGISTER",
+            "SPOT",
+            "MINIATURE",
+            "POCKET",
+            "TEACUP",
+            "TOY",
+            "CANDELABRA",
+            "COWSLIP",
+            "DIPHTHONG",
+            "STUTTGARTER"
+        ],
+        "groups": [
+            {
+                "label": "PERSON WHO EXCELS AT SOMETHING",
+                "tier": "Yellow",
+                "members": [
+                    "ACE",
+                    "BEAST",
+                    "MAVEN",
+                    "WIZARD"
+                ]
+            },
+            {
+                "label": "NOTICE",
+                "tier": "Green",
+                "members": [
+                    "CATCH",
+                    "CLOCK",
+                    "REGISTER",
+                    "SPOT"
+                ]
+            },
+            {
+                "label": "DESCRIPTORS FOR SMALL ANIMALS",
+                "tier": "Blue",
+                "members": [
+                    "MINIATURE",
+                    "POCKET",
+                    "TEACUP",
+                    "TOY"
+                ]
+            },
+            {
+                "label": "ENDING IN LINGERIE",
+                "tier": "Purple",
+                "members": [
+                    "CANDELABRA",
+                    "COWSLIP",
+                    "DIPHTHONG",
+                    "STUTTGARTER"
+                ]
+            }
+        ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1258,
+        "date": "2026-11-21",
+        "has_images": false,
+        "words": [
+            "BLACK AND WHITE",
+            "BUTTER",
+            "GIRL SCOUT",
+            "SUGAR",
+            "COURTESY",
+            "HELPFULNESS",
+            "SATISFACTION",
+            "WAIT TIME",
+            "DEVIL",
+            "EMPRESS",
+            "FOOL",
+            "HIEROPHANT",
+            "BREATH",
+            "HORSES",
+            "OWN",
+            "TONGUE"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF COOKIES",
+                "tier": "Yellow",
+                "members": [
+                    "BLACK AND WHITE",
+                    "BUTTER",
+                    "GIRL SCOUT",
+                    "SUGAR"
+                ]
+            },
+            {
+                "label": "THINGS RATED IN A CUSTOMER SURVEY",
+                "tier": "Green",
+                "members": [
+                    "COURTESY",
+                    "HELPFULNESS",
+                    "SATISFACTION",
+                    "WAIT TIME"
+                ]
+            },
+            {
+                "label": "TAROT CARDS, WITH \"THE\"",
+                "tier": "Blue",
+                "members": [
+                    "DEVIL",
+                    "EMPRESS",
+                    "FOOL",
+                    "HIEROPHANT"
+                ]
+            },
+            {
+                "label": "HOLD YOUR ___",
+                "tier": "Purple",
+                "members": [
+                    "BREATH",
+                    "HORSES",
+                    "OWN",
+                    "TONGUE"
+                ]
+            }
+        ]
     }
 ]
