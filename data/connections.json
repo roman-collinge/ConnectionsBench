@@ -82554,5 +82554,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1258,
+        "date": "2026-11-21",
+        "has_images": false,
+        "words": [
+            "BLACK AND WHITE",
+            "BUTTER",
+            "GIRL SCOUT",
+            "SUGAR",
+            "COURTESY",
+            "HELPFULNESS",
+            "SATISFACTION",
+            "WAIT TIME",
+            "DEVIL",
+            "EMPRESS",
+            "FOOL",
+            "HIEROPHANT",
+            "BREATH",
+            "HORSES",
+            "OWN",
+            "TONGUE"
+        ],
+        "groups": [
+            {
+                "label": "KINDS OF COOKIES",
+                "tier": "Yellow",
+                "members": [
+                    "BLACK AND WHITE",
+                    "BUTTER",
+                    "GIRL SCOUT",
+                    "SUGAR"
+                ]
+            },
+            {
+                "label": "THINGS RATED IN A CUSTOMER SURVEY",
+                "tier": "Green",
+                "members": [
+                    "COURTESY",
+                    "HELPFULNESS",
+                    "SATISFACTION",
+                    "WAIT TIME"
+                ]
+            },
+            {
+                "label": "TAROT CARDS, WITH \"THE\"",
+                "tier": "Blue",
+                "members": [
+                    "DEVIL",
+                    "EMPRESS",
+                    "FOOL",
+                    "HIEROPHANT"
+                ]
+            },
+            {
+                "label": "HOLD YOUR ___",
+                "tier": "Purple",
+                "members": [
+                    "BREATH",
+                    "HORSES",
+                    "OWN",
+                    "TONGUE"
+                ]
+            }
+        ]
     }
 ]
