@@ -82620,5 +82620,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1259,
+        "date": "2026-11-22",
+        "has_images": false,
+        "words": [
+            "HOST",
+            "MASS",
+            "SEA",
+            "SLEW",
+            "GEE",
+            "SAY",
+            "WELL",
+            "WHY",
+            "BATH",
+            "GUM",
+            "TEA",
+            "WRAP",
+            "EWE",
+            "EYE",
+            "HEE",
+            "WEE"
+        ],
+        "groups": [
+            {
+                "label": "MULTITUDE",
+                "tier": "Yellow",
+                "members": [
+                    "HOST",
+                    "MASS",
+                    "SEA",
+                    "SLEW"
+                ]
+            },
+            {
+                "label": "INTERJECTIONS BEFORE A REACTION",
+                "tier": "Green",
+                "members": [
+                    "GEE",
+                    "SAY",
+                    "WELL",
+                    "WHY"
+                ]
+            },
+            {
+                "label": "BUBBLE ___",
+                "tier": "Blue",
+                "members": [
+                    "BATH",
+                    "GUM",
+                    "TEA",
+                    "WRAP"
+                ]
+            },
+            {
+                "label": "HOMOPHONES OF PRONOUNS",
+                "tier": "Purple",
+                "members": [
+                    "EWE",
+                    "EYE",
+                    "HEE",
+                    "WEE"
+                ]
+            }
+        ]
     }
 ]
