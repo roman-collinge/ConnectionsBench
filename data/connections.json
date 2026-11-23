@@ -82686,5 +82686,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1260,
+        "date": "2026-11-23",
+        "has_images": false,
+        "words": [
+            "IOTA",
+            "MODICUM",
+            "PARTICLE",
+            "SHRED",
+            "DISTANCE",
+            "ETA",
+            "ROUTE",
+            "TRAFFIC",
+            "BLACK",
+            "DOOM",
+            "NU",
+            "THRASH",
+            "CHICKPEA",
+            "CUBISM",
+            "LAMBDA",
+            "PUPIL"
+        ],
+        "groups": [
+            {
+                "label": "TINY AMOUNT",
+                "tier": "Yellow",
+                "members": [
+                    "IOTA",
+                    "MODICUM",
+                    "PARTICLE",
+                    "SHRED"
+                ]
+            },
+            {
+                "label": "INFO ON A NAVIGATION APP",
+                "tier": "Green",
+                "members": [
+                    "DISTANCE",
+                    "ETA",
+                    "ROUTE",
+                    "TRAFFIC"
+                ]
+            },
+            {
+                "label": "METAL SUBGENRES",
+                "tier": "Blue",
+                "members": [
+                    "BLACK",
+                    "DOOM",
+                    "NU",
+                    "THRASH"
+                ]
+            },
+            {
+                "label": "STARTING WITH BABY ANIMALS",
+                "tier": "Purple",
+                "members": [
+                    "CHICKPEA",
+                    "CUBISM",
+                    "LAMBDA",
+                    "PUPIL"
+                ]
+            }
+        ]
     }
 ]
