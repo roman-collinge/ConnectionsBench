@@ -82752,5 +82752,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1261,
+        "date": "2026-11-24",
+        "has_images": false,
+        "words": [
+            "BOTTOM OUT",
+            "CRATER",
+            "NOSEDIVE",
+            "TANK",
+            "ACCORDION",
+            "CUPCAKE LINER",
+            "FIREPLACE BELLOWS",
+            "PAPER FAN",
+            "MICROSCOPE",
+            "PLAYGROUND",
+            "POWERPOINT DECK",
+            "TROMBONE",
+            "AMINO ACID",
+            "BIG BOX STORE",
+            "LINK",
+            "MOUNTAIN"
+        ],
+        "groups": [
+            {
+                "label": "DROP DRAMATICALLY",
+                "tier": "Yellow",
+                "members": [
+                    "BOTTOM OUT",
+                    "CRATER",
+                    "NOSEDIVE",
+                    "TANK"
+                ]
+            },
+            {
+                "label": "THINGS WITH PLEATED FOLDS",
+                "tier": "Green",
+                "members": [
+                    "ACCORDION",
+                    "CUPCAKE LINER",
+                    "FIREPLACE BELLOWS",
+                    "PAPER FAN"
+                ]
+            },
+            {
+                "label": "THINGS WITH SLIDES",
+                "tier": "Blue",
+                "members": [
+                    "MICROSCOPE",
+                    "PLAYGROUND",
+                    "POWERPOINT DECK",
+                    "TROMBONE"
+                ]
+            },
+            {
+                "label": "THINGS THAT FORM CHAINS",
+                "tier": "Purple",
+                "members": [
+                    "AMINO ACID",
+                    "BIG BOX STORE",
+                    "LINK",
+                    "MOUNTAIN"
+                ]
+            }
+        ]
     }
 ]
