@@ -82818,5 +82818,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1262,
+        "date": "2026-11-25",
+        "has_images": false,
+        "words": [
+            "LANE",
+            "MEDIAN",
+            "RAMP",
+            "SHOULDER",
+            "HALF-PIPE",
+            "HORSESHOE",
+            "NECK PILLOW",
+            "PARABOLA",
+            "DIMENSIONS",
+            "MATERIAL",
+            "PILE",
+            "WEAVE",
+            "EAGLE",
+            "OBERMAN",
+            "OLLIE",
+            "OODLE"
+        ],
+        "groups": [
+            {
+                "label": "PARTS OF A FREEWAY",
+                "tier": "Yellow",
+                "members": [
+                    "LANE",
+                    "MEDIAN",
+                    "RAMP",
+                    "SHOULDER"
+                ]
+            },
+            {
+                "label": "U-SHAPED THINGS",
+                "tier": "Green",
+                "members": [
+                    "HALF-PIPE",
+                    "HORSESHOE",
+                    "NECK PILLOW",
+                    "PARABOLA"
+                ]
+            },
+            {
+                "label": "RUG SPECIFICATIONS",
+                "tier": "Blue",
+                "members": [
+                    "DIMENSIONS",
+                    "MATERIAL",
+                    "PILE",
+                    "WEAVE"
+                ]
+            },
+            {
+                "label": "DOGS BREEDS MINUS FIRST LETTER",
+                "tier": "Purple",
+                "members": [
+                    "EAGLE",
+                    "OBERMAN",
+                    "OLLIE",
+                    "OODLE"
+                ]
+            }
+        ]
     }
 ]
