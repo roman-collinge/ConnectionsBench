@@ -82884,5 +82884,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1263,
+        "date": "2026-11-26",
+        "has_images": false,
+        "words": [
+            "BLUSH",
+            "BUBBLEGUM",
+            "CARNATION",
+            "CORAL",
+            "COMPACT",
+            "CONVERTIBLE",
+            "HYBRID",
+            "MANUAL",
+            "BEER",
+            "BOWLING",
+            "DONUTS",
+            "TELEVISION",
+            "BOTTLE OF CHAMPAGNE",
+            "POPCORN",
+            "THE QUESTION",
+            "WHEELIE"
+        ],
+        "groups": [
+            {
+                "label": "SHADES OF PINK",
+                "tier": "Yellow",
+                "members": [
+                    "BLUSH",
+                    "BUBBLEGUM",
+                    "CARNATION",
+                    "CORAL"
+                ]
+            },
+            {
+                "label": "KINDS OF CARS",
+                "tier": "Green",
+                "members": [
+                    "COMPACT",
+                    "CONVERTIBLE",
+                    "HYBRID",
+                    "MANUAL"
+                ]
+            },
+            {
+                "label": "THINGS HOMER SIMPSON LIKES",
+                "tier": "Blue",
+                "members": [
+                    "BEER",
+                    "BOWLING",
+                    "DONUTS",
+                    "TELEVISION"
+                ]
+            },
+            {
+                "label": "THINGS THAT ARE POPPED",
+                "tier": "Purple",
+                "members": [
+                    "BOTTLE OF CHAMPAGNE",
+                    "POPCORN",
+                    "THE QUESTION",
+                    "WHEELIE"
+                ]
+            }
+        ]
     }
 ]
