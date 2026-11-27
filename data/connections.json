@@ -82950,5 +82950,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1264,
+        "date": "2026-11-27",
+        "has_images": false,
+        "words": [
+            "BRUSH",
+            "GRAZE",
+            "KISS",
+            "SKIM",
+            "LEOPARDESS",
+            "PEAHEN",
+            "QUEEN",
+            "VIXEN",
+            "CAMISOLE",
+            "MISTLETOE",
+            "MONARCH",
+            "PINWHEEL",
+            "ALICE WALKER",
+            "FLOWERY LANGUAGE",
+            "PRINCE",
+            "ROYALTY"
+        ],
+        "groups": [
+            {
+                "label": "TOUCH LIGHTLY",
+                "tier": "Yellow",
+                "members": [
+                    "BRUSH",
+                    "GRAZE",
+                    "KISS",
+                    "SKIM"
+                ]
+            },
+            {
+                "label": "FEMALE ANIMALS",
+                "tier": "Green",
+                "members": [
+                    "LEOPARDESS",
+                    "PEAHEN",
+                    "QUEEN",
+                    "VIXEN"
+                ]
+            },
+            {
+                "label": "ENDING IN PARTS OF THE FOOT",
+                "tier": "Blue",
+                "members": [
+                    "CAMISOLE",
+                    "MISTLETOE",
+                    "MONARCH",
+                    "PINWHEEL"
+                ]
+            },
+            {
+                "label": "ASSOCIATED WITH THE COLOR PURPLE",
+                "tier": "Purple",
+                "members": [
+                    "ALICE WALKER",
+                    "FLOWERY LANGUAGE",
+                    "PRINCE",
+                    "ROYALTY"
+                ]
+            }
+        ]
     }
 ]
