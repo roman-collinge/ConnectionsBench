@@ -83016,5 +83016,71 @@
                 ]
             }
         ]
+    },
+    {
+        "schema_version": 1,
+        "id": 1265,
+        "date": "2026-11-28",
+        "has_images": false,
+        "words": [
+            "BLAST",
+            "DARN",
+            "FUDGE",
+            "NUTS",
+            "BORDER",
+            "HEM",
+            "RIM",
+            "SKIRT",
+            "BAR",
+            "BELL",
+            "CHERRY",
+            "SEVEN",
+            "FOOD",
+            "MATE",
+            "MUSIC",
+            "PATCH"
+        ],
+        "groups": [
+            {
+                "label": "MILD OATHS",
+                "tier": "Yellow",
+                "members": [
+                    "BLAST",
+                    "DARN",
+                    "FUDGE",
+                    "NUTS"
+                ]
+            },
+            {
+                "label": "EDGE",
+                "tier": "Green",
+                "members": [
+                    "BORDER",
+                    "HEM",
+                    "RIM",
+                    "SKIRT"
+                ]
+            },
+            {
+                "label": "SYMBOLS ON A SLOT MACHINE",
+                "tier": "Blue",
+                "members": [
+                    "BAR",
+                    "BELL",
+                    "CHERRY",
+                    "SEVEN"
+                ]
+            },
+            {
+                "label": "SOUL ___",
+                "tier": "Purple",
+                "members": [
+                    "FOOD",
+                    "MATE",
+                    "MUSIC",
+                    "PATCH"
+                ]
+            }
+        ]
     }
 ]
